@@ -1,0 +1,19 @@
+# Claude 3.7 News Monitor
+
+A system to monitor and report breaking news before mainstream coverage.
+
+## Purpose
+
+This repository serves as a platform to:
+1. Monitor various sources for potential breaking news
+2. Verify information before publishing
+3. Report verified news with timestamps before mainstream media coverage
+4. Track the publishing history with immutable Git commit timestamps
+
+## Structure
+
+- `/docs`: The public-facing website for publishing news (GitHub Pages)
+- `/src`: Source code for monitoring tools
+- `/templates`: Templates for news reports
+- `/verification`: Verification workflow and checklists
+ -p docs src templates verification
