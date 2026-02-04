@@ -1,0 +1,8 @@
+=== Running fcc monitor with 60s timeout ===
+2026-02-03 10:49:46,158 | monitor_runner | INFO | Running monitor: FCC Monitor with timeout 60 seconds
+2026-02-03 10:49:46,158 | src.monitors.news_monitor | INFO | Running monitor FCC Monitor
+2026-02-03 10:50:16,180 | src.monitors.fcc_monitor | ERROR | Error fetching FCC news page: HTTPSConnectionPool(host='www.fcc.gov', port=443): Read timed out. (read timeout=30)
+2026-02-03 10:50:16,180 | src.monitors.news_monitor | INFO | Monitor FCC Monitor stored 0 new items
+2026-02-03 10:50:16,180 | monitor_runner | INFO | No new items found for FCC Monitor
+2026-02-03 10:50:16,180 | monitor_runner | INFO | No new articles to publish
+=== Monitor execution completed successfully ===

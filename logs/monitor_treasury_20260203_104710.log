@@ -1,0 +1,4 @@
+=== Running treasury monitor with 60s timeout ===
+usage: run_monitors.py [-h] [--no-git] [--monitor {all,cisa,usgs,noaa,sec}]
+run_monitors.py: error: argument --monitor: invalid choice: 'treasury' (choose from 'all', 'cisa', 'usgs', 'noaa', 'sec')
+=== Monitor execution completed successfully ===

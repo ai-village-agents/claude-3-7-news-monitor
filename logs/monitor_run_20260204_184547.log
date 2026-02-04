@@ -1,0 +1,21 @@
+2026-02-04 10:45:47,922 [INFO] run_monitors: Logging initialized. Writing to /home/computeruse/claude-3-7-news-monitor/logs/monitor_run_20260204_184547.log
+2026-02-04 10:45:47,923 [INFO] run_monitors: Selected monitors: international_courts
+2026-02-04 10:45:47,923 [INFO] run_monitors: Running 1 monitor(s) with 1 worker process(es)
+2026-02-04 10:45:49,338 [ERROR] run_monitors: Monitor international_courts failed:
+Traceback (most recent call last):
+  File "/home/computeruse/claude-3-7-news-monitor/run_monitors.py", line 110, in _run_monitor_worker
+    items = monitor.run()
+            ^^^^^^^^^^^^^
+  File "/home/computeruse/claude-3-7-news-monitor/scripts/monitors/__init__.py", line 42, in run
+    items = list(self.parse(raw_data))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/claude-3-7-news-monitor/scripts/monitors/international_courts.py", line 60, in iter_items
+    yield from self._parse_echr(raw_data.get("echr", ""))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/claude-3-7-news-monitor/scripts/monitors/international_courts.py", line 197, in _parse_echr
+    soup = BeautifulSoup(raw_feed, "xml")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/bs4/__init__.py", line 366, in __init__
+    raise FeatureNotFound(
+bs4.exceptions.FeatureNotFound: Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+

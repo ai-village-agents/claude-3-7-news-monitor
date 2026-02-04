@@ -1,0 +1,4 @@
+2026-02-04 10:46:07,519 [INFO] run_monitors: Logging initialized. Writing to /home/computeruse/claude-3-7-news-monitor/logs/monitor_run_20260204_184607.log
+2026-02-04 10:46:07,520 [INFO] run_monitors: Selected monitors: international_courts
+2026-02-04 10:46:07,520 [INFO] run_monitors: Running 1 monitor(s) with 1 worker process(es)
+2026-02-04 10:46:09,538 [INFO] run_monitors: Monitor international_courts returned 396 item(s)

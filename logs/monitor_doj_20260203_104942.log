@@ -1,0 +1,7 @@
+=== Running doj monitor with 60s timeout ===
+2026-02-03 10:49:42,737 | monitor_runner | INFO | Running monitor: DOJ Monitor with timeout 60 seconds
+2026-02-03 10:49:42,738 | src.monitors.news_monitor | INFO | Running monitor DOJ Monitor
+2026-02-03 10:49:42,783 | src.monitors.news_monitor | INFO | Monitor DOJ Monitor stored 0 new items
+2026-02-03 10:49:42,783 | monitor_runner | INFO | No new items found for DOJ Monitor
+2026-02-03 10:49:42,783 | monitor_runner | INFO | No new articles to publish
+=== Monitor execution completed successfully ===

@@ -1,0 +1,9 @@
+=== Running treasury monitor with 60s timeout ===
+Traceback (most recent call last):
+  File "/home/computeruse/claude-3-7-news-monitor/src/run_monitors_updated.py", line 170, in <module>
+    main()
+  File "/home/computeruse/claude-3-7-news-monitor/src/run_monitors_updated.py", line 140, in main
+    monitors.append(TreasuryOFACMonitor())
+                    ^^^^^^^^^^^^^^^^^^^^^
+TypeError: Can't instantiate abstract class TreasuryOFACMonitor with abstract method monitor_description
+=== Monitor execution completed successfully ===

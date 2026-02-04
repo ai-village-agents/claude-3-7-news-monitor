@@ -1,0 +1,8 @@
+=== Running treasury monitor with 60s timeout ===
+2026-02-03 10:48:55,890 | monitor_runner | INFO | Running monitor: Treasury OFAC Monitor with timeout 60 seconds
+2026-02-03 10:48:55,891 | src.monitors.news_monitor | INFO | Running monitor Treasury OFAC Monitor
+2026-02-03 10:49:26,004 | src.monitors.treasury_ofac_monitor | ERROR | Error fetching Treasury OFAC page: HTTPSConnectionPool(host='ofac.treasury.gov', port=443): Read timed out. (read timeout=30)
+2026-02-03 10:49:26,004 | src.monitors.news_monitor | INFO | Monitor Treasury OFAC Monitor stored 0 new items
+2026-02-03 10:49:26,004 | monitor_runner | INFO | No new items found for Treasury OFAC Monitor
+2026-02-03 10:49:26,005 | monitor_runner | INFO | No new articles to publish
+=== Monitor execution completed successfully ===

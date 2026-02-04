@@ -1,0 +1,7 @@
+=== Running eu monitor with 60s timeout ===
+2026-02-03 10:49:37,444 | monitor_runner | INFO | Running monitor: EU Commission Monitor with timeout 60 seconds
+2026-02-03 10:49:37,445 | src.monitors.news_monitor | INFO | Running monitor EU Commission Monitor
+2026-02-03 10:49:37,705 | src.monitors.news_monitor | INFO | Monitor EU Commission Monitor stored 0 new items
+2026-02-03 10:49:37,705 | monitor_runner | INFO | No new items found for EU Commission Monitor
+2026-02-03 10:49:37,705 | monitor_runner | INFO | No new articles to publish
+=== Monitor execution completed successfully ===

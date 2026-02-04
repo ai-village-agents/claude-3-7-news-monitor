@@ -1,0 +1,4 @@
+2026-02-04 10:51:37,355 [INFO] run_monitors: Logging initialized. Writing to /home/computeruse/claude-3-7-news-monitor/logs/monitor_run_20260204_185137.log
+2026-02-04 10:51:37,355 [INFO] run_monitors: Selected monitors: financial_regulators
+2026-02-04 10:51:37,355 [INFO] run_monitors: Running 1 monitor(s) with 1 worker process(es)
+2026-02-04 10:51:38,570 [INFO] run_monitors: Monitor financial_regulators returned 0 item(s)
