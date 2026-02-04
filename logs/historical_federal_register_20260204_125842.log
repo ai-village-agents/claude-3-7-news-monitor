@@ -1,0 +1,96 @@
+2026-02-04 12:58:42 | === Starting Federal Register historical pipeline ===
+2026-02-04 12:58:42 | Starting step 1/3: Collect historical Federal Register data (December & January)
+2026-02-04 12:58:42,768 INFO Starting batch Federal Register processing for 62 days
+2026-02-04 12:58:43,013 INFO Processed 2025-12-08 with 100 documents
+2026-02-04 12:58:43,043 INFO Processed 2025-12-05 with 100 documents
+2026-02-04 12:58:43,236 INFO Processed 2025-12-01 with 100 documents
+2026-02-04 12:58:43,391 INFO Processed 2025-12-04 with 100 documents
+2026-02-04 12:58:43,420 INFO Processed 2025-12-02 with 100 documents
+2026-02-04 12:58:43,619 INFO Processed 2025-12-06 with 100 documents
+2026-02-04 12:58:43,744 INFO Processed 2025-12-13 with 100 documents
+2026-02-04 12:58:43,931 INFO Processed 2025-12-07 with 100 documents
+2026-02-04 12:58:43,952 INFO Processed 2025-12-14 with 100 documents
+2026-02-04 12:58:44,212 INFO Processed 2025-12-03 with 100 documents
+2026-02-04 12:58:44,234 INFO Processed 2025-12-16 with 100 documents
+2026-02-04 12:58:44,274 INFO Processed 2025-12-09 with 100 documents
+2026-02-04 12:58:44,424 INFO Processed 2025-12-10 with 100 documents
+2026-02-04 12:58:44,583 INFO Processed 2025-12-18 with 100 documents
+2026-02-04 12:58:44,723 INFO Processed 2025-12-11 with 100 documents
+2026-02-04 12:58:44,893 INFO Processed 2025-12-12 with 100 documents
+2026-02-04 12:58:45,113 INFO Processed 2025-12-23 with 100 documents
+2026-02-04 12:58:45,308 INFO Processed 2025-12-24 with 100 documents
+2026-02-04 12:58:45,436 INFO Processed 2025-12-19 with 100 documents
+2026-02-04 12:58:45,458 INFO Processed 2025-12-17 with 100 documents
+2026-02-04 12:58:45,472 INFO Processed 2025-12-25 with 100 documents
+2026-02-04 12:58:45,563 INFO Processed 2025-12-15 with 100 documents
+2026-02-04 12:58:45,683 INFO Processed 2025-12-27 with 100 documents
+2026-02-04 12:58:45,691 INFO Processed 2025-12-20 with 100 documents
+2026-02-04 12:58:45,855 INFO Processed 2025-12-21 with 100 documents
+2026-02-04 12:58:45,963 INFO Processed 2025-12-28 with 100 documents
+2026-02-04 12:58:46,035 INFO Processed 2025-12-22 with 100 documents
+2026-02-04 12:58:46,074 INFO Processed 2025-12-29 with 100 documents
+2026-02-04 12:58:46,265 INFO Processed 2025-12-26 with 100 documents
+2026-02-04 12:58:46,265 INFO Processed 2025-12-31 with 100 documents
+2026-02-04 12:58:46,515 INFO Processed 2025-12-30 with 100 documents
+2026-02-04 12:58:46,543 INFO Processed 2026-01-02 with 100 documents
+2026-02-04 12:58:46,626 INFO Processed 2026-01-01 with 100 documents
+2026-02-04 12:58:46,688 INFO Processed 2026-01-03 with 100 documents
+2026-02-04 12:58:46,888 INFO Processed 2026-01-05 with 100 documents
+2026-02-04 12:58:46,913 INFO Processed 2026-01-04 with 100 documents
+2026-02-04 12:58:47,063 INFO Processed 2026-01-06 with 100 documents
+2026-02-04 12:58:47,090 INFO Processed 2026-01-07 with 100 documents
+2026-02-04 12:58:47,296 INFO Processed 2026-01-08 with 100 documents
+2026-02-04 12:58:47,331 INFO Processed 2026-01-11 with 100 documents
+2026-02-04 12:58:47,554 INFO Processed 2026-01-09 with 100 documents
+2026-02-04 12:58:47,684 INFO Processed 2026-01-10 with 100 documents
+2026-02-04 12:58:47,713 INFO Processed 2026-01-12 with 100 documents
+2026-02-04 12:58:47,744 INFO Processed 2026-01-15 with 100 documents
+2026-02-04 12:58:47,839 INFO Processed 2026-01-13 with 100 documents
+2026-02-04 12:58:47,935 INFO Processed 2026-01-17 with 100 documents
+2026-02-04 12:58:48,055 INFO Processed 2026-01-14 with 100 documents
+2026-02-04 12:58:48,085 INFO Processed 2026-01-18 with 100 documents
+2026-02-04 12:58:48,239 INFO Processed 2026-01-16 with 100 documents
+2026-02-04 12:58:48,274 INFO Processed 2026-01-23 with 100 documents
+2026-02-04 12:58:48,461 INFO Processed 2026-01-19 with 100 documents
+2026-02-04 12:58:48,510 INFO Processed 2026-01-24 with 100 documents
+2026-02-04 12:58:48,685 INFO Processed 2026-01-20 with 100 documents
+2026-02-04 12:58:48,701 INFO Processed 2026-01-25 with 100 documents
+2026-02-04 12:58:48,842 INFO Processed 2026-01-21 with 100 documents
+2026-02-04 12:58:48,870 INFO Processed 2026-01-28 with 100 documents
+2026-02-04 12:58:49,049 INFO Processed 2026-01-22 with 100 documents
+2026-02-04 12:58:49,106 INFO Processed 2026-01-29 with 100 documents
+2026-02-04 12:58:49,248 INFO Processed 2026-01-26 with 100 documents
+2026-02-04 12:58:49,290 INFO Processed 2026-01-31 with 100 documents
+2026-02-04 12:58:49,429 INFO Processed 2026-01-27 with 100 documents
+2026-02-04 12:58:49,643 INFO Processed 2026-01-30 with 100 documents
+2026-02-04 12:58:49,646 INFO Completed batch Federal Register processing
+2026-02-04 12:58:49 | Completed step 1/3: Collect historical Federal Register data (December & January)
+2026-02-04 12:58:49 | Starting step 2/3: Process historical backlog into publishable format
+2026-02-04 12:58:49,749 | INFO | Loading 62 history file(s) using up to 8 worker(s)
+2026-02-04 12:58:49,891 | INFO | Collected 100 unique notice(s)
+2026-02-04 12:58:49,892 | INFO | Wrote combined backlog to federal_register_results.txt
+2026-02-04 12:58:49 | Completed step 2/3: Process historical backlog into publishable format
+2026-02-04 12:58:49 | Starting step 3/3: Publish historical backlog stories
+2026-02-04 12:58:49,968 | INFO | Starting backlog publishing process
+2026-02-04 12:58:49,968 | INFO | Processing backlog from /home/computeruse/claude-3-7-news-monitor/federal_register_results.txt
+2026-02-04 12:58:49,970 | INFO | Found 100 items in /home/computeruse/claude-3-7-news-monitor/federal_register_results.txt
+2026-02-04 12:58:49,970 | INFO | Processing backlog from /home/computeruse/claude-3-7-news-monitor/europol_results.txt
+2026-02-04 12:58:49,971 | INFO | Found 12 items in /home/computeruse/claude-3-7-news-monitor/europol_results.txt
+2026-02-04 12:58:49,971 | INFO | Total items to publish: 112
+2026-02-04 12:58:49,981 | INFO | Found 137 existing HTML files
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Celebrating American Greatness With American Motor Racing
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Using Trawl Gear in the Central Regulatory Area of the Gulf of Alaska
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Coastal Migratory Pelagic Resources of the Gulf of America and Atlantic Region; 2025-2026 Commercial Closure for Spanish Mackerel in the Atlantic Southern Zone
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Conforming Change to the Export Administration Regulations for Cambodia
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Notice of Public Meeting of the Colorado Advisory Committee to the U.S. Commission on Civil Rights
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Endangered and Threatened Wildlife and Plants; Endangered Species Status for Fish Lake Valley Tui Chub
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Section 45Z Clean Fuel Production Credit
+2026-02-04 12:58:49,990 | INFO | Skipping already published: New Postal Products
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Duke Energy Carolinas, LLC; Belews Creek; Early Site Permit Application
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Office of the Assistant Secretary for Research and Technology; Request for Information-Research To Support Establishing a National Strategy for Transportation Digital Infrastructure
+2026-02-04 12:58:49,990 | INFO | Skipping already published: Polyethylene Terephthalate (PET) Sheet From South Korea; Termination of Five-Year Review
+2026-02-04 12:58:49,991 | INFO | Skipping already published: Privacy Act; Systems of Records
+2026-02-04 12:58:49,991 | INFO | Skipping already published: Civil Service Retirement System and Federal Employees' Retirement System: Secondary Position Definitions
+2026-02-04 12:58:49,991 | INFO | Publishing: Bulk Manufacturer of Controlled Substances Application: S & B Pharma LLC DBA Norac Pharma
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/bulk-manufacturer-of-controlled-substances-applica/index.html
+Updated index.html with article: Bulk Manufacturer of Controlled Substances Application: S & B Pharma LLC DBA Norac Pharma
