@@ -384,3 +384,14 @@ Article published and pushed to GitHub: Paxos Securities Settlement Company, LLC
 2026-02-04 11:59:16,539 | INFO | Publishing: Gulf Fishery Management Council; Public Meeting
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/gulf-fishery-management-council-public-meeting/index.html
 Updated index.html with article: Gulf Fishery Management Council; Public Meeting
+[main 4e41728] Add breaking news: Gulf Fishery Management Council; Public Meeting
+ 3 files changed, 45 insertions(+)
+ create mode 100644 docs/gulf-fishery-management-council-public-meeting/index.html
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   2f45e1b..4e41728  main -> main
+Article published and pushed to GitHub: Gulf Fishery Management Council; Public Meeting
+2026-02-04 11:59:17,368 | INFO | Successfully published: Gulf Fishery Management Council; Public Meeting
+2026-02-04 11:59:20,368 | INFO | Skipping already published: Gulf Fishery Management Council; Public Meeting
+2026-02-04 11:59:20,368 | INFO | Publishing: Western Pacific Fishery Management Council; Public Meetings
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/western-pacific-fishery-management-council-public-/index.html
+Updated index.html with article: Western Pacific Fishery Management Council; Public Meetings
