@@ -871,3 +871,8 @@ To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
    353c108..d972301  main -> main
 Article published and pushed to GitHub: OTF GRIMM: Swedish teenager arrested for prison shooting in the Netherlands
 2026-02-04 12:03:06,747 | INFO | Successfully published: OTF GRIMM: Swedish teenager arrested for prison shooting in the Netherlands
+2026-02-04 12:03:09,748 | INFO | Skipping already published: Wanted Polish sex offender arrested in France following EU Most Wanted tip
+2026-02-04 12:03:09,748 | INFO | Skipping already published: Large migrant smuggling operation in Bulgaria leads to 16 arrests
+2026-02-04 12:03:09,748 | INFO | Publishing: Europol report: evolving tactics in maritime cocaine trafficking operations
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/europol-report-evolving-tactics-in-maritime-cocain/index.html
+Updated index.html with article: Europol report: evolving tactics in maritime cocaine trafficking operations
