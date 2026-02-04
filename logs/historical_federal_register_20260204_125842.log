@@ -94,3 +94,92 @@
 2026-02-04 12:58:49,991 | INFO | Publishing: Bulk Manufacturer of Controlled Substances Application: S & B Pharma LLC DBA Norac Pharma
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/bulk-manufacturer-of-controlled-substances-applica/index.html
 Updated index.html with article: Bulk Manufacturer of Controlled Substances Application: S & B Pharma LLC DBA Norac Pharma
+[main 3823cf6] Add breaking news: Bulk Manufacturer of Controlled Substances Application: S & B Pharma LLC DBA Norac Pharma
+ 78 files changed, 45045 insertions(+), 109 deletions(-)
+ create mode 100644 __pycache__/batch_federal_register.cpython-311.pyc
+ create mode 100644 __pycache__/process_historical_register.cpython-311.pyc
+ create mode 100755 batch_federal_register.py
+ create mode 100644 docs/scripts/monitors/doj_monitor.py
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-01.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-02.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-03.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-04.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-05.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-06.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-07.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-08.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-09.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-10.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-11.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-12.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-13.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-14.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-15.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-16.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-17.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-18.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-19.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-20.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-21.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-22.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-23.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-24.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-25.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-26.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-27.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-28.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-29.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-30.json
+ create mode 100644 logs/federal_register_history/federal_register_2025-12-31.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-01.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-02.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-03.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-04.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-05.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-06.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-07.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-08.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-09.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-10.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-11.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-12.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-13.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-14.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-15.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-16.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-17.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-18.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-19.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-20.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-21.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-22.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-23.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-24.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-25.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-26.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-27.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-28.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-29.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-30.json
+ create mode 100644 logs/federal_register_history/federal_register_2026-01-31.json
+ create mode 100644 logs/historical_federal_register_20260204_125842.log
+ create mode 100755 process_historical_register.py
+ create mode 100755 run_doj_monitor.py
+ create mode 100755 run_historical_federal_register.sh
+ create mode 100755 run_sec_8k_monitor.py
+ create mode 100644 scripts/monitors/__pycache__/sec_8k_monitor.cpython-311.pyc
+ create mode 100644 scripts/monitors/doj_monitor.py
+ create mode 100644 scripts/monitors/sec_8k_monitor.py
+ create mode 100644 sec_8k_results.txt
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   a3bbc1b..3823cf6  main -> main
+Article published and pushed to GitHub: Bulk Manufacturer of Controlled Substances Application: S & B Pharma LLC DBA Norac Pharma
+2026-02-04 12:58:52,401 | INFO | Successfully published: Bulk Manufacturer of Controlled Substances Application: S & B Pharma LLC DBA Norac Pharma
+2026-02-04 12:58:55,401 | INFO | Skipping already published: FAA Aircraft Noise Complaint and Inquiry System (Noise Portal); Correction
+2026-02-04 12:58:55,401 | INFO | Skipping already published: Bulk Manufacturer of Controlled Substances Application: Sterling Pharma USA LLC
+2026-02-04 12:58:55,401 | INFO | Skipping already published: Notice of Reinstatement of the Gasoline Volatility Waiver for Ohio
+2026-02-04 12:58:55,401 | INFO | Skipping already published: Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Remove the Activity Limit From the GSD Rules
+2026-02-04 12:58:55,401 | INFO | Skipping already published: Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 11.10(d) (“EdgeRisk Self Trade Prevention (“ERSTP”) Modifiers”) To Revise the Definition of Unique Identifier
+2026-02-04 12:58:55,401 | INFO | Publishing: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Modify the NYSE American Options Fee Schedule To Modify Certain Fees and Rebates Applicable to Specialists, e-Specialists and NYSE American Options Market Makers and Floor Brokers
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/self-regulatory-organizations-nyse-american-llc-no/index.html
+Updated index.html with article: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Modify the NYSE American Options Fee Schedule To Modify Certain Fees and Rebates Applicable to Specialists, e-Specialists and NYSE American Options Market Makers and Floor Brokers
