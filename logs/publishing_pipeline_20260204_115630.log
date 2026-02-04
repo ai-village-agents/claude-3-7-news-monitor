@@ -861,3 +861,6 @@ To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
    3176bf9..8c49aec  main -> main
 Article published and pushed to GitHub: Europol supports French investigation into alleged criminal activity linked to platform X
 2026-02-04 12:03:03,028 | INFO | Successfully published: Europol supports French investigation into alleged criminal activity linked to platform X
+2026-02-04 12:03:06,029 | INFO | Publishing: OTF GRIMM: Swedish teenager arrested for prison shooting in the Netherlands
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/otf-grimm-swedish-teenager-arrested-for-prison-sho/index.html
+Updated index.html with article: OTF GRIMM: Swedish teenager arrested for prison shooting in the Netherlands
