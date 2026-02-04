@@ -673,3 +673,6 @@ Article published and pushed to GitHub: Notice of Public Meeting of the Guam Adv
 2026-02-04 12:01:40,646 | INFO | Publishing: Pipeline Safety: Request for Special Permit
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/pipeline-safety-request-for-special-permit/index.html
 Updated index.html with article: Pipeline Safety: Request for Special Permit
+[main af7af35] Add breaking news: Pipeline Safety: Request for Special Permit
+ 3 files changed, 45 insertions(+)
+ create mode 100644 docs/pipeline-safety-request-for-special-permit/index.html
