@@ -196,3 +196,27 @@ Article published and pushed to GitHub: Self-Regulatory Organizations; NYSE Amer
 2026-02-04 12:58:59,235 | INFO | Publishing: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/self-regulatory-organizations-nyse-american-llc-no/index.html
 Updated index.html with article: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide
+[main 955bfb3] Add breaking news: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide
+ 3 files changed, 24 insertions(+), 4 deletions(-)
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   8c008ea..955bfb3  main -> main
+Article published and pushed to GitHub: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide
+2026-02-04 12:58:59,902 | INFO | Successfully published: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide
+2026-02-04 12:59:02,902 | INFO | Skipping already published: Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 11.9(f) (“Match Trade Prevention (“MTP”) Modifiers”) To Revise the Definition of Unique Identifier
+2026-02-04 12:59:02,902 | INFO | Skipping already published: Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 11.9(f) (“Match Trade Prevention (“MTP”) Modifiers) To Revise the Definition of Unique Identifier
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 11.10(d) (“EdgeRisk Self Trade Prevention (“ERSTP”) Modifiers”) To Revise the Definition of Unique Identifier
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Notice of OFAC Sanctions Action
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Summer Food Service Program; 2026 Reimbursement Rates
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Agency Information Collection Activities: Proposed Collection; Comment Request
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Deregistration Under Section 8(f) of the Investment Company Act of 1940
+2026-02-04 12:59:02,903 | INFO | Skipping already published: International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Oil Country Tubular Goods From India, South Korea, Turkey, Ukraine, and Vietnam; Notice of Commission Determination To Conduct Full Five-Year Reviews
+2026-02-04 12:59:02,903 | INFO | Skipping already published: TITLE: Notice of Public Meeting To Prepare for International Maritime Organization SSE 12 Session
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Agency Information Collection Activity: Readjustment Counseling Service Scholarship Program (RCSSP)
+2026-02-04 12:59:02,903 | INFO | Skipping already published: North Pacific Albacore United States Stakeholder Meeting; Meeting Announcement
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Addressing Threats to the United States by the Government of Cuba
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Addressing Addiction Through the Great American Recovery Initiative
+2026-02-04 12:59:02,903 | INFO | Skipping already published: Year of Celebration and Rededication, 2026
+2026-02-04 12:59:02,903 | INFO | Publishing: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; 2026 Operational Test in Support of the 2030 Census
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-submissio/index.html
+Updated index.html with article: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; 2026 Operational Test in Support of the 2030 Census
