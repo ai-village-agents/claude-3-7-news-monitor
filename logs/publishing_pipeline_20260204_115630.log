@@ -757,3 +757,6 @@ To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
    1ce5f12..4b27290  main -> main
 Article published and pushed to GitHub: DEKRA Certification Inc.: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards
 2026-02-04 12:02:17,307 | INFO | Successfully published: DEKRA Certification Inc.: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards
+2026-02-04 12:02:20,308 | INFO | Publishing: Agency Information Collection Activities; Submission for OMB Review; National Compensation Survey
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-submissio/index.html
+Updated index.html with article: Agency Information Collection Activities; Submission for OMB Review; National Compensation Survey
