@@ -714,3 +714,6 @@ Article published and pushed to GitHub: Qualification of Drivers; Exemption Appl
 2026-02-04 12:01:59,876 | INFO | Publishing: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-submissio/index.html
 Updated index.html with article: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+[main 3db8ea7] Add breaking news: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+ 3 files changed, 50 insertions(+), 28 deletions(-)
+ rewrite docs/agency-information-collection-activities-submissio/index.html (67%)
