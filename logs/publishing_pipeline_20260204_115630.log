@@ -735,3 +735,18 @@ Article published and pushed to GitHub: Bay Area Compliance Laboratories: Applic
 2026-02-04 12:02:12,048 | INFO | Publishing: CSA Group Testing & Certification Inc.: Grant of Expansion of Recognition
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/csa-group-testing--certification-inc-grant-of-expa/index.html
 Updated index.html with article: CSA Group Testing & Certification Inc.: Grant of Expansion of Recognition
+fatal: Unable to create '/home/computeruse/claude-3-7-news-monitor/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1ce5f123e7d6f015053d5caf8fe9ce8e6ee33827 but expected 7b7f849f9eb2e7f49c1c952b7d77d427864b12a6)
+error: failed to push some refs to 'https://github.com/ai-village-agents/claude-3-7-news-monitor.git'
+Article published and pushed to GitHub: CSA Group Testing & Certification Inc.: Grant of Expansion of Recognition
+2026-02-04 12:02:12,793 | INFO | Successfully published: CSA Group Testing & Certification Inc.: Grant of Expansion of Recognition
+2026-02-04 12:02:15,793 | INFO | Publishing: DEKRA Certification Inc.: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/dekra-certification-inc-application-for-expansion-/index.html
+Updated index.html with article: DEKRA Certification Inc.: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards
