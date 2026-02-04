@@ -475,3 +475,13 @@ Article published and pushed to GitHub: Application Deadline for Fiscal Year 202
 2026-02-04 11:59:56,667 | INFO | Publishing: United States v. Columbus McKinnon Corp., et al.; Proposed Final Judgment and Competitive Impact Statement
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/united-states-v-columbus-mckinnon-corp-et-al-propo/index.html
 Updated index.html with article: United States v. Columbus McKinnon Corp., et al.; Proposed Final Judgment and Competitive Impact Statement
+[main f118ca2] Add breaking news: United States v. Columbus McKinnon Corp., et al.; Proposed Final Judgment and Competitive Impact Statement
+ 3 files changed, 45 insertions(+)
+ create mode 100644 docs/united-states-v-columbus-mckinnon-corp-et-al-propo/index.html
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   c24f022..f118ca2  main -> main
+Article published and pushed to GitHub: United States v. Columbus McKinnon Corp., et al.; Proposed Final Judgment and Competitive Impact Statement
+2026-02-04 11:59:58,171 | INFO | Successfully published: United States v. Columbus McKinnon Corp., et al.; Proposed Final Judgment and Competitive Impact Statement
+2026-02-04 12:00:01,171 | INFO | Publishing: Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing; Additional Extension of HUD Compliance Dates
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/final-determination-adoption-of-energy-efficiency-/index.html
+Updated index.html with article: Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing; Additional Extension of HUD Compliance Dates
