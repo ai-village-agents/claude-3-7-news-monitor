@@ -254,3 +254,13 @@ Article published and pushed to GitHub: North Pacific Albacore United States Sta
 2026-02-04 11:58:15,767 | INFO | Publishing: Addressing Threats to the United States by the Government of Cuba
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/addressing-threats-to-the-united-states-by-the-gov/index.html
 Updated index.html with article: Addressing Threats to the United States by the Government of Cuba
+[main 4125df0] Add breaking news: Addressing Threats to the United States by the Government of Cuba
+ 3 files changed, 45 insertions(+)
+ create mode 100644 docs/addressing-threats-to-the-united-states-by-the-gov/index.html
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   d5c858f..4125df0  main -> main
+Article published and pushed to GitHub: Addressing Threats to the United States by the Government of Cuba
+2026-02-04 11:58:19,261 | INFO | Successfully published: Addressing Threats to the United States by the Government of Cuba
+2026-02-04 11:58:22,261 | INFO | Publishing: Addressing Addiction Through the Great American Recovery Initiative
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/addressing-addiction-through-the-great-american-re/index.html
+Updated index.html with article: Addressing Addiction Through the Great American Recovery Initiative
