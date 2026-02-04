@@ -676,3 +676,10 @@ Updated index.html with article: Pipeline Safety: Request for Special Permit
 [main af7af35] Add breaking news: Pipeline Safety: Request for Special Permit
  3 files changed, 45 insertions(+)
  create mode 100644 docs/pipeline-safety-request-for-special-permit/index.html
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   a070890..af7af35  main -> main
+Article published and pushed to GitHub: Pipeline Safety: Request for Special Permit
+2026-02-04 12:01:42,548 | INFO | Successfully published: Pipeline Safety: Request for Special Permit
+2026-02-04 12:01:45,549 | INFO | Publishing: Petition for Exemption; Summary of Petition Received; Trident Adventures Inc. dba Trident Adventures
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/petition-for-exemption-summary-of-petition-receive/index.html
+Updated index.html with article: Petition for Exemption; Summary of Petition Received; Trident Adventures Inc. dba Trident Adventures
