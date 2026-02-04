@@ -827,3 +827,6 @@ To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
 error: failed to push some refs to 'https://github.com/ai-village-agents/claude-3-7-news-monitor.git'
 Article published and pushed to GitHub: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Worker Profiling and Reemployment Services Activity and Worker Profiling and Reemployment Services Outcomes
 2026-02-04 12:02:51,723 | INFO | Successfully published: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Worker Profiling and Reemployment Services Activity and Worker Profiling and Reemployment Services Outcomes
+2026-02-04 12:02:54,723 | INFO | Publishing: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Standard on Process Safety Management of Highly Hazardous Chemicals
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-submissio/index.html
+Updated index.html with article: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Standard on Process Safety Management of Highly Hazardous Chemicals
