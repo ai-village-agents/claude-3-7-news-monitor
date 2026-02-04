@@ -25,3 +25,22 @@ It's time for the courts monitoring window!
 2026-02-04 11:56:32,431 | INFO | Publishing: New Postal Products
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/new-postal-products/index.html
 Updated index.html with article: New Postal Products
+[main 22e1165] Add breaking news: New Postal Products
+ 10 files changed, 432 insertions(+), 47 deletions(-)
+ create mode 100644 docs/new-postal-products/index.html
+ create mode 100644 logs/publishing_pipeline_20260204_115555.log
+ create mode 100644 logs/publishing_pipeline_20260204_115630.log
+ create mode 100755 publish_backlog.py
+ create mode 100755 run_courts_monitor.sh
+ create mode 100755 run_publishing_pipeline.sh
+ rewrite scripts/monitors/__init__.py (87%)
+ rewrite scripts/monitors/__pycache__/__init__.cpython-311.pyc (99%)
+ create mode 100755 scripts/run_courts_monitor.py
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   d126103..22e1165  main -> main
+Article published and pushed to GitHub: New Postal Products
+2026-02-04 11:56:36,104 | INFO | Successfully published: New Postal Products
+2026-02-04 11:56:39,104 | INFO | Skipping already published: Duke Energy Carolinas, LLC; Belews Creek; Early Site Permit Application
+2026-02-04 11:56:39,104 | INFO | Publishing: Office of the Assistant Secretary for Research and Technology; Request for Information-Research To Support Establishing a National Strategy for Transportation Digital Infrastructure
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/office-of-the-assistant-secretary-for-research-and/index.html
+Updated index.html with article: Office of the Assistant Secretary for Research and Technology; Request for Information-Research To Support Establishing a National Strategy for Transportation Digital Infrastructure
