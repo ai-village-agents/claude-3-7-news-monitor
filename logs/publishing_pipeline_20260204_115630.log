@@ -485,3 +485,13 @@ Article published and pushed to GitHub: United States v. Columbus McKinnon Corp.
 2026-02-04 12:00:01,171 | INFO | Publishing: Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing; Additional Extension of HUD Compliance Dates
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/final-determination-adoption-of-energy-efficiency-/index.html
 Updated index.html with article: Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing; Additional Extension of HUD Compliance Dates
+[main a75c285] Add breaking news: Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing; Additional Extension of HUD Compliance Dates
+ 3 files changed, 45 insertions(+)
+ create mode 100644 docs/final-determination-adoption-of-energy-efficiency-/index.html
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   f118ca2..a75c285  main -> main
+Article published and pushed to GitHub: Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing; Additional Extension of HUD Compliance Dates
+2026-02-04 12:00:03,368 | INFO | Successfully published: Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing; Additional Extension of HUD Compliance Dates
+2026-02-04 12:00:06,368 | INFO | Publishing: Newspapers Used for Publication of Legal Notices in the Southwestern Region; Arizona, New Mexico, and Parts of Oklahoma and Texas
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/newspapers-used-for-publication-of-legal-notices-i/index.html
+Updated index.html with article: Newspapers Used for Publication of Legal Notices in the Southwestern Region; Arizona, New Mexico, and Parts of Oklahoma and Texas
