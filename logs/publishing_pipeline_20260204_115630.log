@@ -788,3 +788,6 @@ To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
    0a0da46..c9d5563  main -> main
 Article published and pushed to GitHub: Modification to the List of Appropriate NRTL Program Test Standards and the Scope of Recognition of Several NRTLs
 2026-02-04 12:02:30,668 | INFO | Successfully published: Modification to the List of Appropriate NRTL Program Test Standards and the Scope of Recognition of Several NRTLs
+2026-02-04 12:02:33,668 | INFO | Publishing: Agency Information Collection Activities; Comment Request; CW-1 Application for Temporary Employment Certification
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-comment-r/index.html
+Updated index.html with article: Agency Information Collection Activities; Comment Request; CW-1 Application for Temporary Employment Certification
