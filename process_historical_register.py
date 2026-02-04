@@ -13,10 +13,10 @@ from __future__ import annotations
 import argparse
 import json
 import logging
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Dict, Iterable, List, Optional, Set, Tuple
 
 
 DEFAULT_INPUT_DIR = Path("logs/federal_register_history")
@@ -98,6 +98,21 @@ def load_json_file(path: Path) -> Iterable[Dict[str, object]]:
     return results
 
 
+def derive_batch_marker(path: Path) -> str:
+    """
+    Construct a stable per-file identifier used for deduplication.
+
+    The historical exports are named like ``federal_register_YYYY-MM-DD.json``.
+    We strip the common prefix so the marker is easier to read in logs/output,
+    but fall back to the stem if the format ever changes.
+    """
+    stem = path.stem
+    prefix = "federal_register_"
+    if stem.startswith(prefix):
+        return stem[len(prefix) :]
+    return stem
+
+
 def normalize_iso_timestamp(raw_value: str) -> Tuple[str, datetime]:
     """
     Convert an ISO-8601 string into a display timestamp and datetime object.
@@ -129,21 +144,41 @@ def sanitise_summary(text: Optional[str]) -> str:
 
 def collect_items(file_paths: List[Path], max_workers: int) -> List[Dict[str, object]]:
     """
-    Concurrently load JSON entries from disk and return a de-duplicated list.
+    Concurrently load JSON entries from disk and return a combined list.
 
-    Deduplication is performed using document URLs which are stable across fetches.
-    The most recent entry wins if duplicates are encountered.
+    Entries remain unique per batch file so we can surface the full historical
+    backlog. Within a given file we still deduplicate by URL to guard against
+    accidental duplicates in the export itself.
     """
     logger.info("Loading %d history file(s) using up to %d worker(s)", len(file_paths), max_workers)
-    items_by_url: Dict[str, Dict[str, object]] = {}
+    raw_entries = 0
+    items: List[Dict[str, object]] = []
+    seen_keys: Set[Tuple[str, str]] = set()
 
     # ThreadPoolExecutor keeps I/O saturated when many history files are present.
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        for entries in executor.map(load_json_file, file_paths):
+        future_map = {executor.submit(load_json_file, path): path for path in file_paths}
+
+        for future in as_completed(future_map):
+            path = future_map[future]
+            try:
+                entries = future.result()
+            except Exception as exc:  # noqa: BLE001
+                logger.error("Failed to load %s: %s", path, exc)
+                continue
+
+            batch_marker = derive_batch_marker(path)
+
             for entry in entries:
+                raw_entries += 1
                 url = entry.get("url")
                 if not url:
                     continue
+
+                dedupe_key = (url, batch_marker)
+                if dedupe_key in seen_keys:
+                    continue
+
                 summary = sanitise_summary(entry.get("content"))
                 try:
                     timestamp_raw = str(entry.get("date"))
@@ -152,17 +187,25 @@ def collect_items(file_paths: List[Path], max_workers: int) -> List[Dict[str, ob
                     logger.debug("Skipping entry due to timestamp parsing error: %s", exc)
                     continue
 
-                items_by_url[url] = {
-                    "title": str(entry.get("title", "")).strip() or "Untitled Federal Register notice",
-                    "source": str(entry.get("source", "Federal Register")) or "Federal Register",
-                    "url": url,
-                    "summary": summary,
-                    "display_timestamp": display_ts,
-                    "datetime": dt_obj,
-                }
+                seen_keys.add(dedupe_key)
+                items.append(
+                    {
+                        "title": str(entry.get("title", "")).strip() or "Untitled Federal Register notice",
+                        "source": str(entry.get("source", "Federal Register")) or "Federal Register",
+                        "url": url,
+                        "summary": summary,
+                        "display_timestamp": display_ts,
+                        "datetime": dt_obj,
+                        "batch_marker": batch_marker,
+                    }
+                )
 
-    items = list(items_by_url.values())
-    logger.info("Collected %d unique notice(s)", len(items))
+    logger.info(
+        "Collected %d backlog notice(s) from %d raw entr%s",
+        len(items),
+        raw_entries,
+        "y" if raw_entries == 1 else "ies",
+    )
     return items
 
 
@@ -193,15 +236,21 @@ def format_backlog(items: List[Dict[str, object]], tag: str) -> str:
     separator = "-" * 80
 
     for item in items:
-        body_lines.extend(
+        entry_lines = [
+            f"{tag} {item['display_timestamp']} | {item['title']}",
+            f"Source: {item['source']}",
+        ]
+        batch_marker = item.get("batch_marker")
+        if batch_marker:
+            entry_lines.append(f"Batch File: {batch_marker}")
+        entry_lines.extend(
             [
-                f"{tag} {item['display_timestamp']} | {item['title']}",
-                f"Source: {item['source']}",
                 f"URL: {item['url']}",
                 item["summary"],
                 separator,
             ]
         )
+        body_lines.extend(entry_lines)
 
     # Drop trailing separator for neatness.
     if body_lines and body_lines[-1] == separator:

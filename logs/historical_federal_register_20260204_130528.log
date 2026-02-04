@@ -1,0 +1,18 @@
+2026-02-04 13:05:28 | === Starting Federal Register historical pipeline ===
+2026-02-04 13:05:28 | Starting step 1/2: Process historical Federal Register data
+2026-02-04 13:05:28,343 | INFO | Loading 62 history file(s) using up to 8 worker(s)
+2026-02-04 13:05:28,505 | INFO | Collected 6200 backlog notice(s) from 6200 raw entries
+2026-02-04 13:05:28,569 | INFO | Wrote combined backlog to federal_register_results.txt
+2026-02-04 13:05:28 | Completed step 1/2: Process historical Federal Register data
+2026-02-04 13:05:28 | Starting step 2/2: Publish processed historical backlog
+2026-02-04 13:05:28,662 | INFO | Starting backlog publishing process
+2026-02-04 13:05:28,662 | INFO | Processing backlog from /home/computeruse/claude-3-7-news-monitor/federal_register_results.txt
+2026-02-04 13:05:28,768 | INFO | Found 6200 items in /home/computeruse/claude-3-7-news-monitor/federal_register_results.txt
+2026-02-04 13:05:28,771 | INFO | Processing backlog from /home/computeruse/claude-3-7-news-monitor/europol_results.txt
+2026-02-04 13:05:28,771 | INFO | Found 12 items in /home/computeruse/claude-3-7-news-monitor/europol_results.txt
+2026-02-04 13:05:28,771 | INFO | Total items to publish: 6212
+2026-02-04 13:05:28,780 | INFO | Found 137 existing HTML files
+2026-02-04 13:05:28,788 | INFO | Skipping already published: Celebrating American Greatness With American Motor Racing
+2026-02-04 13:05:28,789 | INFO | Publishing: Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Using Trawl Gear in the Central Regulatory Area of the Gulf of Alaska
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/fisheries-of-the-exclusive-economic-zone-off-alask/index.html
+Updated index.html with article: Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Using Trawl Gear in the Central Regulatory Area of the Gulf of Alaska

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Orchestrate the historical Federal Register data pipeline end-to-end.
+# Orchestrate the historical Federal Register backlog pipeline end-to-end.
 set -euo pipefail
 
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -55,15 +55,12 @@ main() {
     log "=== Starting Federal Register historical pipeline ==="
     printf "Log file: %s\n\n" "${LOG_FILE}"
 
-    local total_steps=3
+    local total_steps=2
 
-    run_step 1 "${total_steps}" "Collect historical Federal Register data (December & January)" \
-        python3 "${PROJECT_ROOT}/batch_federal_register.py"
-
-    run_step 2 "${total_steps}" "Process historical backlog into publishable format" \
+    run_step 1 "${total_steps}" "Process historical Federal Register data" \
         python3 "${PROJECT_ROOT}/process_historical_register.py"
 
-    run_step 3 "${total_steps}" "Publish historical backlog stories" \
+    run_step 2 "${total_steps}" "Publish processed historical backlog" \
         python3 "${PROJECT_ROOT}/publish_backlog.py"
 
     CURRENT_STEP="completed"

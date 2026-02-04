@@ -358,3 +358,27 @@ Article published and pushed to GitHub: Agency Information Collection Activities
 2026-02-04 12:59:46,573 | INFO | Publishing: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Standard on Process Safety Management of Highly Hazardous Chemicals
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-submissio/index.html
 Updated index.html with article: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Standard on Process Safety Management of Highly Hazardous Chemicals
+[main 8ca7c45] Add breaking news: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Standard on Process Safety Management of Highly Hazardous Chemicals
+ 3 files changed, 21 insertions(+), 5 deletions(-)
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   368c1f2..8ca7c45  main -> main
+Article published and pushed to GitHub: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Standard on Process Safety Management of Highly Hazardous Chemicals
+2026-02-04 12:59:47,548 | INFO | Successfully published: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Standard on Process Safety Management of Highly Hazardous Chemicals
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Income and Eligibility Verification System Confidentiality
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Europol supports French investigation into alleged criminal activity linked to platform X
+2026-02-04 12:59:50,549 | INFO | Skipping already published: OTF GRIMM: Swedish teenager arrested for prison shooting in the Netherlands
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Wanted Polish sex offender arrested in France following EU Most Wanted tip
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Large migrant smuggling operation in Bulgaria leads to 16 arrests
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Europol report: evolving tactics in maritime cocaine trafficking operations
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Joint report outlines practical approach to prioritising post-quantum cryptography migration in financial services
+2026-02-04 12:59:50,549 | INFO | Skipping already published: 24 industrial-scale labs dismantled in the largest-ever operation against synthetic drugs
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Europol signs Working Arrangement with the Argentine Republic
+2026-02-04 12:59:50,549 | INFO | Skipping already published: OTF GRIMM: Swedish organiser of serious violence arrested in Iraq
+2026-02-04 12:59:50,549 | INFO | Skipping already published: 34 arrests in Spain during action against the ‘Black Axe’ criminal organisation
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Law enforcement challenges major cocaine supply chains into Europe
+2026-02-04 12:59:50,549 | INFO | Skipping already published: Firm stand against migrant smuggling: global alliance convened in Brussels
+2026-02-04 12:59:50,549 | INFO | Published 14 new stories from backlog
+2026-02-04 12:59:50 | Completed step 3/3: Publish historical backlog stories
+2026-02-04 12:59:50 | === Historical pipeline finished successfully ===
