@@ -703,3 +703,6 @@ Article published and pushed to GitHub: Proposed Collection; Request for Comment
 2026-02-04 12:01:55,521 | INFO | Publishing: Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/qualification-of-drivers-exemption-applications-ep/index.html
 Updated index.html with article: Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders
+[main 95bac83] Add breaking news: Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders
+ 3 files changed, 42 insertions(+)
+ create mode 100644 docs/qualification-of-drivers-exemption-applications-ep/index.html
