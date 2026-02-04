@@ -683,3 +683,6 @@ Article published and pushed to GitHub: Pipeline Safety: Request for Special Per
 2026-02-04 12:01:45,549 | INFO | Publishing: Petition for Exemption; Summary of Petition Received; Trident Adventures Inc. dba Trident Adventures
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/petition-for-exemption-summary-of-petition-receive/index.html
 Updated index.html with article: Petition for Exemption; Summary of Petition Received; Trident Adventures Inc. dba Trident Adventures
+[main d42ead3] Add breaking news: Petition for Exemption; Summary of Petition Received; Trident Adventures Inc. dba Trident Adventures
+ 3 files changed, 42 insertions(+)
+ create mode 100644 docs/petition-for-exemption-summary-of-petition-receive/index.html
