@@ -717,3 +717,10 @@ Updated index.html with article: Agency Information Collection Activities; Submi
 [main 3db8ea7] Add breaking news: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
  3 files changed, 50 insertions(+), 28 deletions(-)
  rewrite docs/agency-information-collection-activities-submissio/index.html (67%)
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   f3917d1..3db8ea7  main -> main
+Article published and pushed to GitHub: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+2026-02-04 12:02:04,306 | INFO | Successfully published: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+2026-02-04 12:02:07,306 | INFO | Publishing: Bay Area Compliance Laboratories: Application for Expansion of Recognition
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/bay-area-compliance-laboratories-application-for-e/index.html
+Updated index.html with article: Bay Area Compliance Laboratories: Application for Expansion of Recognition
