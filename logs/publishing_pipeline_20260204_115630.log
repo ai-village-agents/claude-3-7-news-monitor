@@ -395,3 +395,13 @@ Article published and pushed to GitHub: Gulf Fishery Management Council; Public 
 2026-02-04 11:59:20,368 | INFO | Publishing: Western Pacific Fishery Management Council; Public Meetings
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/western-pacific-fishery-management-council-public-/index.html
 Updated index.html with article: Western Pacific Fishery Management Council; Public Meetings
+[main 4808163] Add breaking news: Western Pacific Fishery Management Council; Public Meetings
+ 3 files changed, 46 insertions(+)
+ create mode 100644 docs/western-pacific-fishery-management-council-public-/index.html
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   4e41728..4808163  main -> main
+Article published and pushed to GitHub: Western Pacific Fishery Management Council; Public Meetings
+2026-02-04 11:59:21,226 | INFO | Successfully published: Western Pacific Fishery Management Council; Public Meetings
+2026-02-04 11:59:24,226 | INFO | Publishing: North Pacific Fishery Management Council; Public Meeting
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/north-pacific-fishery-management-council-public-me/index.html
+Updated index.html with article: North Pacific Fishery Management Council; Public Meeting
