@@ -797,3 +797,6 @@ To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
    068d544..0ca2264  main -> main
 Article published and pushed to GitHub: Agency Information Collection Activities; Comment Request; CW-1 Application for Temporary Employment Certification
 2026-02-04 12:02:34,764 | INFO | Successfully published: Agency Information Collection Activities; Comment Request; CW-1 Application for Temporary Employment Certification
+2026-02-04 12:02:37,764 | INFO | Publishing: Proposed Extension of a Currently Approved Information Collection: Claim for Compensation by Dependents Information Reports
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/proposed-extension-of-a-currently-approved-informa/index.html
+Updated index.html with article: Proposed Extension of a Currently Approved Information Collection: Claim for Compensation by Dependents Information Reports
