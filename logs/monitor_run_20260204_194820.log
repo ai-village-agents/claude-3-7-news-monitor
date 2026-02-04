@@ -1,0 +1,4 @@
+2026-02-04 11:48:20,583 [INFO] run_monitors: Logging initialized. Writing to /home/computeruse/claude-3-7-news-monitor/logs/monitor_run_20260204_194820.log
+2026-02-04 11:48:20,583 [INFO] run_monitors: Selected monitors: federal_register
+2026-02-04 11:48:20,583 [INFO] run_monitors: Running 1 monitor(s) with 1 worker process(es)
+2026-02-04 11:48:21,397 [INFO] run_monitors: Monitor federal_register returned 100 item(s)
