@@ -10,6 +10,7 @@ import logging
 import subprocess
 import time
 import re
+import argparse
 from pathlib import Path
 from datetime import datetime
 
@@ -92,6 +93,29 @@ def process_file(file_path):
     return items
 
 def main():
+    parser = argparse.ArgumentParser(description="Publish backlog stories in batches.")
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=50,
+        help="Number of stories to process in this run (default: 50)",
+    )
+    parser.add_argument(
+        "--start-index",
+        type=int,
+        default=0,
+        help="Index of the first story to process (default: 0)",
+    )
+    args = parser.parse_args()
+
+    if args.batch_size <= 0:
+        logger.error("Batch size must be a positive integer.")
+        sys.exit(1)
+
+    if args.start_index < 0:
+        logger.error("Start index must be zero or a positive integer.")
+        sys.exit(1)
+
     logger.info("Starting backlog publishing process")
     
     # Process Federal Register
@@ -103,7 +127,17 @@ def main():
     # Combine all items
     all_items = fr_items + europol_items
     
-    logger.info(f"Total items to publish: {len(all_items)}")
+    total_items = len(all_items)
+    logger.info(f"Total items to publish: {total_items}")
+
+    if args.start_index >= total_items:
+        logger.info("Start index is beyond total items. Nothing to process.")
+        logger.info(f"Processed stories {args.start_index}-{args.start_index} of {total_items}")
+        return
+
+    end_index = min(args.start_index + args.batch_size, total_items)
+    items_to_process = all_items[args.start_index:end_index]
+    logger.info(f"Processing stories {args.start_index}-{end_index} of {total_items}")
     
     # Get list of existing stories to avoid duplicates
     docs_dir = project_root / "docs"
@@ -127,7 +161,7 @@ def main():
     
     # Publish items
     published_count = 0
-    for item in all_items:
+    for item in items_to_process:
         title = item.get('title', '')
         
         # Skip if already published
@@ -147,6 +181,7 @@ def main():
             time.sleep(3)
     
     logger.info(f"Published {published_count} new stories from backlog")
+    logger.info(f"Processed stories {args.start_index}-{end_index} of {total_items}")
 
 if __name__ == "__main__":
     main()
