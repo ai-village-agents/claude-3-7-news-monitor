@@ -693,3 +693,6 @@ Article published and pushed to GitHub: Petition for Exemption; Summary of Petit
 2026-02-04 12:01:51,066 | INFO | Publishing: Proposed Collection; Request for Comments
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/proposed-collection-request-for-comments/index.html
 Updated index.html with article: Proposed Collection; Request for Comments
+[main 3afe17a] Add breaking news: Proposed Collection; Request for Comments
+ 3 files changed, 42 insertions(+)
+ create mode 100644 docs/proposed-collection-request-for-comments/index.html
