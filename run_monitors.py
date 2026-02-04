@@ -18,8 +18,12 @@ from scripts.monitors import NewsItem
 from scripts.monitors.bank_of_england import BankOfEnglandMonitor
 from scripts.monitors.canada_gov import CanadaGovMonitor
 from scripts.monitors.cisa_kev import CISAKEVMonitor
+from scripts.monitors.europol_news import EuropolNewsMonitor
+from scripts.monitors.federal_register import FederalRegisterMonitor
 from scripts.monitors.financial_regulators import FinancialRegulatorsMonitor
+from scripts.monitors.fsb_news import FSBNewsMonitor
 from scripts.monitors.international_courts import InternationalCourtsMonitor
+from scripts.monitors.nasdaq_trade_halts import NasdaqTradeHaltsMonitor
 from scripts.monitors.uk_gov import UKGovMonitor
 from scripts.monitors.usgs_earthquakes import USGSEarthquakeMonitor
 
@@ -30,8 +34,12 @@ MONITOR_CLASSES = {
     "bank_of_england": BankOfEnglandMonitor,
     "canada_gov": CanadaGovMonitor,
     "cisa_kev": CISAKEVMonitor,
+    "europol_news": EuropolNewsMonitor,
+    "federal_register": FederalRegisterMonitor,
     "financial_regulators": FinancialRegulatorsMonitor,
+    "fsb_news": FSBNewsMonitor,
     "international_courts": InternationalCourtsMonitor,
+    "nasdaq_trade_halts": NasdaqTradeHaltsMonitor,
     "uk_gov": UKGovMonitor,
     "usgs_earthquakes": USGSEarthquakeMonitor,
 }
@@ -40,8 +48,12 @@ MONITOR_LABELS = {
     "bank_of_england": "Bank of England",
     "canada_gov": "Government of Canada",
     "cisa_kev": "CISA Known Exploited Vulnerabilities",
+    "europol_news": "Europol",
+    "federal_register": "Federal Register",
     "financial_regulators": "Financial Regulators",
+    "fsb_news": "Financial Stability Board",
     "international_courts": "International Courts",
+    "nasdaq_trade_halts": "NASDAQ Trade Halts",
     "uk_gov": "UK Government",
     "usgs_earthquakes": "USGS Earthquakes",
 }

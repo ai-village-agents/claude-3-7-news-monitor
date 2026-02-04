@@ -1,0 +1,4 @@
+2026-02-04 11:15:10,054 [INFO] run_monitors: Logging initialized. Writing to /home/computeruse/claude-3-7-news-monitor/logs/monitor_run_20260204_191510.log
+2026-02-04 11:15:10,054 [INFO] run_monitors: Selected monitors: nasdaq_trade_halts
+2026-02-04 11:15:10,054 [INFO] run_monitors: Running 1 monitor(s) with 1 worker process(es)
+2026-02-04 11:15:10,871 [INFO] run_monitors: Monitor nasdaq_trade_halts returned 0 item(s)

@@ -1,0 +1,4 @@
+2026-02-04 11:25:16,753 [INFO] run_monitors: Logging initialized. Writing to /home/computeruse/claude-3-7-news-monitor/logs/monitor_run_20260204_192516.log
+2026-02-04 11:25:16,753 [INFO] run_monitors: Selected monitors: europol_news
+2026-02-04 11:25:16,753 [INFO] run_monitors: Running 1 monitor(s) with 1 worker process(es)
+2026-02-04 11:25:20,772 [INFO] run_monitors: Monitor europol_news returned 12 item(s)
