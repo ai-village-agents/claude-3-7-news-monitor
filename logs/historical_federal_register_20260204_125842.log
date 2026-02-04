@@ -314,3 +314,16 @@ Article published and pushed to GitHub: Fisheries of the Exclusive Economic Zone
 2026-02-04 12:59:29,544 | INFO | Publishing: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-submissio/index.html
 Updated index.html with article: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+[main bdcf9ee] Add breaking news: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+ 3 files changed, 50 insertions(+), 28 deletions(-)
+ rewrite docs/agency-information-collection-activities-submissio/index.html (67%)
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   a15612b..bdcf9ee  main -> main
+Article published and pushed to GitHub: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+2026-02-04 12:59:31,266 | INFO | Successfully published: Agency Information Collection Activities; Submission for OMB Review; Comment Request; Program To Prevent Smoking in Hazardous Areas
+2026-02-04 12:59:34,266 | INFO | Skipping already published: Bay Area Compliance Laboratories: Application for Expansion of Recognition
+2026-02-04 12:59:34,267 | INFO | Skipping already published: CSA Group Testing & Certification Inc.: Grant of Expansion of Recognition
+2026-02-04 12:59:34,267 | INFO | Skipping already published: DEKRA Certification Inc.: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards
+2026-02-04 12:59:34,267 | INFO | Publishing: Agency Information Collection Activities; Submission for OMB Review; National Compensation Survey
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/agency-information-collection-activities-submissio/index.html
+Updated index.html with article: Agency Information Collection Activities; Submission for OMB Review; National Compensation Survey
