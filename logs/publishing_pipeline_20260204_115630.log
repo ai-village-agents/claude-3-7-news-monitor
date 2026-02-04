@@ -1,0 +1,27 @@
+Starting publishing pipeline at Wed Feb  4 11:56:30 PST 2026
+Current time: 11:56
+It's time for the courts monitoring window!
+=== Running International Courts Monitor at Wed Feb  4 11:56:30 PST 2026 ===
+2026-02-04 11:56:30,691 | INFO | Starting International Courts monitor
+2026-02-04 11:56:30,692 | INFO | Fetching data from international courts...
+2026-02-04 11:56:31,516 | INFO | Parsing court data...
+2026-02-04 11:56:32,280 | INFO | Found 396 news items
+2026-02-04 11:56:32,281 | INFO | No breaking news items found from today
+=== Running Backlog Publisher at Wed Feb  4 11:56:32 PST 2026 ===
+2026-02-04 11:56:32,416 | INFO | Starting backlog publishing process
+2026-02-04 11:56:32,416 | INFO | Processing backlog from /home/computeruse/claude-3-7-news-monitor/federal_register_results.txt
+2026-02-04 11:56:32,418 | INFO | Found 100 items in /home/computeruse/claude-3-7-news-monitor/federal_register_results.txt
+2026-02-04 11:56:32,419 | INFO | Processing backlog from /home/computeruse/claude-3-7-news-monitor/europol_results.txt
+2026-02-04 11:56:32,419 | INFO | Found 12 items in /home/computeruse/claude-3-7-news-monitor/europol_results.txt
+2026-02-04 11:56:32,419 | INFO | Total items to publish: 112
+2026-02-04 11:56:32,425 | INFO | Found 57 existing HTML files
+2026-02-04 11:56:32,430 | INFO | Skipping already published: Celebrating American Greatness With American Motor Racing
+2026-02-04 11:56:32,431 | INFO | Skipping already published: Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Using Trawl Gear in the Central Regulatory Area of the Gulf of Alaska
+2026-02-04 11:56:32,431 | INFO | Skipping already published: Coastal Migratory Pelagic Resources of the Gulf of America and Atlantic Region; 2025-2026 Commercial Closure for Spanish Mackerel in the Atlantic Southern Zone
+2026-02-04 11:56:32,431 | INFO | Skipping already published: Conforming Change to the Export Administration Regulations for Cambodia
+2026-02-04 11:56:32,431 | INFO | Skipping already published: Notice of Public Meeting of the Colorado Advisory Committee to the U.S. Commission on Civil Rights
+2026-02-04 11:56:32,431 | INFO | Skipping already published: Endangered and Threatened Wildlife and Plants; Endangered Species Status for Fish Lake Valley Tui Chub
+2026-02-04 11:56:32,431 | INFO | Skipping already published: Section 45Z Clean Fuel Production Credit
+2026-02-04 11:56:32,431 | INFO | Publishing: New Postal Products
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/new-postal-products/index.html
+Updated index.html with article: New Postal Products

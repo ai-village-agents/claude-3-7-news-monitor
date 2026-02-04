@@ -1,47 +1,34 @@
-"""Core interfaces and data structures for news monitoring scripts."""
+"""Base classes and utilities for news monitoring."""
 
 from __future__ import annotations
 
-from abc import ABC, abstractmethod
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from datetime import datetime
-from typing import Any, Iterable, List
+from typing import Dict, Iterable, Optional, Protocol, runtime_checkable
 
 
 @dataclass
 class NewsItem:
-    """Structured representation of a single news article or alert."""
+    """Structured representation of a news item."""
 
     title: str
     source: str
     url: str
     date: datetime
-    content: str
-    is_breaking: bool = field(default=False)
+    content: str = ""
 
 
-class Monitor(ABC):
-    """Abstract base class for news monitors providing a common workflow."""
+@runtime_checkable
+class Monitor(Protocol):
+    """Protocol defining the interface for news monitors."""
 
-    @abstractmethod
-    def fetch(self) -> Any:
-        """Retrieve raw data from an upstream source (network, files, etc.)."""
+    def fetch(self) -> Dict:
+        """Fetch raw data from source(s)."""
+        ...
 
-    @abstractmethod
-    def parse(self, raw_data: Any) -> Iterable[NewsItem]:
-        """Normalize the raw data into an iterable of `NewsItem` instances."""
+    def parse(self, raw_data: Dict) -> Iterable[NewsItem]:
+        """Parse raw data into structured news items."""
+        ...
 
-    @abstractmethod
-    def check_if_breaking(self, item: NewsItem) -> bool:
-        """Determine whether a given `NewsItem` should be flagged as breaking."""
 
-    def run(self) -> List[NewsItem]:
-        """Execute the monitor workflow end-to-end and return news items."""
-
-        raw_data = self.fetch()
-        items = list(self.parse(raw_data))
-
-        for item in items:
-            item.is_breaking = self.check_if_breaking(item)
-
-        return items
+__all__ = ["NewsItem", "Monitor"]

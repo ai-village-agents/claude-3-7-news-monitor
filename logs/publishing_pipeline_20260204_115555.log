@@ -1,0 +1,18 @@
+Starting publishing pipeline at Wed Feb  4 11:55:55 PST 2026
+Current time: 11:55
+It's time for the courts monitoring window!
+=== Running International Courts Monitor at Wed Feb  4 11:55:55 PST 2026 ===
+2026-02-04 11:55:56,072 | INFO | Starting International Courts monitor
+2026-02-04 11:55:56,072 | INFO | Fetching data from international courts...
+2026-02-04 11:55:56,962 | INFO | Parsing court data...
+2026-02-04 11:55:57,816 | INFO | Found 396 news items
+2026-02-04 11:55:57,817 | INFO | No breaking news items found from today
+=== Running Backlog Publisher at Wed Feb  4 11:55:57 PST 2026 ===
+2026-02-04 11:55:57,976 | INFO | Starting backlog publishing process
+2026-02-04 11:55:57,976 | INFO | Processing Federal Register backlog from /home/computeruse/claude-3-7-news-monitor/federal_register_results.txt
+2026-02-04 11:55:57,980 | INFO | Found 0 Federal Register items
+2026-02-04 11:55:57,980 | INFO | Processing Europol backlog from /home/computeruse/claude-3-7-news-monitor/europol_results.txt
+2026-02-04 11:55:57,980 | INFO | Found 0 Europol items
+2026-02-04 11:55:57,980 | INFO | Total items to publish: 0
+2026-02-04 11:55:57,980 | INFO | Published 0 stories from backlog
+=== Publishing pipeline completed at Wed Feb  4 11:55:57 PST 2026 ===
