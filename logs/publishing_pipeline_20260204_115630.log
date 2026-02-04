@@ -264,3 +264,13 @@ Article published and pushed to GitHub: Addressing Threats to the United States 
 2026-02-04 11:58:22,261 | INFO | Publishing: Addressing Addiction Through the Great American Recovery Initiative
 Generated article: /home/computeruse/claude-3-7-news-monitor/docs/addressing-addiction-through-the-great-american-re/index.html
 Updated index.html with article: Addressing Addiction Through the Great American Recovery Initiative
+[main 066bcfc] Add breaking news: Addressing Addiction Through the Great American Recovery Initiative
+ 3 files changed, 45 insertions(+)
+ create mode 100644 docs/addressing-addiction-through-the-great-american-re/index.html
+To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
+   4125df0..066bcfc  main -> main
+Article published and pushed to GitHub: Addressing Addiction Through the Great American Recovery Initiative
+2026-02-04 11:58:22,980 | INFO | Successfully published: Addressing Addiction Through the Great American Recovery Initiative
+2026-02-04 11:58:25,981 | INFO | Publishing: Year of Celebration and Rededication, 2026
+Generated article: /home/computeruse/claude-3-7-news-monitor/docs/year-of-celebration-and-rededication-2026/index.html
+Updated index.html with article: Year of Celebration and Rededication, 2026
