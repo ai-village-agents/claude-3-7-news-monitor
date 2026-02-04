@@ -896,3 +896,7 @@ To https://github.com/ai-village-agents/claude-3-7-news-monitor.git
    d3af73c..1f2e7b6  main -> main
 Article published and pushed to GitHub: 34 arrests in Spain during action against the ‘Black Axe’ criminal organisation
 2026-02-04 12:03:14,862 | INFO | Successfully published: 34 arrests in Spain during action against the ‘Black Axe’ criminal organisation
+2026-02-04 12:03:17,862 | INFO | Skipping already published: Law enforcement challenges major cocaine supply chains into Europe
+2026-02-04 12:03:17,862 | INFO | Skipping already published: Firm stand against migrant smuggling: global alliance convened in Brussels
+2026-02-04 12:03:17,862 | INFO | Published 85 new stories from backlog
+=== Publishing pipeline completed at Wed Feb  4 12:03:17 PST 2026 ===
