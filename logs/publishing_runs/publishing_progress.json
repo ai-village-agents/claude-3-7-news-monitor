@@ -15,13 +15,13 @@
     "last_batch": 100
   },
   "2023": {
-    "published": 1100,
+    "published": 1500,
     "total": 2635,
     "last_batch": 400
   },
-  "total_published": 5000,
-  "total_remaining": 26904,
-  "last_update": "2026-02-05T12:47:31.214214",
+  "total_published": 5400,
+  "total_remaining": 26504,
+  "last_update": "2026-02-05T12:48:24.063705",
   "2024": {
     "published": 2000,
     "total": 10730,
