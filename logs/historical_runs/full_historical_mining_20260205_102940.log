@@ -1,0 +1,1901 @@
+2026-02-05 10:29:40 | === Full historical mining run started ===
+Log file: /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/full_historical_mining_20260205_102940.log
+
+2026-02-05 10:29:40 | Starting step 1/6: Mine Federal Register data for 2020
+[1/6] Mine Federal Register data for 2020...
+2026-02-05 10:29:40,992 | INFO | Restricting queries to publication dates between 2020-01-01 and 2020-12-31
+2026-02-05 10:29:41,002 | INFO | Found 137 existing HTML files
+2026-02-05 10:29:41,012 | INFO | Found 137 existing published titles
+2026-02-05 10:29:41,012 | INFO | Starting parallel processing with 8 threads for page ranges: 20-40,40-60,60-80,80-100,100-120,120-140
+2026-02-05 10:29:41,013 | INFO | Processing page range 20-40 with 100 items per page
+2026-02-05 10:29:41,013 | INFO | Processing page range 40-60 with 100 items per page
+2026-02-05 10:29:41,014 | INFO | Processing page range 60-80 with 100 items per page
+2026-02-05 10:29:41,014 | INFO | Processing page range 80-100 with 100 items per page
+2026-02-05 10:29:41,015 | INFO | Processing page range 100-120 with 100 items per page
+2026-02-05 10:29:41,015 | INFO | Processing page range 120-140 with 100 items per page
+2026-02-05 10:29:41,360 | INFO | Found 100 items on page 120
+2026-02-05 10:29:41,453 | INFO | Found 100 items on page 20
+2026-02-05 10:29:41,486 | INFO | Found 100 items on page 80
+2026-02-05 10:29:41,561 | INFO | Processed 1/21 pages from range 120-140
+2026-02-05 10:29:41,653 | INFO | Processed 1/21 pages from range 20-40
+2026-02-05 10:29:41,679 | INFO | Found 100 items on page 40
+2026-02-05 10:29:41,686 | INFO | Processed 1/21 pages from range 80-100
+2026-02-05 10:29:41,733 | INFO | Found 100 items on page 60
+2026-02-05 10:29:41,880 | INFO | Processed 1/21 pages from range 40-60
+2026-02-05 10:29:41,934 | INFO | Processed 1/21 pages from range 60-80
+2026-02-05 10:29:41,980 | INFO | Found 100 items on page 100
+2026-02-05 10:29:42,180 | INFO | Processed 1/21 pages from range 100-120
+2026-02-05 10:29:42,245 | INFO | Found 100 items on page 121
+2026-02-05 10:29:42,375 | INFO | Found 100 items on page 21
+2026-02-05 10:29:42,445 | INFO | Processed 2/21 pages from range 120-140
+2026-02-05 10:29:42,457 | INFO | Found 100 items on page 41
+2026-02-05 10:29:42,576 | INFO | Processed 2/21 pages from range 20-40
+2026-02-05 10:29:42,618 | INFO | Found 100 items on page 81
+2026-02-05 10:29:42,657 | INFO | Processed 2/21 pages from range 40-60
+2026-02-05 10:29:42,733 | INFO | Found 100 items on page 61
+2026-02-05 10:29:42,818 | INFO | Processed 2/21 pages from range 80-100
+2026-02-05 10:29:42,935 | INFO | Found 100 items on page 101
+2026-02-05 10:29:42,935 | INFO | Processed 2/21 pages from range 60-80
+2026-02-05 10:29:43,060 | INFO | Found 100 items on page 42
+2026-02-05 10:29:43,113 | INFO | Found 100 items on page 122
+2026-02-05 10:29:43,135 | INFO | Processed 2/21 pages from range 100-120
+2026-02-05 10:29:43,261 | INFO | Processed 3/21 pages from range 40-60
+2026-02-05 10:29:43,313 | INFO | Processed 3/21 pages from range 120-140
+2026-02-05 10:29:43,339 | INFO | Found 100 items on page 22
+2026-02-05 10:29:43,393 | INFO | Found 100 items on page 102
+2026-02-05 10:29:43,540 | INFO | Processed 3/21 pages from range 20-40
+2026-02-05 10:29:43,590 | INFO | Found 100 items on page 82
+2026-02-05 10:29:43,594 | INFO | Processed 3/21 pages from range 100-120
+2026-02-05 10:29:43,640 | INFO | Found 100 items on page 43
+2026-02-05 10:29:43,759 | INFO | Found 100 items on page 23
+2026-02-05 10:29:43,765 | INFO | Found 100 items on page 62
+2026-02-05 10:29:43,790 | INFO | Processed 3/21 pages from range 80-100
+2026-02-05 10:29:43,840 | INFO | Processed 4/21 pages from range 40-60
+2026-02-05 10:29:43,915 | INFO | Found 100 items on page 123
+2026-02-05 10:29:43,960 | INFO | Processed 4/21 pages from range 20-40
+2026-02-05 10:29:43,965 | INFO | Processed 3/21 pages from range 60-80
+2026-02-05 10:29:44,073 | INFO | Found 100 items on page 83
+2026-02-05 10:29:44,115 | INFO | Processed 4/21 pages from range 120-140
+2026-02-05 10:29:44,227 | INFO | Found 100 items on page 103
+2026-02-05 10:29:44,274 | INFO | Processed 4/21 pages from range 80-100
+2026-02-05 10:29:44,321 | INFO | Found 100 items on page 44
+2026-02-05 10:29:44,327 | INFO | Found 100 items on page 63
+2026-02-05 10:29:44,427 | INFO | Processed 4/21 pages from range 100-120
+2026-02-05 10:29:44,516 | INFO | Found 100 items on page 124
+2026-02-05 10:29:44,521 | INFO | Processed 5/21 pages from range 40-60
+2026-02-05 10:29:44,528 | INFO | Processed 4/21 pages from range 60-80
+2026-02-05 10:29:44,697 | INFO | Found 100 items on page 24
+2026-02-05 10:29:44,717 | INFO | Processed 5/21 pages from range 120-140
+2026-02-05 10:29:44,733 | INFO | Found 100 items on page 84
+2026-02-05 10:29:44,831 | INFO | Found 100 items on page 45
+2026-02-05 10:29:44,897 | INFO | Processed 5/21 pages from range 20-40
+2026-02-05 10:29:44,933 | INFO | Processed 5/21 pages from range 80-100
+2026-02-05 10:29:44,947 | INFO | Found 100 items on page 104
+2026-02-05 10:29:45,031 | INFO | Processed 6/21 pages from range 40-60
+2026-02-05 10:29:45,068 | INFO | Found 100 items on page 64
+2026-02-05 10:29:45,147 | INFO | Processed 5/21 pages from range 100-120
+2026-02-05 10:29:45,268 | INFO | Found 100 items on page 125
+2026-02-05 10:29:45,268 | INFO | Processed 5/21 pages from range 60-80
+2026-02-05 10:29:45,414 | INFO | Found 100 items on page 25
+2026-02-05 10:29:45,419 | INFO | Found 100 items on page 46
+2026-02-05 10:29:45,469 | INFO | Processed 6/21 pages from range 120-140
+2026-02-05 10:29:45,568 | INFO | Found 100 items on page 65
+2026-02-05 10:29:45,615 | INFO | Processed 6/21 pages from range 20-40
+2026-02-05 10:29:45,619 | INFO | Processed 7/21 pages from range 40-60
+2026-02-05 10:29:45,634 | INFO | Found 100 items on page 85
+2026-02-05 10:29:45,769 | INFO | Processed 6/21 pages from range 60-80
+2026-02-05 10:29:45,821 | INFO | Found 100 items on page 105
+2026-02-05 10:29:45,834 | INFO | Processed 6/21 pages from range 80-100
+2026-02-05 10:29:45,933 | INFO | Found 100 items on page 26
+2026-02-05 10:29:46,021 | INFO | Processed 6/21 pages from range 100-120
+2026-02-05 10:29:46,073 | INFO | Found 100 items on page 47
+2026-02-05 10:29:46,133 | INFO | Processed 7/21 pages from range 20-40
+2026-02-05 10:29:46,161 | INFO | Found 100 items on page 126
+2026-02-05 10:29:46,273 | INFO | Processed 8/21 pages from range 40-60
+2026-02-05 10:29:46,360 | INFO | Found 100 items on page 66
+2026-02-05 10:29:46,361 | INFO | Processed 7/21 pages from range 120-140
+2026-02-05 10:29:46,385 | INFO | Found 100 items on page 86
+2026-02-05 10:29:46,435 | INFO | Found 100 items on page 106
+2026-02-05 10:29:46,525 | INFO | Found 100 items on page 27
+2026-02-05 10:29:46,545 | INFO | Found 100 items on page 48
+2026-02-05 10:29:46,560 | INFO | Processed 7/21 pages from range 60-80
+2026-02-05 10:29:46,585 | INFO | Processed 7/21 pages from range 80-100
+2026-02-05 10:29:46,636 | INFO | Processed 7/21 pages from range 100-120
+2026-02-05 10:29:46,725 | INFO | Processed 8/21 pages from range 20-40
+2026-02-05 10:29:46,745 | INFO | Processed 9/21 pages from range 40-60
+2026-02-05 10:29:46,806 | INFO | Found 100 items on page 127
+2026-02-05 10:29:46,900 | INFO | Found 100 items on page 107
+2026-02-05 10:29:47,007 | INFO | Processed 8/21 pages from range 120-140
+2026-02-05 10:29:47,050 | INFO | Found 100 items on page 67
+2026-02-05 10:29:47,101 | INFO | Processed 8/21 pages from range 100-120
+2026-02-05 10:29:47,138 | INFO | Found 100 items on page 28
+2026-02-05 10:29:47,245 | INFO | Found 100 items on page 87
+2026-02-05 10:29:47,250 | INFO | Processed 8/21 pages from range 60-80
+2026-02-05 10:29:47,301 | INFO | Found 100 items on page 49
+2026-02-05 10:29:47,338 | INFO | Processed 9/21 pages from range 20-40
+2026-02-05 10:29:47,424 | INFO | Found 100 items on page 128
+2026-02-05 10:29:47,445 | INFO | Processed 8/21 pages from range 80-100
+2026-02-05 10:29:47,501 | INFO | Processed 10/21 pages from range 40-60
+2026-02-05 10:29:47,625 | INFO | Processed 9/21 pages from range 120-140
+2026-02-05 10:29:47,666 | INFO | Found 100 items on page 108
+2026-02-05 10:29:47,763 | INFO | Found 100 items on page 50
+2026-02-05 10:29:47,850 | INFO | Found 100 items on page 68
+2026-02-05 10:29:47,867 | INFO | Processed 9/21 pages from range 100-120
+2026-02-05 10:29:47,956 | INFO | Found 100 items on page 29
+2026-02-05 10:29:47,964 | INFO | Processed 11/21 pages from range 40-60
+2026-02-05 10:29:48,050 | INFO | Processed 9/21 pages from range 60-80
+2026-02-05 10:29:48,096 | INFO | Found 100 items on page 129
+2026-02-05 10:29:48,156 | INFO | Processed 10/21 pages from range 20-40
+2026-02-05 10:29:48,216 | INFO | Found 100 items on page 88
+2026-02-05 10:29:48,296 | INFO | Processed 10/21 pages from range 120-140
+2026-02-05 10:29:48,332 | INFO | Found 100 items on page 109
+2026-02-05 10:29:48,417 | INFO | Processed 9/21 pages from range 80-100
+2026-02-05 10:29:48,480 | INFO | Found 100 items on page 69
+2026-02-05 10:29:48,520 | INFO | Found 100 items on page 51
+2026-02-05 10:29:48,533 | INFO | Processed 10/21 pages from range 100-120
+2026-02-05 10:29:48,587 | INFO | Found 100 items on page 30
+2026-02-05 10:29:48,681 | INFO | Processed 10/21 pages from range 60-80
+2026-02-05 10:29:48,720 | INFO | Processed 12/21 pages from range 40-60
+2026-02-05 10:29:48,742 | INFO | Found 100 items on page 89
+2026-02-05 10:29:48,787 | INFO | Processed 11/21 pages from range 20-40
+2026-02-05 10:29:48,874 | INFO | Found 100 items on page 130
+2026-02-05 10:29:48,942 | INFO | Processed 10/21 pages from range 80-100
+2026-02-05 10:29:49,055 | INFO | Found 100 items on page 52
+2026-02-05 10:29:49,074 | INFO | Processed 11/21 pages from range 120-140
+2026-02-05 10:29:49,206 | INFO | Found 100 items on page 31
+2026-02-05 10:29:49,217 | INFO | Found 100 items on page 110
+2026-02-05 10:29:49,255 | INFO | Processed 13/21 pages from range 40-60
+2026-02-05 10:29:49,270 | INFO | Found 100 items on page 70
+2026-02-05 10:29:49,406 | INFO | Processed 12/21 pages from range 20-40
+2026-02-05 10:29:49,417 | INFO | Processed 11/21 pages from range 100-120
+2026-02-05 10:29:49,426 | INFO | Found 100 items on page 90
+2026-02-05 10:29:49,470 | INFO | Processed 11/21 pages from range 60-80
+2026-02-05 10:29:49,547 | INFO | Found 100 items on page 53
+2026-02-05 10:29:49,627 | INFO | Processed 11/21 pages from range 80-100
+2026-02-05 10:29:49,665 | INFO | Found 100 items on page 131
+2026-02-05 10:29:49,747 | INFO | Processed 14/21 pages from range 40-60
+2026-02-05 10:29:49,769 | INFO | Found 100 items on page 111
+2026-02-05 10:29:49,865 | INFO | Processed 12/21 pages from range 120-140
+2026-02-05 10:29:49,938 | INFO | Found 100 items on page 32
+2026-02-05 10:29:49,941 | INFO | Found 100 items on page 71
+2026-02-05 10:29:49,970 | INFO | Processed 12/21 pages from range 100-120
+2026-02-05 10:29:49,995 | INFO | Found 100 items on page 91
+2026-02-05 10:29:50,138 | INFO | Processed 13/21 pages from range 20-40
+2026-02-05 10:29:50,141 | INFO | Processed 12/21 pages from range 60-80
+2026-02-05 10:29:50,195 | INFO | Processed 12/21 pages from range 80-100
+2026-02-05 10:29:50,215 | INFO | Found 100 items on page 54
+2026-02-05 10:29:50,335 | INFO | Found 100 items on page 132
+2026-02-05 10:29:50,398 | INFO | Found 100 items on page 33
+2026-02-05 10:29:50,415 | INFO | Processed 15/21 pages from range 40-60
+2026-02-05 10:29:50,536 | INFO | Processed 13/21 pages from range 120-140
+2026-02-05 10:29:50,598 | INFO | Processed 14/21 pages from range 20-40
+2026-02-05 10:29:50,719 | INFO | Found 100 items on page 112
+2026-02-05 10:29:50,770 | INFO | Found 100 items on page 72
+2026-02-05 10:29:50,912 | INFO | Found 100 items on page 34
+2026-02-05 10:29:50,920 | INFO | Processed 13/21 pages from range 100-120
+2026-02-05 10:29:50,957 | INFO | Found 100 items on page 92
+2026-02-05 10:29:50,970 | INFO | Processed 13/21 pages from range 60-80
+2026-02-05 10:29:51,113 | INFO | Processed 15/21 pages from range 20-40
+2026-02-05 10:29:51,157 | INFO | Processed 13/21 pages from range 80-100
+2026-02-05 10:29:51,162 | INFO | Found 100 items on page 55
+2026-02-05 10:29:51,254 | INFO | Found 100 items on page 73
+2026-02-05 10:29:51,321 | INFO | Found 100 items on page 133
+2026-02-05 10:29:51,362 | INFO | Processed 16/21 pages from range 40-60
+2026-02-05 10:29:51,451 | INFO | Found 100 items on page 93
+2026-02-05 10:29:51,454 | INFO | Processed 14/21 pages from range 60-80
+2026-02-05 10:29:51,522 | INFO | Processed 14/21 pages from range 120-140
+2026-02-05 10:29:51,526 | INFO | Found 100 items on page 113
+2026-02-05 10:29:51,651 | INFO | Processed 14/21 pages from range 80-100
+2026-02-05 10:29:51,697 | INFO | Found 100 items on page 35
+2026-02-05 10:29:51,726 | INFO | Processed 14/21 pages from range 100-120
+2026-02-05 10:29:51,897 | INFO | Processed 16/21 pages from range 20-40
+2026-02-05 10:29:51,954 | INFO | Found 100 items on page 94
+2026-02-05 10:29:51,992 | INFO | Found 100 items on page 56
+2026-02-05 10:29:52,155 | INFO | Processed 15/21 pages from range 80-100
+2026-02-05 10:29:52,186 | INFO | Found 100 items on page 36
+2026-02-05 10:29:52,192 | INFO | Processed 17/21 pages from range 40-60
+2026-02-05 10:29:52,206 | INFO | Found 100 items on page 74
+2026-02-05 10:29:52,357 | INFO | Found 100 items on page 134
+2026-02-05 10:29:52,386 | INFO | Processed 17/21 pages from range 20-40
+2026-02-05 10:29:52,406 | INFO | Processed 15/21 pages from range 60-80
+2026-02-05 10:29:52,508 | INFO | Found 100 items on page 95
+2026-02-05 10:29:52,557 | INFO | Processed 15/21 pages from range 120-140
+2026-02-05 10:29:52,578 | INFO | Found 100 items on page 114
+2026-02-05 10:29:52,641 | INFO | Found 100 items on page 57
+2026-02-05 10:29:52,708 | INFO | Processed 16/21 pages from range 80-100
+2026-02-05 10:29:52,779 | INFO | Processed 15/21 pages from range 100-120
+2026-02-05 10:29:52,815 | INFO | Found 100 items on page 37
+2026-02-05 10:29:52,841 | INFO | Processed 18/21 pages from range 40-60
+2026-02-05 10:29:52,864 | INFO | Found 100 items on page 135
+2026-02-05 10:29:53,016 | INFO | Processed 18/21 pages from range 20-40
+2026-02-05 10:29:53,064 | INFO | Processed 16/21 pages from range 120-140
+2026-02-05 10:29:53,069 | INFO | Found 100 items on page 75
+2026-02-05 10:29:53,237 | INFO | Found 100 items on page 96
+2026-02-05 10:29:53,269 | INFO | Processed 16/21 pages from range 60-80
+2026-02-05 10:29:53,376 | INFO | Found 100 items on page 136
+2026-02-05 10:29:53,437 | INFO | Processed 17/21 pages from range 80-100
+2026-02-05 10:29:53,529 | INFO | Found 100 items on page 115
+2026-02-05 10:29:53,577 | INFO | Processed 17/21 pages from range 120-140
+2026-02-05 10:29:53,586 | INFO | Found 100 items on page 76
+2026-02-05 10:29:53,626 | INFO | Found 100 items on page 58
+2026-02-05 10:29:53,730 | INFO | Processed 16/21 pages from range 100-120
+2026-02-05 10:29:53,786 | INFO | Processed 17/21 pages from range 60-80
+2026-02-05 10:29:53,793 | INFO | Found 100 items on page 97
+2026-02-05 10:29:53,827 | INFO | Processed 19/21 pages from range 40-60
+2026-02-05 10:29:53,847 | INFO | Found 100 items on page 38
+2026-02-05 10:29:53,993 | INFO | Processed 18/21 pages from range 80-100
+2026-02-05 10:29:54,047 | INFO | Processed 19/21 pages from range 20-40
+2026-02-05 10:29:54,059 | INFO | Found 100 items on page 137
+2026-02-05 10:29:54,202 | INFO | Found 100 items on page 77
+2026-02-05 10:29:54,225 | INFO | Found 100 items on page 116
+2026-02-05 10:29:54,259 | INFO | Processed 18/21 pages from range 120-140
+2026-02-05 10:29:54,391 | INFO | Found 100 items on page 59
+2026-02-05 10:29:54,403 | INFO | Processed 18/21 pages from range 60-80
+2026-02-05 10:29:54,425 | INFO | Processed 17/21 pages from range 100-120
+2026-02-05 10:29:54,505 | INFO | Found 100 items on page 98
+2026-02-05 10:29:54,523 | INFO | Found 100 items on page 138
+2026-02-05 10:29:54,591 | INFO | Processed 20/21 pages from range 40-60
+2026-02-05 10:29:54,636 | INFO | Found 100 items on page 39
+2026-02-05 10:29:54,705 | INFO | Processed 19/21 pages from range 80-100
+2026-02-05 10:29:54,724 | INFO | Processed 19/21 pages from range 120-140
+2026-02-05 10:29:54,740 | INFO | Found 100 items on page 78
+2026-02-05 10:29:54,804 | INFO | Found 100 items on page 60
+2026-02-05 10:29:54,836 | INFO | Processed 20/21 pages from range 20-40
+2026-02-05 10:29:54,851 | INFO | Found 100 items on page 40
+2026-02-05 10:29:54,861 | INFO | Found 100 items on page 117
+2026-02-05 10:29:54,941 | INFO | Processed 19/21 pages from range 60-80
+2026-02-05 10:29:55,004 | INFO | Processed 21/21 pages from range 40-60
+2026-02-05 10:29:55,022 | INFO | Saved 2100 items from page range 40-60 to logs/temp_parallel_mining/register_range_40_60_138611076888128.txt
+2026-02-05 10:29:55,052 | INFO | Processed 21/21 pages from range 20-40
+2026-02-05 10:29:55,062 | INFO | Processed 18/21 pages from range 100-120
+2026-02-05 10:29:55,074 | INFO | Saved 2100 items from page range 20-40 to logs/temp_parallel_mining/register_range_20_40_138611157190208.txt
+2026-02-05 10:29:55,324 | INFO | Found 100 items on page 99
+2026-02-05 10:29:55,408 | INFO | Found 100 items on page 118
+2026-02-05 10:29:55,478 | INFO | Found 100 items on page 139
+2026-02-05 10:29:55,524 | INFO | Processed 20/21 pages from range 80-100
+2026-02-05 10:29:55,603 | INFO | Found 100 items on page 100
+2026-02-05 10:29:55,608 | INFO | Processed 19/21 pages from range 100-120
+2026-02-05 10:29:55,633 | INFO | Found 100 items on page 79
+2026-02-05 10:29:55,678 | INFO | Processed 20/21 pages from range 120-140
+2026-02-05 10:29:55,804 | INFO | Processed 21/21 pages from range 80-100
+2026-02-05 10:29:55,822 | INFO | Saved 2100 items from page range 80-100 to logs/temp_parallel_mining/register_range_80_100_138611060102720.txt
+2026-02-05 10:29:55,833 | INFO | Processed 20/21 pages from range 60-80
+2026-02-05 10:29:55,850 | INFO | Found 100 items on page 80
+2026-02-05 10:29:55,903 | INFO | Found 100 items on page 119
+2026-02-05 10:29:56,050 | INFO | Processed 21/21 pages from range 60-80
+2026-02-05 10:29:56,069 | INFO | Saved 2100 items from page range 60-80 to logs/temp_parallel_mining/register_range_60_80_138611068495424.txt
+2026-02-05 10:29:56,104 | INFO | Processed 20/21 pages from range 100-120
+2026-02-05 10:29:56,121 | INFO | Found 100 items on page 120
+2026-02-05 10:29:56,234 | INFO | Found 100 items on page 140
+2026-02-05 10:29:56,321 | INFO | Processed 21/21 pages from range 100-120
+2026-02-05 10:29:56,339 | INFO | Saved 2100 items from page range 100-120 to logs/temp_parallel_mining/register_range_100_120_138611051710016.txt
+2026-02-05 10:29:56,434 | INFO | Processed 21/21 pages from range 120-140
+2026-02-05 10:29:56,454 | INFO | Saved 2100 items from page range 120-140 to logs/temp_parallel_mining/register_range_120_140_138611043317312.txt
+2026-02-05 10:29:56,458 | INFO | Merging 6 temporary files into /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2020.txt
+2026-02-05 10:29:56,615 | INFO | Added 2572 new items to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2020.txt
+2026-02-05 10:29:56,619 | INFO | Parallel processing complete. Results saved to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2020.txt
+2026-02-05 10:29:56 | Completed step 1/6: Mine Federal Register data for 2020
+[1/6] Mine Federal Register data for 2020... done
+2026-02-05 10:29:56 | Starting step 2/6: Mine Federal Register data for 2021
+[2/6] Mine Federal Register data for 2021...
+2026-02-05 10:29:56,896 | INFO | Restricting queries to publication dates between 2021-01-01 and 2021-12-31
+2026-02-05 10:29:56,905 | INFO | Found 137 existing HTML files
+2026-02-05 10:29:56,915 | INFO | Found 137 existing published titles
+2026-02-05 10:29:56,915 | INFO | Starting parallel processing with 8 threads for page ranges: 20-40,40-60,60-80,80-100,100-120,120-140
+2026-02-05 10:29:56,915 | INFO | Processing page range 20-40 with 100 items per page
+2026-02-05 10:29:56,916 | INFO | Processing page range 40-60 with 100 items per page
+2026-02-05 10:29:56,917 | INFO | Processing page range 60-80 with 100 items per page
+2026-02-05 10:29:56,917 | INFO | Processing page range 80-100 with 100 items per page
+2026-02-05 10:29:56,918 | INFO | Processing page range 100-120 with 100 items per page
+2026-02-05 10:29:56,919 | INFO | Processing page range 120-140 with 100 items per page
+2026-02-05 10:29:57,210 | INFO | Found 100 items on page 40
+2026-02-05 10:29:57,317 | INFO | Found 100 items on page 60
+2026-02-05 10:29:57,410 | INFO | Processed 1/21 pages from range 40-60
+2026-02-05 10:29:57,483 | INFO | Found 100 items on page 20
+2026-02-05 10:29:57,517 | INFO | Processed 1/21 pages from range 60-80
+2026-02-05 10:29:57,572 | INFO | Found 100 items on page 100
+2026-02-05 10:29:57,576 | INFO | Found 100 items on page 120
+2026-02-05 10:29:57,683 | INFO | Processed 1/21 pages from range 20-40
+2026-02-05 10:29:57,772 | INFO | Processed 1/21 pages from range 100-120
+2026-02-05 10:29:57,777 | INFO | Processed 1/21 pages from range 120-140
+2026-02-05 10:29:57,792 | INFO | Found 100 items on page 41
+2026-02-05 10:29:57,801 | INFO | Found 100 items on page 80
+2026-02-05 10:29:57,888 | INFO | Found 100 items on page 61
+2026-02-05 10:29:57,993 | INFO | Processed 2/21 pages from range 40-60
+2026-02-05 10:29:58,001 | INFO | Processed 1/21 pages from range 80-100
+2026-02-05 10:29:58,088 | INFO | Processed 2/21 pages from range 60-80
+2026-02-05 10:29:58,110 | INFO | Found 100 items on page 101
+2026-02-05 10:29:58,156 | INFO | Found 100 items on page 21
+2026-02-05 10:29:58,277 | INFO | Found 100 items on page 121
+2026-02-05 10:29:58,294 | INFO | Found 100 items on page 42
+2026-02-05 10:29:58,310 | INFO | Processed 2/21 pages from range 100-120
+2026-02-05 10:29:58,356 | INFO | Processed 2/21 pages from range 20-40
+2026-02-05 10:29:58,448 | INFO | Found 100 items on page 81
+2026-02-05 10:29:58,477 | INFO | Processed 2/21 pages from range 120-140
+2026-02-05 10:29:58,494 | INFO | Processed 3/21 pages from range 40-60
+2026-02-05 10:29:58,648 | INFO | Processed 2/21 pages from range 80-100
+2026-02-05 10:29:58,685 | INFO | Found 100 items on page 62
+2026-02-05 10:29:58,693 | INFO | Found 100 items on page 102
+2026-02-05 10:29:58,806 | INFO | Found 100 items on page 43
+2026-02-05 10:29:58,885 | INFO | Processed 3/21 pages from range 60-80
+2026-02-05 10:29:58,892 | INFO | Found 100 items on page 22
+2026-02-05 10:29:58,893 | INFO | Processed 3/21 pages from range 100-120
+2026-02-05 10:29:59,006 | INFO | Processed 4/21 pages from range 40-60
+2026-02-05 10:29:59,055 | INFO | Found 100 items on page 122
+2026-02-05 10:29:59,092 | INFO | Processed 3/21 pages from range 20-40
+2026-02-05 10:29:59,124 | INFO | Found 100 items on page 82
+2026-02-05 10:29:59,134 | INFO | Found 100 items on page 63
+2026-02-05 10:29:59,250 | INFO | Found 100 items on page 44
+2026-02-05 10:29:59,255 | INFO | Processed 3/21 pages from range 120-140
+2026-02-05 10:29:59,324 | INFO | Processed 3/21 pages from range 80-100
+2026-02-05 10:29:59,335 | INFO | Processed 4/21 pages from range 60-80
+2026-02-05 10:29:59,416 | INFO | Found 100 items on page 103
+2026-02-05 10:29:59,450 | INFO | Processed 5/21 pages from range 40-60
+2026-02-05 10:29:59,587 | INFO | Found 100 items on page 123
+2026-02-05 10:29:59,617 | INFO | Processed 4/21 pages from range 100-120
+2026-02-05 10:29:59,787 | INFO | Processed 4/21 pages from range 120-140
+2026-02-05 10:29:59,921 | INFO | Found 100 items on page 104
+2026-02-05 10:29:59,980 | INFO | Found 100 items on page 23
+2026-02-05 10:30:00,122 | INFO | Processed 5/21 pages from range 100-120
+2026-02-05 10:30:00,144 | INFO | Found 100 items on page 45
+2026-02-05 10:30:00,181 | INFO | Processed 4/21 pages from range 20-40
+2026-02-05 10:30:00,345 | INFO | Processed 6/21 pages from range 40-60
+2026-02-05 10:30:00,405 | INFO | Found 100 items on page 105
+2026-02-05 10:30:00,449 | INFO | Found 100 items on page 64
+2026-02-05 10:30:00,470 | INFO | Found 100 items on page 124
+2026-02-05 10:30:00,605 | INFO | Processed 6/21 pages from range 100-120
+2026-02-05 10:30:00,649 | INFO | Processed 5/21 pages from range 60-80
+2026-02-05 10:30:00,671 | INFO | Processed 5/21 pages from range 120-140
+2026-02-05 10:30:00,802 | INFO | Found 100 items on page 24
+2026-02-05 10:30:00,826 | INFO | Found 100 items on page 106
+2026-02-05 10:30:00,833 | INFO | Found 100 items on page 46
+2026-02-05 10:30:00,878 | INFO | Found 100 items on page 83
+2026-02-05 10:30:00,923 | INFO | Found 100 items on page 65
+2026-02-05 10:30:01,002 | INFO | Processed 5/21 pages from range 20-40
+2026-02-05 10:30:01,027 | INFO | Processed 7/21 pages from range 100-120
+2026-02-05 10:30:01,033 | INFO | Processed 7/21 pages from range 40-60
+2026-02-05 10:30:01,079 | INFO | Processed 4/21 pages from range 80-100
+2026-02-05 10:30:01,123 | INFO | Processed 6/21 pages from range 60-80
+2026-02-05 10:30:01,133 | INFO | Found 100 items on page 125
+2026-02-05 10:30:01,334 | INFO | Processed 6/21 pages from range 120-140
+2026-02-05 10:30:01,428 | INFO | Found 100 items on page 25
+2026-02-05 10:30:01,432 | INFO | Found 100 items on page 84
+2026-02-05 10:30:01,473 | INFO | Found 100 items on page 107
+2026-02-05 10:30:01,629 | INFO | Processed 6/21 pages from range 20-40
+2026-02-05 10:30:01,633 | INFO | Processed 5/21 pages from range 80-100
+2026-02-05 10:30:01,674 | INFO | Processed 8/21 pages from range 100-120
+2026-02-05 10:30:01,769 | INFO | Found 100 items on page 47
+2026-02-05 10:30:01,970 | INFO | Processed 8/21 pages from range 40-60
+2026-02-05 10:30:02,013 | INFO | Found 100 items on page 66
+2026-02-05 10:30:02,152 | INFO | Found 100 items on page 85
+2026-02-05 10:30:02,161 | INFO | Found 100 items on page 126
+2026-02-05 10:30:02,213 | INFO | Processed 7/21 pages from range 60-80
+2026-02-05 10:30:02,353 | INFO | Processed 6/21 pages from range 80-100
+2026-02-05 10:30:02,361 | INFO | Processed 7/21 pages from range 120-140
+2026-02-05 10:30:02,431 | INFO | Found 100 items on page 26
+2026-02-05 10:30:02,528 | INFO | Found 100 items on page 48
+2026-02-05 10:30:02,589 | INFO | Found 100 items on page 108
+2026-02-05 10:30:02,631 | INFO | Processed 7/21 pages from range 20-40
+2026-02-05 10:30:02,729 | INFO | Processed 9/21 pages from range 40-60
+2026-02-05 10:30:02,790 | INFO | Processed 9/21 pages from range 100-120
+2026-02-05 10:30:02,803 | INFO | Found 100 items on page 127
+2026-02-05 10:30:02,867 | INFO | Found 100 items on page 67
+2026-02-05 10:30:03,003 | INFO | Processed 8/21 pages from range 120-140
+2026-02-05 10:30:03,068 | INFO | Processed 8/21 pages from range 60-80
+2026-02-05 10:30:03,183 | INFO | Found 100 items on page 86
+2026-02-05 10:30:03,384 | INFO | Processed 7/21 pages from range 80-100
+2026-02-05 10:30:03,434 | INFO | Found 100 items on page 109
+2026-02-05 10:30:03,469 | INFO | Found 100 items on page 27
+2026-02-05 10:30:03,512 | INFO | Found 100 items on page 49
+2026-02-05 10:30:03,635 | INFO | Processed 10/21 pages from range 100-120
+2026-02-05 10:30:03,657 | INFO | Found 100 items on page 68
+2026-02-05 10:30:03,669 | INFO | Processed 8/21 pages from range 20-40
+2026-02-05 10:30:03,713 | INFO | Processed 10/21 pages from range 40-60
+2026-02-05 10:30:03,804 | INFO | Found 100 items on page 128
+2026-02-05 10:30:03,837 | INFO | Found 100 items on page 87
+2026-02-05 10:30:03,857 | INFO | Processed 9/21 pages from range 60-80
+2026-02-05 10:30:04,004 | INFO | Processed 9/21 pages from range 120-140
+2026-02-05 10:30:04,038 | INFO | Processed 8/21 pages from range 80-100
+2026-02-05 10:30:04,095 | INFO | Found 100 items on page 28
+2026-02-05 10:30:04,280 | INFO | Found 100 items on page 69
+2026-02-05 10:30:04,284 | INFO | Found 100 items on page 50
+2026-02-05 10:30:04,296 | INFO | Processed 9/21 pages from range 20-40
+2026-02-05 10:30:04,418 | INFO | Found 100 items on page 110
+2026-02-05 10:30:04,481 | INFO | Processed 10/21 pages from range 60-80
+2026-02-05 10:30:04,484 | INFO | Processed 11/21 pages from range 40-60
+2026-02-05 10:30:04,490 | INFO | Found 100 items on page 129
+2026-02-05 10:30:04,618 | INFO | Processed 11/21 pages from range 100-120
+2026-02-05 10:30:04,690 | INFO | Processed 10/21 pages from range 120-140
+2026-02-05 10:30:04,905 | INFO | Found 100 items on page 111
+2026-02-05 10:30:04,993 | INFO | Found 100 items on page 88
+2026-02-05 10:30:04,998 | INFO | Found 100 items on page 29
+2026-02-05 10:30:05,080 | INFO | Found 100 items on page 70
+2026-02-05 10:30:05,105 | INFO | Processed 12/21 pages from range 100-120
+2026-02-05 10:30:05,193 | INFO | Processed 9/21 pages from range 80-100
+2026-02-05 10:30:05,198 | INFO | Processed 10/21 pages from range 20-40
+2026-02-05 10:30:05,281 | INFO | Processed 11/21 pages from range 60-80
+2026-02-05 10:30:05,499 | INFO | Found 100 items on page 51
+2026-02-05 10:30:05,536 | INFO | Found 100 items on page 30
+2026-02-05 10:30:05,548 | INFO | Found 100 items on page 89
+2026-02-05 10:30:05,632 | INFO | Found 100 items on page 130
+2026-02-05 10:30:05,699 | INFO | Processed 12/21 pages from range 40-60
+2026-02-05 10:30:05,737 | INFO | Processed 11/21 pages from range 20-40
+2026-02-05 10:30:05,748 | INFO | Processed 10/21 pages from range 80-100
+2026-02-05 10:30:05,832 | INFO | Processed 11/21 pages from range 120-140
+2026-02-05 10:30:06,019 | INFO | Found 100 items on page 52
+2026-02-05 10:30:06,219 | INFO | Processed 13/21 pages from range 40-60
+2026-02-05 10:30:06,492 | INFO | Found 100 items on page 53
+2026-02-05 10:30:06,516 | INFO | Found 100 items on page 112
+2026-02-05 10:30:06,560 | INFO | Found 100 items on page 71
+2026-02-05 10:30:06,565 | INFO | Found 100 items on page 90
+2026-02-05 10:30:06,636 | INFO | Found 100 items on page 31
+2026-02-05 10:30:06,692 | INFO | Processed 14/21 pages from range 40-60
+2026-02-05 10:30:06,717 | INFO | Processed 13/21 pages from range 100-120
+2026-02-05 10:30:06,760 | INFO | Processed 12/21 pages from range 60-80
+2026-02-05 10:30:06,765 | INFO | Processed 11/21 pages from range 80-100
+2026-02-05 10:30:06,780 | INFO | Found 100 items on page 131
+2026-02-05 10:30:06,837 | INFO | Processed 12/21 pages from range 20-40
+2026-02-05 10:30:06,980 | INFO | Processed 12/21 pages from range 120-140
+2026-02-05 10:30:07,088 | INFO | Found 100 items on page 91
+2026-02-05 10:30:07,256 | INFO | Found 100 items on page 113
+2026-02-05 10:30:07,289 | INFO | Processed 12/21 pages from range 80-100
+2026-02-05 10:30:07,456 | INFO | Processed 14/21 pages from range 100-120
+2026-02-05 10:30:07,468 | INFO | Found 100 items on page 72
+2026-02-05 10:30:07,569 | INFO | Found 100 items on page 132
+2026-02-05 10:30:07,669 | INFO | Processed 13/21 pages from range 60-80
+2026-02-05 10:30:07,770 | INFO | Processed 13/21 pages from range 120-140
+2026-02-05 10:30:07,982 | INFO | Found 100 items on page 32
+2026-02-05 10:30:08,011 | INFO | Found 100 items on page 92
+2026-02-05 10:30:08,049 | INFO | Found 100 items on page 114
+2026-02-05 10:30:08,182 | INFO | Processed 13/21 pages from range 20-40
+2026-02-05 10:30:08,211 | INFO | Processed 13/21 pages from range 80-100
+2026-02-05 10:30:08,250 | INFO | Processed 15/21 pages from range 100-120
+2026-02-05 10:30:08,278 | INFO | Found 100 items on page 73
+2026-02-05 10:30:08,356 | INFO | Found 100 items on page 133
+2026-02-05 10:30:08,479 | INFO | Processed 14/21 pages from range 60-80
+2026-02-05 10:30:08,485 | INFO | Found 100 items on page 54
+2026-02-05 10:30:08,556 | INFO | Processed 14/21 pages from range 120-140
+2026-02-05 10:30:08,682 | INFO | Found 100 items on page 33
+2026-02-05 10:30:08,685 | INFO | Processed 15/21 pages from range 40-60
+2026-02-05 10:30:08,832 | INFO | Found 100 items on page 134
+2026-02-05 10:30:08,836 | INFO | Found 100 items on page 93
+2026-02-05 10:30:08,882 | INFO | Processed 14/21 pages from range 20-40
+2026-02-05 10:30:09,033 | INFO | Processed 15/21 pages from range 120-140
+2026-02-05 10:30:09,036 | INFO | Processed 14/21 pages from range 80-100
+2026-02-05 10:30:09,221 | INFO | Found 100 items on page 74
+2026-02-05 10:30:09,265 | INFO | Found 100 items on page 55
+2026-02-05 10:30:09,326 | INFO | Found 100 items on page 34
+2026-02-05 10:30:09,421 | INFO | Processed 15/21 pages from range 60-80
+2026-02-05 10:30:09,429 | INFO | Found 100 items on page 135
+2026-02-05 10:30:09,465 | INFO | Processed 16/21 pages from range 40-60
+2026-02-05 10:30:09,527 | INFO | Processed 15/21 pages from range 20-40
+2026-02-05 10:30:09,629 | INFO | Processed 16/21 pages from range 120-140
+2026-02-05 10:30:09,702 | INFO | Found 100 items on page 115
+2026-02-05 10:30:09,791 | INFO | Found 100 items on page 75
+2026-02-05 10:30:09,903 | INFO | Processed 16/21 pages from range 100-120
+2026-02-05 10:30:09,957 | INFO | Found 100 items on page 35
+2026-02-05 10:30:09,980 | INFO | Found 100 items on page 56
+2026-02-05 10:30:09,992 | INFO | Processed 16/21 pages from range 60-80
+2026-02-05 10:30:10,013 | INFO | Found 100 items on page 94
+2026-02-05 10:30:10,055 | INFO | Found 100 items on page 136
+2026-02-05 10:30:10,157 | INFO | Processed 16/21 pages from range 20-40
+2026-02-05 10:30:10,172 | INFO | Found 100 items on page 116
+2026-02-05 10:30:10,181 | INFO | Processed 17/21 pages from range 40-60
+2026-02-05 10:30:10,213 | INFO | Processed 15/21 pages from range 80-100
+2026-02-05 10:30:10,255 | INFO | Processed 17/21 pages from range 120-140
+2026-02-05 10:30:10,321 | INFO | Found 100 items on page 76
+2026-02-05 10:30:10,372 | INFO | Processed 17/21 pages from range 100-120
+2026-02-05 10:30:10,478 | INFO | Found 100 items on page 36
+2026-02-05 10:30:10,522 | INFO | Processed 17/21 pages from range 60-80
+2026-02-05 10:30:10,679 | INFO | Processed 17/21 pages from range 20-40
+2026-02-05 10:30:10,684 | INFO | Found 100 items on page 57
+2026-02-05 10:30:10,717 | INFO | Found 100 items on page 95
+2026-02-05 10:30:10,799 | INFO | Found 100 items on page 77
+2026-02-05 10:30:10,828 | INFO | Found 100 items on page 137
+2026-02-05 10:30:10,885 | INFO | Processed 18/21 pages from range 40-60
+2026-02-05 10:30:10,917 | INFO | Processed 16/21 pages from range 80-100
+2026-02-05 10:30:11,000 | INFO | Found 100 items on page 117
+2026-02-05 10:30:11,000 | INFO | Processed 18/21 pages from range 60-80
+2026-02-05 10:30:11,030 | INFO | Found 100 items on page 37
+2026-02-05 10:30:11,030 | INFO | Processed 18/21 pages from range 120-140
+2026-02-05 10:30:11,201 | INFO | Processed 18/21 pages from range 100-120
+2026-02-05 10:30:11,231 | INFO | Found 100 items on page 96
+2026-02-05 10:30:11,232 | INFO | Processed 18/21 pages from range 20-40
+2026-02-05 10:30:11,321 | INFO | Found 100 items on page 58
+2026-02-05 10:30:11,432 | INFO | Processed 17/21 pages from range 80-100
+2026-02-05 10:30:11,492 | INFO | Found 100 items on page 78
+2026-02-05 10:30:11,521 | INFO | Processed 19/21 pages from range 40-60
+2026-02-05 10:30:11,551 | INFO | Found 100 items on page 38
+2026-02-05 10:30:11,583 | INFO | Found 100 items on page 138
+2026-02-05 10:30:11,693 | INFO | Processed 19/21 pages from range 60-80
+2026-02-05 10:30:11,751 | INFO | Processed 19/21 pages from range 20-40
+2026-02-05 10:30:11,783 | INFO | Processed 19/21 pages from range 120-140
+2026-02-05 10:30:11,809 | INFO | Found 100 items on page 97
+2026-02-05 10:30:11,854 | INFO | Found 100 items on page 118
+2026-02-05 10:30:11,883 | INFO | Found 100 items on page 59
+2026-02-05 10:30:12,009 | INFO | Processed 18/21 pages from range 80-100
+2026-02-05 10:30:12,054 | INFO | Processed 19/21 pages from range 100-120
+2026-02-05 10:30:12,083 | INFO | Processed 20/21 pages from range 40-60
+2026-02-05 10:30:12,094 | INFO | Found 100 items on page 39
+2026-02-05 10:30:12,152 | INFO | Found 100 items on page 79
+2026-02-05 10:30:12,270 | INFO | Found 100 items on page 60
+2026-02-05 10:30:12,295 | INFO | Processed 20/21 pages from range 20-40
+2026-02-05 10:30:12,352 | INFO | Processed 20/21 pages from range 60-80
+2026-02-05 10:30:12,392 | INFO | Found 100 items on page 139
+2026-02-05 10:30:12,448 | INFO | Found 100 items on page 80
+2026-02-05 10:30:12,470 | INFO | Found 100 items on page 40
+2026-02-05 10:30:12,471 | INFO | Processed 21/21 pages from range 40-60
+2026-02-05 10:30:12,497 | INFO | Saved 2100 items from page range 40-60 to logs/temp_parallel_mining/register_range_40_60_125711326541376.txt
+2026-02-05 10:30:12,534 | INFO | Found 100 items on page 119
+2026-02-05 10:30:12,592 | INFO | Processed 20/21 pages from range 120-140
+2026-02-05 10:30:12,648 | INFO | Processed 21/21 pages from range 60-80
+2026-02-05 10:30:12,667 | INFO | Saved 2100 items from page range 60-80 to logs/temp_parallel_mining/register_range_60_80_125711318132288.txt
+2026-02-05 10:30:12,671 | INFO | Processed 21/21 pages from range 20-40
+2026-02-05 10:30:12,688 | INFO | Saved 2100 items from page range 20-40 to logs/temp_parallel_mining/register_range_20_40_125711334934080.txt
+2026-02-05 10:30:12,694 | INFO | Found 100 items on page 98
+2026-02-05 10:30:12,734 | INFO | Processed 20/21 pages from range 100-120
+2026-02-05 10:30:12,848 | INFO | Found 100 items on page 120
+2026-02-05 10:30:12,889 | INFO | Found 100 items on page 140
+2026-02-05 10:30:12,894 | INFO | Processed 19/21 pages from range 80-100
+2026-02-05 10:30:13,048 | INFO | Processed 21/21 pages from range 100-120
+2026-02-05 10:30:13,066 | INFO | Saved 2100 items from page range 100-120 to logs/temp_parallel_mining/register_range_100_120_125711301314112.txt
+2026-02-05 10:30:13,089 | INFO | Processed 21/21 pages from range 120-140
+2026-02-05 10:30:13,107 | INFO | Saved 2100 items from page range 120-140 to logs/temp_parallel_mining/register_range_120_140_125711292905024.txt
+2026-02-05 10:30:13,314 | INFO | Found 100 items on page 99
+2026-02-05 10:30:13,515 | INFO | Processed 20/21 pages from range 80-100
+2026-02-05 10:30:13,530 | INFO | Found 100 items on page 100
+2026-02-05 10:30:13,731 | INFO | Processed 21/21 pages from range 80-100
+2026-02-05 10:30:13,749 | INFO | Saved 2100 items from page range 80-100 to logs/temp_parallel_mining/register_range_80_100_125711309723200.txt
+2026-02-05 10:30:13,753 | INFO | Merging 6 temporary files into /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2021.txt
+2026-02-05 10:30:13,926 | INFO | Added 2518 new items to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2021.txt
+2026-02-05 10:30:13,931 | INFO | Parallel processing complete. Results saved to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2021.txt
+2026-02-05 10:30:13 | Completed step 2/6: Mine Federal Register data for 2021
+[2/6] Mine Federal Register data for 2021... done
+2026-02-05 10:30:13 | Starting step 3/6: Mine Federal Register data for 2022
+[3/6] Mine Federal Register data for 2022...
+2026-02-05 10:30:14,226 | INFO | Restricting queries to publication dates between 2022-01-01 and 2022-12-31
+2026-02-05 10:30:14,236 | INFO | Found 137 existing HTML files
+2026-02-05 10:30:14,245 | INFO | Found 137 existing published titles
+2026-02-05 10:30:14,245 | INFO | Starting parallel processing with 8 threads for page ranges: 20-40,40-60,60-80,80-100,100-120,120-140
+2026-02-05 10:30:14,246 | INFO | Processing page range 20-40 with 100 items per page
+2026-02-05 10:30:14,247 | INFO | Processing page range 40-60 with 100 items per page
+2026-02-05 10:30:14,248 | INFO | Processing page range 60-80 with 100 items per page
+2026-02-05 10:30:14,249 | INFO | Processing page range 80-100 with 100 items per page
+2026-02-05 10:30:14,250 | INFO | Processing page range 100-120 with 100 items per page
+2026-02-05 10:30:14,251 | INFO | Processing page range 120-140 with 100 items per page
+2026-02-05 10:30:14,690 | INFO | Found 100 items on page 120
+2026-02-05 10:30:14,738 | INFO | Found 100 items on page 60
+2026-02-05 10:30:14,804 | INFO | Found 100 items on page 100
+2026-02-05 10:30:14,888 | INFO | Found 100 items on page 20
+2026-02-05 10:30:14,890 | INFO | Processed 1/21 pages from range 120-140
+2026-02-05 10:30:14,939 | INFO | Processed 1/21 pages from range 60-80
+2026-02-05 10:30:14,946 | INFO | Found 100 items on page 80
+2026-02-05 10:30:15,005 | INFO | Processed 1/21 pages from range 100-120
+2026-02-05 10:30:15,089 | INFO | Processed 1/21 pages from range 20-40
+2026-02-05 10:30:15,146 | INFO | Processed 1/21 pages from range 80-100
+2026-02-05 10:30:15,183 | INFO | Found 100 items on page 40
+2026-02-05 10:30:15,291 | INFO | Found 100 items on page 121
+2026-02-05 10:30:15,373 | INFO | Found 100 items on page 101
+2026-02-05 10:30:15,384 | INFO | Processed 1/21 pages from range 40-60
+2026-02-05 10:30:15,396 | INFO | Found 100 items on page 61
+2026-02-05 10:30:15,491 | INFO | Processed 2/21 pages from range 120-140
+2026-02-05 10:30:15,545 | INFO | Found 100 items on page 21
+2026-02-05 10:30:15,574 | INFO | Processed 2/21 pages from range 100-120
+2026-02-05 10:30:15,596 | INFO | Found 100 items on page 81
+2026-02-05 10:30:15,597 | INFO | Processed 2/21 pages from range 60-80
+2026-02-05 10:30:15,705 | INFO | Found 100 items on page 41
+2026-02-05 10:30:15,746 | INFO | Processed 2/21 pages from range 20-40
+2026-02-05 10:30:15,796 | INFO | Processed 2/21 pages from range 80-100
+2026-02-05 10:30:15,905 | INFO | Processed 2/21 pages from range 40-60
+2026-02-05 10:30:15,938 | INFO | Found 100 items on page 102
+2026-02-05 10:30:16,001 | INFO | Found 100 items on page 122
+2026-02-05 10:30:16,138 | INFO | Processed 3/21 pages from range 100-120
+2026-02-05 10:30:16,199 | INFO | Found 100 items on page 62
+2026-02-05 10:30:16,201 | INFO | Processed 3/21 pages from range 120-140
+2026-02-05 10:30:16,399 | INFO | Processed 3/21 pages from range 60-80
+2026-02-05 10:30:16,442 | INFO | Found 100 items on page 22
+2026-02-05 10:30:16,455 | INFO | Found 100 items on page 103
+2026-02-05 10:30:16,579 | INFO | Found 100 items on page 123
+2026-02-05 10:30:16,599 | INFO | Found 100 items on page 82
+2026-02-05 10:30:16,642 | INFO | Processed 3/21 pages from range 20-40
+2026-02-05 10:30:16,655 | INFO | Processed 4/21 pages from range 100-120
+2026-02-05 10:30:16,780 | INFO | Processed 4/21 pages from range 120-140
+2026-02-05 10:30:16,799 | INFO | Processed 3/21 pages from range 80-100
+2026-02-05 10:30:16,857 | INFO | Found 100 items on page 42
+2026-02-05 10:30:17,040 | INFO | Found 100 items on page 63
+2026-02-05 10:30:17,058 | INFO | Processed 3/21 pages from range 40-60
+2026-02-05 10:30:17,115 | INFO | Found 100 items on page 23
+2026-02-05 10:30:17,215 | INFO | Found 100 items on page 104
+2026-02-05 10:30:17,240 | INFO | Processed 4/21 pages from range 60-80
+2026-02-05 10:30:17,316 | INFO | Processed 4/21 pages from range 20-40
+2026-02-05 10:30:17,416 | INFO | Processed 5/21 pages from range 100-120
+2026-02-05 10:30:17,500 | INFO | Found 100 items on page 124
+2026-02-05 10:30:17,674 | INFO | Found 100 items on page 83
+2026-02-05 10:30:17,701 | INFO | Processed 5/21 pages from range 120-140
+2026-02-05 10:30:17,819 | INFO | Found 100 items on page 43
+2026-02-05 10:30:17,874 | INFO | Processed 4/21 pages from range 80-100
+2026-02-05 10:30:18,019 | INFO | Processed 4/21 pages from range 40-60
+2026-02-05 10:30:18,040 | INFO | Found 100 items on page 64
+2026-02-05 10:30:18,072 | INFO | Found 100 items on page 125
+2026-02-05 10:30:18,172 | INFO | Found 100 items on page 24
+2026-02-05 10:30:18,211 | INFO | Found 100 items on page 84
+2026-02-05 10:30:18,240 | INFO | Processed 5/21 pages from range 60-80
+2026-02-05 10:30:18,273 | INFO | Processed 6/21 pages from range 120-140
+2026-02-05 10:30:18,373 | INFO | Processed 5/21 pages from range 20-40
+2026-02-05 10:30:18,412 | INFO | Processed 5/21 pages from range 80-100
+2026-02-05 10:30:18,454 | INFO | Found 100 items on page 105
+2026-02-05 10:30:18,569 | INFO | Found 100 items on page 44
+2026-02-05 10:30:18,580 | INFO | Found 100 items on page 126
+2026-02-05 10:30:18,655 | INFO | Processed 6/21 pages from range 100-120
+2026-02-05 10:30:18,769 | INFO | Processed 5/21 pages from range 40-60
+2026-02-05 10:30:18,780 | INFO | Processed 7/21 pages from range 120-140
+2026-02-05 10:30:18,858 | INFO | Found 100 items on page 65
+2026-02-05 10:30:18,961 | INFO | Found 100 items on page 25
+2026-02-05 10:30:19,058 | INFO | Processed 6/21 pages from range 60-80
+2026-02-05 10:30:19,161 | INFO | Processed 6/21 pages from range 20-40
+2026-02-05 10:30:19,219 | INFO | Found 100 items on page 85
+2026-02-05 10:30:19,347 | INFO | Found 100 items on page 66
+2026-02-05 10:30:19,419 | INFO | Processed 6/21 pages from range 80-100
+2026-02-05 10:30:19,434 | INFO | Found 100 items on page 106
+2026-02-05 10:30:19,547 | INFO | Processed 7/21 pages from range 60-80
+2026-02-05 10:30:19,634 | INFO | Processed 7/21 pages from range 100-120
+2026-02-05 10:30:19,793 | INFO | Found 100 items on page 45
+2026-02-05 10:30:19,854 | INFO | Found 100 items on page 67
+2026-02-05 10:30:19,949 | INFO | Found 100 items on page 127
+2026-02-05 10:30:19,964 | INFO | Found 100 items on page 26
+2026-02-05 10:30:19,994 | INFO | Processed 6/21 pages from range 40-60
+2026-02-05 10:30:20,043 | INFO | Found 100 items on page 107
+2026-02-05 10:30:20,054 | INFO | Processed 8/21 pages from range 60-80
+2026-02-05 10:30:20,149 | INFO | Processed 8/21 pages from range 120-140
+2026-02-05 10:30:20,164 | INFO | Processed 7/21 pages from range 20-40
+2026-02-05 10:30:20,243 | INFO | Processed 8/21 pages from range 100-120
+2026-02-05 10:30:20,266 | INFO | Found 100 items on page 86
+2026-02-05 10:30:20,358 | INFO | Found 100 items on page 46
+2026-02-05 10:30:20,434 | INFO | Found 100 items on page 27
+2026-02-05 10:30:20,467 | INFO | Processed 7/21 pages from range 80-100
+2026-02-05 10:30:20,559 | INFO | Processed 7/21 pages from range 40-60
+2026-02-05 10:30:20,614 | INFO | Found 100 items on page 68
+2026-02-05 10:30:20,634 | INFO | Processed 8/21 pages from range 20-40
+2026-02-05 10:30:20,815 | INFO | Processed 9/21 pages from range 60-80
+2026-02-05 10:30:20,842 | INFO | Found 100 items on page 128
+2026-02-05 10:30:21,007 | INFO | Found 100 items on page 108
+2026-02-05 10:30:21,042 | INFO | Processed 9/21 pages from range 120-140
+2026-02-05 10:30:21,085 | INFO | Found 100 items on page 69
+2026-02-05 10:30:21,208 | INFO | Processed 9/21 pages from range 100-120
+2026-02-05 10:30:21,228 | INFO | Found 100 items on page 87
+2026-02-05 10:30:21,285 | INFO | Processed 10/21 pages from range 60-80
+2026-02-05 10:30:21,340 | INFO | Found 100 items on page 129
+2026-02-05 10:30:21,428 | INFO | Processed 8/21 pages from range 80-100
+2026-02-05 10:30:21,517 | INFO | Found 100 items on page 47
+2026-02-05 10:30:21,540 | INFO | Processed 10/21 pages from range 120-140
+2026-02-05 10:30:21,567 | INFO | Found 100 items on page 109
+2026-02-05 10:30:21,691 | INFO | Found 100 items on page 28
+2026-02-05 10:30:21,717 | INFO | Processed 8/21 pages from range 40-60
+2026-02-05 10:30:21,767 | INFO | Processed 10/21 pages from range 100-120
+2026-02-05 10:30:21,780 | INFO | Found 100 items on page 70
+2026-02-05 10:30:21,892 | INFO | Processed 9/21 pages from range 20-40
+2026-02-05 10:30:21,980 | INFO | Processed 11/21 pages from range 60-80
+2026-02-05 10:30:22,033 | INFO | Found 100 items on page 88
+2026-02-05 10:30:22,140 | INFO | Found 100 items on page 29
+2026-02-05 10:30:22,196 | INFO | Found 100 items on page 130
+2026-02-05 10:30:22,234 | INFO | Processed 9/21 pages from range 80-100
+2026-02-05 10:30:22,340 | INFO | Processed 10/21 pages from range 20-40
+2026-02-05 10:30:22,352 | INFO | Found 100 items on page 71
+2026-02-05 10:30:22,396 | INFO | Processed 11/21 pages from range 120-140
+2026-02-05 10:30:22,551 | INFO | Found 100 items on page 48
+2026-02-05 10:30:22,552 | INFO | Processed 12/21 pages from range 60-80
+2026-02-05 10:30:22,572 | INFO | Found 100 items on page 89
+2026-02-05 10:30:22,604 | INFO | Found 100 items on page 110
+2026-02-05 10:30:22,751 | INFO | Processed 9/21 pages from range 40-60
+2026-02-05 10:30:22,773 | INFO | Processed 10/21 pages from range 80-100
+2026-02-05 10:30:22,804 | INFO | Processed 11/21 pages from range 100-120
+2026-02-05 10:30:22,816 | INFO | Found 100 items on page 30
+2026-02-05 10:30:22,820 | INFO | Found 100 items on page 72
+2026-02-05 10:30:22,978 | INFO | Found 100 items on page 131
+2026-02-05 10:30:23,017 | INFO | Processed 11/21 pages from range 20-40
+2026-02-05 10:30:23,021 | INFO | Processed 13/21 pages from range 60-80
+2026-02-05 10:30:23,178 | INFO | Processed 12/21 pages from range 120-140
+2026-02-05 10:30:23,207 | INFO | Found 100 items on page 49
+2026-02-05 10:30:23,313 | INFO | Found 100 items on page 73
+2026-02-05 10:30:23,408 | INFO | Processed 10/21 pages from range 40-60
+2026-02-05 10:30:23,414 | INFO | Found 100 items on page 90
+2026-02-05 10:30:23,510 | INFO | Found 100 items on page 132
+2026-02-05 10:30:23,514 | INFO | Processed 14/21 pages from range 60-80
+2026-02-05 10:30:23,614 | INFO | Processed 11/21 pages from range 80-100
+2026-02-05 10:30:23,619 | INFO | Found 100 items on page 111
+2026-02-05 10:30:23,711 | INFO | Processed 13/21 pages from range 120-140
+2026-02-05 10:30:23,820 | INFO | Processed 12/21 pages from range 100-120
+2026-02-05 10:30:23,890 | INFO | Found 100 items on page 31
+2026-02-05 10:30:23,920 | INFO | Found 100 items on page 74
+2026-02-05 10:30:23,949 | INFO | Found 100 items on page 50
+2026-02-05 10:30:24,091 | INFO | Processed 12/21 pages from range 20-40
+2026-02-05 10:30:24,121 | INFO | Processed 15/21 pages from range 60-80
+2026-02-05 10:30:24,150 | INFO | Processed 11/21 pages from range 40-60
+2026-02-05 10:30:24,188 | INFO | Found 100 items on page 91
+2026-02-05 10:30:24,356 | INFO | Found 100 items on page 133
+2026-02-05 10:30:24,388 | INFO | Processed 12/21 pages from range 80-100
+2026-02-05 10:30:24,556 | INFO | Processed 14/21 pages from range 120-140
+2026-02-05 10:30:24,614 | INFO | Found 100 items on page 112
+2026-02-05 10:30:24,630 | INFO | Found 100 items on page 32
+2026-02-05 10:30:24,752 | INFO | Found 100 items on page 75
+2026-02-05 10:30:24,814 | INFO | Processed 13/21 pages from range 100-120
+2026-02-05 10:30:24,830 | INFO | Processed 13/21 pages from range 20-40
+2026-02-05 10:30:24,888 | INFO | Found 100 items on page 92
+2026-02-05 10:30:24,952 | INFO | Processed 16/21 pages from range 60-80
+2026-02-05 10:30:25,052 | INFO | Found 100 items on page 51
+2026-02-05 10:30:25,088 | INFO | Processed 13/21 pages from range 80-100
+2026-02-05 10:30:25,253 | INFO | Processed 12/21 pages from range 40-60
+2026-02-05 10:30:25,286 | INFO | Found 100 items on page 134
+2026-02-05 10:30:25,370 | INFO | Found 100 items on page 76
+2026-02-05 10:30:25,486 | INFO | Processed 15/21 pages from range 120-140
+2026-02-05 10:30:25,516 | INFO | Found 100 items on page 113
+2026-02-05 10:30:25,545 | INFO | Found 100 items on page 93
+2026-02-05 10:30:25,570 | INFO | Processed 17/21 pages from range 60-80
+2026-02-05 10:30:25,687 | INFO | Found 100 items on page 52
+2026-02-05 10:30:25,716 | INFO | Processed 14/21 pages from range 100-120
+2026-02-05 10:30:25,722 | INFO | Found 100 items on page 33
+2026-02-05 10:30:25,745 | INFO | Processed 14/21 pages from range 80-100
+2026-02-05 10:30:25,839 | INFO | Found 100 items on page 77
+2026-02-05 10:30:25,888 | INFO | Processed 13/21 pages from range 40-60
+2026-02-05 10:30:25,901 | INFO | Found 100 items on page 135
+2026-02-05 10:30:25,923 | INFO | Processed 14/21 pages from range 20-40
+2026-02-05 10:30:26,039 | INFO | Processed 18/21 pages from range 60-80
+2026-02-05 10:30:26,083 | INFO | Found 100 items on page 114
+2026-02-05 10:30:26,101 | INFO | Processed 16/21 pages from range 120-140
+2026-02-05 10:30:26,158 | INFO | Found 100 items on page 53
+2026-02-05 10:30:26,248 | INFO | Found 100 items on page 94
+2026-02-05 10:30:26,284 | INFO | Processed 15/21 pages from range 100-120
+2026-02-05 10:30:26,359 | INFO | Processed 14/21 pages from range 40-60
+2026-02-05 10:30:26,379 | INFO | Found 100 items on page 34
+2026-02-05 10:30:26,448 | INFO | Processed 15/21 pages from range 80-100
+2026-02-05 10:30:26,557 | INFO | Found 100 items on page 78
+2026-02-05 10:30:26,579 | INFO | Processed 15/21 pages from range 20-40
+2026-02-05 10:30:26,597 | INFO | Found 100 items on page 54
+2026-02-05 10:30:26,758 | INFO | Processed 19/21 pages from range 60-80
+2026-02-05 10:30:26,769 | INFO | Found 100 items on page 136
+2026-02-05 10:30:26,797 | INFO | Processed 15/21 pages from range 40-60
+2026-02-05 10:30:26,853 | INFO | Found 100 items on page 35
+2026-02-05 10:30:26,952 | INFO | Found 100 items on page 115
+2026-02-05 10:30:26,970 | INFO | Processed 17/21 pages from range 120-140
+2026-02-05 10:30:27,053 | INFO | Processed 16/21 pages from range 20-40
+2026-02-05 10:30:27,131 | INFO | Found 100 items on page 95
+2026-02-05 10:30:27,152 | INFO | Processed 16/21 pages from range 100-120
+2026-02-05 10:30:27,159 | INFO | Found 100 items on page 79
+2026-02-05 10:30:27,331 | INFO | Processed 16/21 pages from range 80-100
+2026-02-05 10:30:27,359 | INFO | Found 100 items on page 55
+2026-02-05 10:30:27,360 | INFO | Processed 20/21 pages from range 60-80
+2026-02-05 10:30:27,374 | INFO | Found 100 items on page 80
+2026-02-05 10:30:27,560 | INFO | Processed 16/21 pages from range 40-60
+2026-02-05 10:30:27,572 | INFO | Found 100 items on page 137
+2026-02-05 10:30:27,575 | INFO | Processed 21/21 pages from range 60-80
+2026-02-05 10:30:27,592 | INFO | Saved 2100 items from page range 60-80 to logs/temp_parallel_mining/register_range_60_80_136508674713152.txt
+2026-02-05 10:30:27,733 | INFO | Found 100 items on page 36
+2026-02-05 10:30:27,773 | INFO | Processed 18/21 pages from range 120-140
+2026-02-05 10:30:27,853 | INFO | Found 100 items on page 56
+2026-02-05 10:30:27,934 | INFO | Processed 17/21 pages from range 20-40
+2026-02-05 10:30:27,943 | INFO | Found 100 items on page 116
+2026-02-05 10:30:28,053 | INFO | Processed 17/21 pages from range 40-60
+2026-02-05 10:30:28,144 | INFO | Processed 17/21 pages from range 100-120
+2026-02-05 10:30:28,163 | INFO | Found 100 items on page 37
+2026-02-05 10:30:28,189 | INFO | Found 100 items on page 96
+2026-02-05 10:30:28,363 | INFO | Processed 18/21 pages from range 20-40
+2026-02-05 10:30:28,389 | INFO | Processed 17/21 pages from range 80-100
+2026-02-05 10:30:28,429 | INFO | Found 100 items on page 57
+2026-02-05 10:30:28,623 | INFO | Found 100 items on page 138
+2026-02-05 10:30:28,630 | INFO | Processed 18/21 pages from range 40-60
+2026-02-05 10:30:28,686 | INFO | Found 100 items on page 97
+2026-02-05 10:30:28,771 | INFO | Found 100 items on page 117
+2026-02-05 10:30:28,824 | INFO | Processed 19/21 pages from range 120-140
+2026-02-05 10:30:28,887 | INFO | Processed 18/21 pages from range 80-100
+2026-02-05 10:30:28,940 | INFO | Found 100 items on page 38
+2026-02-05 10:30:28,971 | INFO | Processed 18/21 pages from range 100-120
+2026-02-05 10:30:29,093 | INFO | Found 100 items on page 58
+2026-02-05 10:30:29,141 | INFO | Processed 19/21 pages from range 20-40
+2026-02-05 10:30:29,214 | INFO | Found 100 items on page 139
+2026-02-05 10:30:29,293 | INFO | Processed 19/21 pages from range 40-60
+2026-02-05 10:30:29,414 | INFO | Processed 20/21 pages from range 120-140
+2026-02-05 10:30:29,433 | INFO | Found 100 items on page 98
+2026-02-05 10:30:29,437 | INFO | Found 100 items on page 39
+2026-02-05 10:30:29,634 | INFO | Processed 19/21 pages from range 80-100
+2026-02-05 10:30:29,637 | INFO | Processed 20/21 pages from range 20-40
+2026-02-05 10:30:29,679 | INFO | Found 100 items on page 118
+2026-02-05 10:30:29,719 | INFO | Found 100 items on page 140
+2026-02-05 10:30:29,850 | INFO | Found 100 items on page 40
+2026-02-05 10:30:29,880 | INFO | Processed 19/21 pages from range 100-120
+2026-02-05 10:30:29,919 | INFO | Processed 21/21 pages from range 120-140
+2026-02-05 10:30:29,937 | INFO | Saved 2100 items from page range 120-140 to logs/temp_parallel_mining/register_range_120_140_136508649485888.txt
+2026-02-05 10:30:29,952 | INFO | Found 100 items on page 59
+2026-02-05 10:30:29,963 | INFO | Found 100 items on page 99
+2026-02-05 10:30:30,050 | INFO | Processed 21/21 pages from range 20-40
+2026-02-05 10:30:30,070 | INFO | Saved 2100 items from page range 20-40 to logs/temp_parallel_mining/register_range_20_40_136508691514944.txt
+2026-02-05 10:30:30,152 | INFO | Processed 20/21 pages from range 40-60
+2026-02-05 10:30:30,164 | INFO | Processed 20/21 pages from range 80-100
+2026-02-05 10:30:30,169 | INFO | Found 100 items on page 60
+2026-02-05 10:30:30,180 | INFO | Found 100 items on page 100
+2026-02-05 10:30:30,247 | INFO | Found 100 items on page 119
+2026-02-05 10:30:30,369 | INFO | Processed 21/21 pages from range 40-60
+2026-02-05 10:30:30,380 | INFO | Processed 21/21 pages from range 80-100
+2026-02-05 10:30:30,399 | INFO | Saved 2100 items from page range 40-60 to logs/temp_parallel_mining/register_range_40_60_136508683122240.txt
+2026-02-05 10:30:30,411 | INFO | Saved 2100 items from page range 80-100 to logs/temp_parallel_mining/register_range_80_100_136508666304064.txt
+2026-02-05 10:30:30,447 | INFO | Processed 20/21 pages from range 100-120
+2026-02-05 10:30:30,465 | INFO | Found 100 items on page 120
+2026-02-05 10:30:30,665 | INFO | Processed 21/21 pages from range 100-120
+2026-02-05 10:30:30,681 | INFO | Saved 2100 items from page range 100-120 to logs/temp_parallel_mining/register_range_100_120_136508657894976.txt
+2026-02-05 10:30:30,684 | INFO | Merging 6 temporary files into /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2022.txt
+2026-02-05 10:30:30,852 | INFO | Added 2501 new items to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2022.txt
+2026-02-05 10:30:30,856 | INFO | Parallel processing complete. Results saved to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2022.txt
+2026-02-05 10:30:30 | Completed step 3/6: Mine Federal Register data for 2022
+[3/6] Mine Federal Register data for 2022... done
+2026-02-05 10:30:30 | Starting step 4/6: Mine Federal Register data for 2023
+[4/6] Mine Federal Register data for 2023...
+2026-02-05 10:30:31,153 | INFO | Restricting queries to publication dates between 2023-01-01 and 2023-12-31
+2026-02-05 10:30:31,162 | INFO | Found 137 existing HTML files
+2026-02-05 10:30:31,169 | INFO | Found 137 existing published titles
+2026-02-05 10:30:31,170 | INFO | Starting parallel processing with 8 threads for page ranges: 20-40,40-60,60-80,80-100,100-120,120-140
+2026-02-05 10:30:31,170 | INFO | Processing page range 20-40 with 100 items per page
+2026-02-05 10:30:31,171 | INFO | Processing page range 40-60 with 100 items per page
+2026-02-05 10:30:31,172 | INFO | Processing page range 60-80 with 100 items per page
+2026-02-05 10:30:31,174 | INFO | Processing page range 80-100 with 100 items per page
+2026-02-05 10:30:31,176 | INFO | Processing page range 100-120 with 100 items per page
+2026-02-05 10:30:31,181 | INFO | Processing page range 120-140 with 100 items per page
+2026-02-05 10:30:31,460 | INFO | Found 100 items on page 60
+2026-02-05 10:30:31,604 | INFO | Found 100 items on page 20
+2026-02-05 10:30:31,661 | INFO | Processed 1/21 pages from range 60-80
+2026-02-05 10:30:31,719 | INFO | Found 100 items on page 40
+2026-02-05 10:30:31,805 | INFO | Processed 1/21 pages from range 20-40
+2026-02-05 10:30:31,885 | INFO | Found 100 items on page 100
+2026-02-05 10:30:31,919 | INFO | Found 100 items on page 120
+2026-02-05 10:30:31,920 | INFO | Processed 1/21 pages from range 40-60
+2026-02-05 10:30:31,931 | INFO | Found 100 items on page 80
+2026-02-05 10:30:32,086 | INFO | Processed 1/21 pages from range 100-120
+2026-02-05 10:30:32,102 | INFO | Found 100 items on page 61
+2026-02-05 10:30:32,120 | INFO | Processed 1/21 pages from range 120-140
+2026-02-05 10:30:32,132 | INFO | Processed 1/21 pages from range 80-100
+2026-02-05 10:30:32,228 | INFO | Found 100 items on page 41
+2026-02-05 10:30:32,302 | INFO | Processed 2/21 pages from range 60-80
+2026-02-05 10:30:32,333 | INFO | Found 100 items on page 21
+2026-02-05 10:30:32,428 | INFO | Processed 2/21 pages from range 40-60
+2026-02-05 10:30:32,519 | INFO | Found 100 items on page 101
+2026-02-05 10:30:32,533 | INFO | Processed 2/21 pages from range 20-40
+2026-02-05 10:30:32,674 | INFO | Found 100 items on page 121
+2026-02-05 10:30:32,720 | INFO | Processed 2/21 pages from range 100-120
+2026-02-05 10:30:32,754 | INFO | Found 100 items on page 22
+2026-02-05 10:30:32,874 | INFO | Processed 2/21 pages from range 120-140
+2026-02-05 10:30:32,925 | INFO | Found 100 items on page 81
+2026-02-05 10:30:32,954 | INFO | Processed 3/21 pages from range 20-40
+2026-02-05 10:30:33,073 | INFO | Found 100 items on page 62
+2026-02-05 10:30:33,125 | INFO | Processed 2/21 pages from range 80-100
+2026-02-05 10:30:33,213 | INFO | Found 100 items on page 23
+2026-02-05 10:30:33,273 | INFO | Processed 3/21 pages from range 60-80
+2026-02-05 10:30:33,279 | INFO | Found 100 items on page 42
+2026-02-05 10:30:33,413 | INFO | Processed 4/21 pages from range 20-40
+2026-02-05 10:30:33,479 | INFO | Processed 3/21 pages from range 40-60
+2026-02-05 10:30:33,517 | INFO | Found 100 items on page 102
+2026-02-05 10:30:33,578 | INFO | Found 100 items on page 63
+2026-02-05 10:30:33,718 | INFO | Processed 3/21 pages from range 100-120
+2026-02-05 10:30:33,756 | INFO | Found 100 items on page 43
+2026-02-05 10:30:33,759 | INFO | Found 100 items on page 122
+2026-02-05 10:30:33,778 | INFO | Processed 4/21 pages from range 60-80
+2026-02-05 10:30:33,956 | INFO | Processed 4/21 pages from range 40-60
+2026-02-05 10:30:33,959 | INFO | Processed 3/21 pages from range 120-140
+2026-02-05 10:30:34,010 | INFO | Found 100 items on page 103
+2026-02-05 10:30:34,038 | INFO | Found 100 items on page 24
+2026-02-05 10:30:34,045 | INFO | Found 100 items on page 82
+2026-02-05 10:30:34,210 | INFO | Processed 4/21 pages from range 100-120
+2026-02-05 10:30:34,235 | INFO | Found 100 items on page 123
+2026-02-05 10:30:34,238 | INFO | Processed 5/21 pages from range 20-40
+2026-02-05 10:30:34,245 | INFO | Processed 3/21 pages from range 80-100
+2026-02-05 10:30:34,281 | INFO | Found 100 items on page 64
+2026-02-05 10:30:34,436 | INFO | Processed 4/21 pages from range 120-140
+2026-02-05 10:30:34,478 | INFO | Found 100 items on page 44
+2026-02-05 10:30:34,482 | INFO | Processed 5/21 pages from range 60-80
+2026-02-05 10:30:34,524 | INFO | Found 100 items on page 104
+2026-02-05 10:30:34,661 | INFO | Found 100 items on page 25
+2026-02-05 10:30:34,679 | INFO | Processed 5/21 pages from range 40-60
+2026-02-05 10:30:34,724 | INFO | Processed 5/21 pages from range 100-120
+2026-02-05 10:30:34,857 | INFO | Found 100 items on page 83
+2026-02-05 10:30:34,862 | INFO | Processed 6/21 pages from range 20-40
+2026-02-05 10:30:35,057 | INFO | Processed 4/21 pages from range 80-100
+2026-02-05 10:30:35,131 | INFO | Found 100 items on page 105
+2026-02-05 10:30:35,244 | INFO | Found 100 items on page 65
+2026-02-05 10:30:35,286 | INFO | Found 100 items on page 124
+2026-02-05 10:30:35,331 | INFO | Processed 6/21 pages from range 100-120
+2026-02-05 10:30:35,370 | INFO | Found 100 items on page 84
+2026-02-05 10:30:35,444 | INFO | Processed 6/21 pages from range 60-80
+2026-02-05 10:30:35,486 | INFO | Processed 5/21 pages from range 120-140
+2026-02-05 10:30:35,570 | INFO | Processed 5/21 pages from range 80-100
+2026-02-05 10:30:35,610 | INFO | Found 100 items on page 45
+2026-02-05 10:30:35,653 | INFO | Found 100 items on page 106
+2026-02-05 10:30:35,746 | INFO | Found 100 items on page 26
+2026-02-05 10:30:35,810 | INFO | Processed 6/21 pages from range 40-60
+2026-02-05 10:30:35,854 | INFO | Processed 7/21 pages from range 100-120
+2026-02-05 10:30:35,867 | INFO | Found 100 items on page 125
+2026-02-05 10:30:35,895 | INFO | Found 100 items on page 66
+2026-02-05 10:30:35,947 | INFO | Processed 7/21 pages from range 20-40
+2026-02-05 10:30:36,067 | INFO | Processed 6/21 pages from range 120-140
+2026-02-05 10:30:36,095 | INFO | Processed 7/21 pages from range 60-80
+2026-02-05 10:30:36,101 | INFO | Found 100 items on page 85
+2026-02-05 10:30:36,213 | INFO | Found 100 items on page 107
+2026-02-05 10:30:36,253 | INFO | Found 100 items on page 27
+2026-02-05 10:30:36,301 | INFO | Processed 6/21 pages from range 80-100
+2026-02-05 10:30:36,305 | INFO | Found 100 items on page 46
+2026-02-05 10:30:36,312 | ERROR | Error processing page 86: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=86&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,312 | INFO | Processed 7/21 pages from range 80-100
+2026-02-05 10:30:36,322 | ERROR | Error processing page 87: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=87&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,322 | INFO | Processed 8/21 pages from range 80-100
+2026-02-05 10:30:36,331 | ERROR | Error processing page 88: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=88&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,331 | INFO | Processed 9/21 pages from range 80-100
+2026-02-05 10:30:36,341 | ERROR | Error processing page 89: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=89&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,341 | INFO | Processed 10/21 pages from range 80-100
+2026-02-05 10:30:36,351 | ERROR | Error processing page 90: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=90&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,351 | INFO | Processed 11/21 pages from range 80-100
+2026-02-05 10:30:36,360 | ERROR | Error processing page 91: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=91&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,361 | INFO | Processed 12/21 pages from range 80-100
+2026-02-05 10:30:36,371 | ERROR | Error processing page 92: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=92&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,371 | INFO | Processed 13/21 pages from range 80-100
+2026-02-05 10:30:36,381 | ERROR | Error processing page 93: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=93&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,382 | INFO | Processed 14/21 pages from range 80-100
+2026-02-05 10:30:36,391 | ERROR | Error processing page 94: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=94&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,391 | INFO | Processed 15/21 pages from range 80-100
+2026-02-05 10:30:36,401 | ERROR | Error processing page 95: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=95&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,401 | INFO | Processed 16/21 pages from range 80-100
+2026-02-05 10:30:36,410 | ERROR | Error processing page 96: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=96&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,410 | INFO | Processed 17/21 pages from range 80-100
+2026-02-05 10:30:36,413 | INFO | Processed 8/21 pages from range 100-120
+2026-02-05 10:30:36,419 | ERROR | Error processing page 97: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=97&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,419 | INFO | Processed 18/21 pages from range 80-100
+2026-02-05 10:30:36,423 | ERROR | Error processing page 108: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=108&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,423 | INFO | Processed 9/21 pages from range 100-120
+2026-02-05 10:30:36,428 | ERROR | Error processing page 98: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=98&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,428 | INFO | Processed 19/21 pages from range 80-100
+2026-02-05 10:30:36,433 | ERROR | Error processing page 109: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=109&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,433 | INFO | Processed 10/21 pages from range 100-120
+2026-02-05 10:30:36,437 | ERROR | Error processing page 99: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=99&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,437 | INFO | Processed 20/21 pages from range 80-100
+2026-02-05 10:30:36,443 | ERROR | Error processing page 110: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=110&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,443 | INFO | Processed 11/21 pages from range 100-120
+2026-02-05 10:30:36,448 | INFO | Found 100 items on page 67
+2026-02-05 10:30:36,449 | ERROR | Error processing page 100: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=100&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,449 | INFO | Processed 21/21 pages from range 80-100
+2026-02-05 10:30:36,453 | INFO | Processed 8/21 pages from range 20-40
+2026-02-05 10:30:36,455 | ERROR | Error processing page 111: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=111&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,455 | INFO | Processed 12/21 pages from range 100-120
+2026-02-05 10:30:36,458 | INFO | Saved 600 items from page range 80-100 to logs/temp_parallel_mining/register_range_80_100_137512084493888.txt
+2026-02-05 10:30:36,462 | ERROR | Error processing page 28: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=28&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,463 | INFO | Processed 9/21 pages from range 20-40
+2026-02-05 10:30:36,465 | ERROR | Error processing page 112: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=112&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,465 | INFO | Processed 13/21 pages from range 100-120
+2026-02-05 10:30:36,472 | ERROR | Error processing page 29: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=29&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,472 | INFO | Processed 10/21 pages from range 20-40
+2026-02-05 10:30:36,476 | ERROR | Error processing page 113: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=113&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,476 | INFO | Processed 14/21 pages from range 100-120
+2026-02-05 10:30:36,483 | ERROR | Error processing page 30: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=30&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,483 | INFO | Processed 11/21 pages from range 20-40
+2026-02-05 10:30:36,487 | ERROR | Error processing page 114: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=114&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,487 | INFO | Processed 15/21 pages from range 100-120
+2026-02-05 10:30:36,493 | ERROR | Error processing page 31: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=31&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,493 | INFO | Processed 12/21 pages from range 20-40
+2026-02-05 10:30:36,498 | ERROR | Error processing page 115: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=115&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,498 | INFO | Processed 16/21 pages from range 100-120
+2026-02-05 10:30:36,502 | INFO | Found 100 items on page 126
+2026-02-05 10:30:36,503 | ERROR | Error processing page 32: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=32&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,503 | INFO | Processed 13/21 pages from range 20-40
+2026-02-05 10:30:36,506 | INFO | Processed 7/21 pages from range 40-60
+2026-02-05 10:30:36,509 | ERROR | Error processing page 116: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=116&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,509 | INFO | Processed 17/21 pages from range 100-120
+2026-02-05 10:30:36,512 | ERROR | Error processing page 33: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=33&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,512 | INFO | Processed 14/21 pages from range 20-40
+2026-02-05 10:30:36,515 | ERROR | Error processing page 47: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=47&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,515 | INFO | Processed 8/21 pages from range 40-60
+2026-02-05 10:30:36,519 | ERROR | Error processing page 117: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=117&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,519 | INFO | Processed 18/21 pages from range 100-120
+2026-02-05 10:30:36,521 | ERROR | Error processing page 34: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=34&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,521 | INFO | Processed 15/21 pages from range 20-40
+2026-02-05 10:30:36,523 | ERROR | Error processing page 48: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=48&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,523 | INFO | Processed 9/21 pages from range 40-60
+2026-02-05 10:30:36,529 | ERROR | Error processing page 118: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=118&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,529 | INFO | Processed 19/21 pages from range 100-120
+2026-02-05 10:30:36,531 | ERROR | Error processing page 35: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=35&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,531 | INFO | Processed 16/21 pages from range 20-40
+2026-02-05 10:30:36,532 | ERROR | Error processing page 49: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=49&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,532 | INFO | Processed 10/21 pages from range 40-60
+2026-02-05 10:30:36,539 | ERROR | Error processing page 119: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=119&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,540 | ERROR | Error processing page 36: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=36&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,540 | INFO | Processed 17/21 pages from range 20-40
+2026-02-05 10:30:36,540 | INFO | Processed 20/21 pages from range 100-120
+2026-02-05 10:30:36,542 | ERROR | Error processing page 50: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=50&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,542 | INFO | Processed 11/21 pages from range 40-60
+2026-02-05 10:30:36,550 | ERROR | Error processing page 37: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=37&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,550 | INFO | Processed 18/21 pages from range 20-40
+2026-02-05 10:30:36,551 | ERROR | Error processing page 120: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=120&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,551 | INFO | Processed 21/21 pages from range 100-120
+2026-02-05 10:30:36,552 | ERROR | Error processing page 51: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=51&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,552 | INFO | Processed 12/21 pages from range 40-60
+2026-02-05 10:30:36,559 | ERROR | Error processing page 38: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=38&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,559 | INFO | Processed 19/21 pages from range 20-40
+2026-02-05 10:30:36,562 | INFO | Saved 800 items from page range 100-120 to logs/temp_parallel_mining/register_range_100_120_137512076084800.txt
+2026-02-05 10:30:36,569 | ERROR | Error processing page 39: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=39&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,569 | ERROR | Error processing page 52: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=52&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,570 | INFO | Processed 13/21 pages from range 40-60
+2026-02-05 10:30:36,569 | INFO | Processed 20/21 pages from range 20-40
+2026-02-05 10:30:36,580 | ERROR | Error processing page 40: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=40&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,580 | ERROR | Error processing page 53: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=53&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,580 | INFO | Processed 14/21 pages from range 40-60
+2026-02-05 10:30:36,580 | INFO | Processed 21/21 pages from range 20-40
+2026-02-05 10:30:36,587 | INFO | Saved 800 items from page range 20-40 to logs/temp_parallel_mining/register_range_20_40_137512109704768.txt
+2026-02-05 10:30:36,589 | ERROR | Error processing page 54: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=54&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,589 | INFO | Processed 15/21 pages from range 40-60
+2026-02-05 10:30:36,598 | ERROR | Error processing page 55: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=55&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,599 | INFO | Processed 16/21 pages from range 40-60
+2026-02-05 10:30:36,609 | ERROR | Error processing page 56: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=56&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,609 | INFO | Processed 17/21 pages from range 40-60
+2026-02-05 10:30:36,619 | ERROR | Error processing page 57: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=57&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,619 | INFO | Processed 18/21 pages from range 40-60
+2026-02-05 10:30:36,628 | ERROR | Error processing page 58: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=58&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,628 | INFO | Processed 19/21 pages from range 40-60
+2026-02-05 10:30:36,637 | ERROR | Error processing page 59: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=59&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,637 | INFO | Processed 20/21 pages from range 40-60
+2026-02-05 10:30:36,646 | ERROR | Error processing page 60: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=60&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,646 | INFO | Processed 21/21 pages from range 40-60
+2026-02-05 10:30:36,648 | INFO | Processed 8/21 pages from range 60-80
+2026-02-05 10:30:36,653 | INFO | Saved 700 items from page range 40-60 to logs/temp_parallel_mining/register_range_40_60_137512101312064.txt
+2026-02-05 10:30:36,658 | ERROR | Error processing page 68: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=68&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,658 | INFO | Processed 9/21 pages from range 60-80
+2026-02-05 10:30:36,667 | ERROR | Error processing page 69: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=69&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,667 | INFO | Processed 10/21 pages from range 60-80
+2026-02-05 10:30:36,676 | ERROR | Error processing page 70: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=70&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,677 | INFO | Processed 11/21 pages from range 60-80
+2026-02-05 10:30:36,686 | ERROR | Error processing page 71: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=71&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,686 | INFO | Processed 12/21 pages from range 60-80
+2026-02-05 10:30:36,695 | ERROR | Error processing page 72: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=72&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,695 | INFO | Processed 13/21 pages from range 60-80
+2026-02-05 10:30:36,702 | INFO | Processed 7/21 pages from range 120-140
+2026-02-05 10:30:36,704 | ERROR | Error processing page 73: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=73&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,705 | INFO | Processed 14/21 pages from range 60-80
+2026-02-05 10:30:36,713 | ERROR | Error processing page 127: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=127&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,713 | INFO | Processed 8/21 pages from range 120-140
+2026-02-05 10:30:36,715 | ERROR | Error processing page 74: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=74&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,715 | INFO | Processed 15/21 pages from range 60-80
+2026-02-05 10:30:36,723 | ERROR | Error processing page 128: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=128&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,723 | INFO | Processed 9/21 pages from range 120-140
+2026-02-05 10:30:36,726 | ERROR | Error processing page 75: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=75&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,726 | INFO | Processed 16/21 pages from range 60-80
+2026-02-05 10:30:36,734 | ERROR | Error processing page 129: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=129&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,734 | INFO | Processed 10/21 pages from range 120-140
+2026-02-05 10:30:36,736 | ERROR | Error processing page 76: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=76&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,736 | INFO | Processed 17/21 pages from range 60-80
+2026-02-05 10:30:36,744 | ERROR | Error processing page 130: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=130&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,744 | INFO | Processed 11/21 pages from range 120-140
+2026-02-05 10:30:36,746 | ERROR | Error processing page 77: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=77&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,746 | INFO | Processed 18/21 pages from range 60-80
+2026-02-05 10:30:36,754 | ERROR | Error processing page 131: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=131&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,754 | INFO | Processed 12/21 pages from range 120-140
+2026-02-05 10:30:36,756 | ERROR | Error processing page 78: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=78&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,756 | INFO | Processed 19/21 pages from range 60-80
+2026-02-05 10:30:36,764 | ERROR | Error processing page 132: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=132&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,764 | INFO | Processed 13/21 pages from range 120-140
+2026-02-05 10:30:36,766 | ERROR | Error processing page 79: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=79&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,766 | INFO | Processed 20/21 pages from range 60-80
+2026-02-05 10:30:36,774 | ERROR | Error processing page 133: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=133&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,775 | INFO | Processed 14/21 pages from range 120-140
+2026-02-05 10:30:36,776 | ERROR | Error processing page 80: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=80&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,776 | INFO | Processed 21/21 pages from range 60-80
+2026-02-05 10:30:36,784 | INFO | Saved 800 items from page range 60-80 to logs/temp_parallel_mining/register_range_60_80_137512092902976.txt
+2026-02-05 10:30:36,785 | ERROR | Error processing page 134: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=134&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,785 | INFO | Processed 15/21 pages from range 120-140
+2026-02-05 10:30:36,795 | ERROR | Error processing page 135: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=135&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,795 | INFO | Processed 16/21 pages from range 120-140
+2026-02-05 10:30:36,806 | ERROR | Error processing page 136: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=136&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,806 | INFO | Processed 17/21 pages from range 120-140
+2026-02-05 10:30:36,816 | ERROR | Error processing page 137: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=137&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,816 | INFO | Processed 18/21 pages from range 120-140
+2026-02-05 10:30:36,826 | ERROR | Error processing page 138: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=138&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,826 | INFO | Processed 19/21 pages from range 120-140
+2026-02-05 10:30:36,837 | ERROR | Error processing page 139: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=139&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,837 | INFO | Processed 20/21 pages from range 120-140
+2026-02-05 10:30:36,891 | ERROR | Error processing page 140: 429 Client Error: Too Many Requests for url: https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=140&order=relevance&conditions%5Bpublication_date%5D%5Bgte%5D=2023-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2023-12-31
+2026-02-05 10:30:36,891 | INFO | Processed 21/21 pages from range 120-140
+2026-02-05 10:30:36,896 | INFO | Saved 700 items from page range 120-140 to logs/temp_parallel_mining/register_range_120_140_137512067675712.txt
+2026-02-05 10:30:36,899 | INFO | Merging 6 temporary files into /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2023.txt
+2026-02-05 10:30:36,966 | INFO | Added 1298 new items to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2023.txt
+2026-02-05 10:30:36,968 | INFO | Parallel processing complete. Results saved to /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2023.txt
+2026-02-05 10:30:37 | Completed step 4/6: Mine Federal Register data for 2023
+[4/6] Mine Federal Register data for 2023... done
+2026-02-05 10:30:37 | Starting step 5/6: Publish up to 100 historical stories
+[5/6] Publish up to 100 historical stories...
+2026-02-05 10:30:37,136 | INFO | Found 2572 stories in /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2020.txt
+2026-02-05 10:30:37,184 | INFO | Found 2518 stories in /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2021.txt
+2026-02-05 10:30:37,235 | INFO | Found 2501 stories in /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2022.txt
+2026-02-05 10:30:37,265 | INFO | Found 1298 stories in /home/computeruse/claude-3-7-news-monitor/logs/historical_runs/federal_register_results_2023.txt
+2026-02-05 10:30:37,293 | INFO | Loaded 137 existing published titles
+2026-02-05 10:30:37,293 | INFO | Publishing 'Environmental Management Site-Specific Advisory Board, Savannah River Site' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/environmental-management-site-specific-advisory-board-savannah-river-site.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/environmental-management-site-specific-advisory-board-savannah-river-site.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/environmental-management-site-specific-advisory-board-savannah-river-site.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main 2bdba7b] Add story: Environmental Management Site-Specific Advisory Board, Savannah River Site
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/environmental-management-site-specific-advisory-board-savannah-river-site.html
+2026-02-05 10:30:37,353 | INFO | Publishing 'Combined Notice of Filings' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/combined-notice-of-filings.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/combined-notice-of-filings.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/combined-notice-of-filings.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main c7658d5] Add story: Combined Notice of Filings
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/combined-notice-of-filings.html
+2026-02-05 10:30:37,404 | INFO | Publishing 'STS Hydropower, LLC; Notice of Application Accepted For Filing and Soliciting Comments, Motions To Intervene, and Protests' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/sts-hydropower-llc-notice-of-application-accepted-for-filing-and-soliciting-comments-motions-to-intervene-and-protests.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/sts-hydropower-llc-notice-of-application-accepted-for-filing-and-soliciting-comments-motions-to-intervene-and-protests.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/sts-hydropower-llc-notice-of-application-accepted-for-filing-and-soliciting-comments-motions-to-intervene-and-protests.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main 2b994f5] Add story: STS Hydropower, LLC; Notice of Application Accepted For Filing and Soliciting Comments, Motions To Intervene, and Protests
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/sts-hydropower-llc-notice-of-application-accepted-for-filing-and-soliciting-comments-motions-to-intervene-and-protests.html
+2026-02-05 10:30:37,459 | INFO | Publishing 'Regulatory Considerations for Microneedling Products; Guidance for Industry and Food and Drug Administration Staff; Availability' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/regulatory-considerations-for-microneedling-products-guidance-for-industry-and-food-and-drug-administration-staff-availability.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/regulatory-considerations-for-microneedling-products-guidance-for-industry-and-food-and-drug-administration-staff-availability.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/regulatory-considerations-for-microneedling-products-guidance-for-industry-and-food-and-drug-administration-staff-availability.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main 6730550] Add story: Regulatory Considerations for Microneedling Products; Guidance for Industry and Food and Drug Administration Staff; Availability
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/regulatory-considerations-for-microneedling-products-guidance-for-industry-and-food-and-drug-administration-staff-availability.html
+2026-02-05 10:30:37,509 | INFO | Publishing 'Assessing User Fees Under the Prescription Drug User Fee Amendments of 2017; Revised Guidance for Industry; Availability' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/assessing-user-fees-under-the-prescription-drug-user-fee-amendments-of-2017-revised-guidance-for-industry-availability.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/assessing-user-fees-under-the-prescription-drug-user-fee-amendments-of-2017-revised-guidance-for-industry-availability.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/assessing-user-fees-under-the-prescription-drug-user-fee-amendments-of-2017-revised-guidance-for-industry-availability.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main 2eb0d2e] Add story: Assessing User Fees Under the Prescription Drug User Fee Amendments of 2017; Revised Guidance for Industry; Availability
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/assessing-user-fees-under-the-prescription-drug-user-fee-amendments-of-2017-revised-guidance-for-industry-availability.html
+2026-02-05 10:30:37,567 | INFO | Publishing 'Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Closed Meeting' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/eunice-kennedy-shriver-national-institute-of-child-health-human-development-notice-of-closed-meeting.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/eunice-kennedy-shriver-national-institute-of-child-health-human-development-notice-of-closed-meeting.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/eunice-kennedy-shriver-national-institute-of-child-health-human-development-notice-of-closed-meeting.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main b173956] Add story: Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Closed Meeting
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/eunice-kennedy-shriver-national-institute-of-child-health-human-development-notice-of-closed-meeting.html
+2026-02-05 10:30:37,623 | INFO | Publishing 'National Institute of Allergy and Infectious Diseases; Notice of Closed Meeting' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/national-institute-of-allergy-and-infectious-diseases-notice-of-closed-meeting.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/national-institute-of-allergy-and-infectious-diseases-notice-of-closed-meeting.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/national-institute-of-allergy-and-infectious-diseases-notice-of-closed-meeting.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main e014d04] Add story: National Institute of Allergy and Infectious Diseases; Notice of Closed Meeting
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/national-institute-of-allergy-and-infectious-diseases-notice-of-closed-meeting.html
+2026-02-05 10:30:37,681 | INFO | Publishing 'Notice of a Federal Advisory Committee Meeting Manufactured Housing Consensus Committee' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/notice-of-a-federal-advisory-committee-meeting-manufactured-housing-consensus-committee.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/notice-of-a-federal-advisory-committee-meeting-manufactured-housing-consensus-committee.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/notice-of-a-federal-advisory-committee-meeting-manufactured-housing-consensus-committee.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main 3d7a1d4] Add story: Notice of a Federal Advisory Committee Meeting Manufactured Housing Consensus Committee
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/notice-of-a-federal-advisory-committee-meeting-manufactured-housing-consensus-committee.html
+2026-02-05 10:30:37,739 | INFO | Publishing 'Petitions for Modification of Application of Existing Mandatory Safety Standards' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/petitions-for-modification-of-application-of-existing-mandatory-safety-standards.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/petitions-for-modification-of-application-of-existing-mandatory-safety-standards.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/petitions-for-modification-of-application-of-existing-mandatory-safety-standards.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main 0d98ca4] Add story: Petitions for Modification of Application of Existing Mandatory Safety Standards
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/petitions-for-modification-of-application-of-existing-mandatory-safety-standards.html
+2026-02-05 10:30:37,801 | INFO | Publishing 'Proposal Review Panel for Physics; Notice of Meeting' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/proposal-review-panel-for-physics-notice-of-meeting.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/proposal-review-panel-for-physics-notice-of-meeting.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/proposal-review-panel-for-physics-notice-of-meeting.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main cd3038d] Add story: Proposal Review Panel for Physics; Notice of Meeting
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/proposal-review-panel-for-physics-notice-of-meeting.html
+2026-02-05 10:30:37,858 | INFO | Publishing 'RTO/ISO Credit Principles and Practices Request for Technical Conference and Petition for Rulemaking; Notice of Technical Conference' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/rto-iso-credit-principles-and-practices-request-for-technical-conference-and-petition-for-rulemaking-notice-of-technical-conference.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/rto-iso-credit-principles-and-practices-request-for-technical-conference-and-petition-for-rulemaking-notice-of-technical-conference.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/rto-iso-credit-principles-and-practices-request-for-technical-conference-and-petition-for-rulemaking-notice-of-technical-conference.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main ece5d18] Add story: RTO/ISO Credit Principles and Practices Request for Technical Conference and Petition for Rulemaking; Notice of Technical Conference
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/rto-iso-credit-principles-and-practices-request-for-technical-conference-and-petition-for-rulemaking-notice-of-technical-conference.html
+2026-02-05 10:30:37,913 | INFO | Publishing 'Privacy Act of 1974; System of Records' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/privacy-act-of-1974-system-of-records.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/privacy-act-of-1974-system-of-records.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/privacy-act-of-1974-system-of-records.html to git index
+2026-02-05 10:30:37 [INFO] Creating git commit
+[main f114041] Add story: Privacy Act of 1974; System of Records
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/privacy-act-of-1974-system-of-records.html
+2026-02-05 10:30:37,968 | INFO | Publishing 'Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company' from federal_register_results_2020.txt
+2026-02-05 10:30:37 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:37 [INFO] Writing story to docs/20260205/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company.html
+2026-02-05 10:30:37 [INFO] Story published: docs/20260205/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company.html
+2026-02-05 10:30:37 [INFO] Adding docs/20260205/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 139901d] Add story: Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company.html
+2026-02-05 10:30:38,022 | INFO | Publishing 'Airworthiness Directives; Rolls-Royce Corporation (Type Certificate Previously Held by Allison Engine Company) Turboprop Engines' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/airworthiness-directives-rolls-royce-corporation-type-certificate-previously-held-by-allison-engine-company-turboprop-engines.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/airworthiness-directives-rolls-royce-corporation-type-certificate-previously-held-by-allison-engine-company-turboprop-engines.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/airworthiness-directives-rolls-royce-corporation-type-certificate-previously-held-by-allison-engine-company-turboprop-engines.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 20b2725] Add story: Airworthiness Directives; Rolls-Royce Corporation (Type Certificate Previously Held by Allison Engine Company) Turboprop Engines
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/airworthiness-directives-rolls-royce-corporation-type-certificate-previously-held-by-allison-engine-company-turboprop-engines.html
+2026-02-05 10:30:38,076 | INFO | Publishing 'Self-Regulatory Organizations; Nasdaq PHLX LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Exchange's Transaction Fees at Equity 7, Section 3' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-to-amend-the-exchange-s-transaction.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-to-amend-the-exchange-s-transaction.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-to-amend-the-exchange-s-transaction.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 7471120] Add story: Self-Regulatory Organizations; Nasdaq PHLX LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Exchange's Transaction Fees at Equity 7, Section 3
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-to-amend-the-exchange-s-transaction.html
+2026-02-05 10:30:38,134 | INFO | Publishing 'Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Amending the NYSE Arca Equities Fees and Charges To Adopt an Alternative Method To Qualify for the Tier 2 Pricing Tier' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-amending-the-nyse-arca-equities-fees.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-amending-the-nyse-arca-equities-fees.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-amending-the-nyse-arca-equities-fees.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 49c895f] Add story: Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Amending the NYSE Arca Equities Fees and Charges To Adopt an Alternative Method To Qualify for the Tier 2 Pricing Tier
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change-amending-the-nyse-arca-equities-fees.html
+2026-02-05 10:30:38,195 | INFO | Publishing 'Principal Diversified Select Real Asset Fund, et al.' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/principal-diversified-select-real-asset-fund-et-al.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/principal-diversified-select-real-asset-fund-et-al.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/principal-diversified-select-real-asset-fund-et-al.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 50a8313] Add story: Principal Diversified Select Real Asset Fund, et al.
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/principal-diversified-select-real-asset-fund-et-al.html
+2026-02-05 10:30:38,252 | INFO | Publishing 'Notice of Intention To Cancel Registration Pursuant to the Investment Advisers Act of 1940' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/notice-of-intention-to-cancel-registration-pursuant-to-the-investment-advisers-act-of-1940.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/notice-of-intention-to-cancel-registration-pursuant-to-the-investment-advisers-act-of-1940.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/notice-of-intention-to-cancel-registration-pursuant-to-the-investment-advisers-act-of-1940.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main c774bb2] Add story: Notice of Intention To Cancel Registration Pursuant to the Investment Advisers Act of 1940
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/notice-of-intention-to-cancel-registration-pursuant-to-the-investment-advisers-act-of-1940.html
+2026-02-05 10:30:38,311 | INFO | Publishing 'Revocation of Class E Airspace; Delavan, WI' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/revocation-of-class-e-airspace-delavan-wi.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/revocation-of-class-e-airspace-delavan-wi.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/revocation-of-class-e-airspace-delavan-wi.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main d3b0ef8] Add story: Revocation of Class E Airspace; Delavan, WI
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/revocation-of-class-e-airspace-delavan-wi.html
+2026-02-05 10:30:38,361 | INFO | Publishing 'Security Zone; Fleet Week Demonstration Area, San Diego Bay, San Diego, CA' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/security-zone-fleet-week-demonstration-area-san-diego-bay-san-diego-ca.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/security-zone-fleet-week-demonstration-area-san-diego-bay-san-diego-ca.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/security-zone-fleet-week-demonstration-area-san-diego-bay-san-diego-ca.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 1bd9193] Add story: Security Zone; Fleet Week Demonstration Area, San Diego Bay, San Diego, CA
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/security-zone-fleet-week-demonstration-area-san-diego-bay-san-diego-ca.html
+2026-02-05 10:30:38,411 | INFO | Publishing 'RIN 1250-AA10' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/rin-1250-aa10.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/rin-1250-aa10.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/rin-1250-aa10.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 4c9ee51] Add story: RIN 1250-AA10
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/rin-1250-aa10.html
+2026-02-05 10:30:38,471 | INFO | Publishing 'Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; National Survey of Children's Health' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-national-survey.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-national-survey.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-national-survey.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main d013111] Add story: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; National Survey of Children's Health
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-national-survey.html
+2026-02-05 10:30:38,538 | INFO | Publishing 'Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Additional Protocol to the U.S.-International Atomic Energy Agency Safeguards' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-additional-prot.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-additional-prot.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-additional-prot.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 170c8b8] Add story: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Additional Protocol to the U.S.-International Atomic Energy Agency Safeguards
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-additional-prot.html
+2026-02-05 10:30:38,607 | INFO | Publishing 'Polyethylene Terephthalate Film, Sheet, and Strip From the United Arab Emirates: Preliminary Results of Antidumping Duty Administrative Review; 2018-2019' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/polyethylene-terephthalate-film-sheet-and-strip-from-the-united-arab-emirates-preliminary-results-of-antidumping-duty-administrative-review-2018-2019.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/polyethylene-terephthalate-film-sheet-and-strip-from-the-united-arab-emirates-preliminary-results-of-antidumping-duty-administrative-review-2018-2019.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/polyethylene-terephthalate-film-sheet-and-strip-from-the-united-arab-emirates-preliminary-results-of-antidumping-duty-administrative-review-2018-2019.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main d5dd1d4] Add story: Polyethylene Terephthalate Film, Sheet, and Strip From the United Arab Emirates: Preliminary Results of Antidumping Duty Administrative Review; 2018-2019
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/polyethylene-terephthalate-film-sheet-and-strip-from-the-united-arab-emirates-preliminary-results-of-antidumping-duty-administrative-review-2018-2019.html
+2026-02-05 10:30:38,671 | INFO | Publishing 'Monosodium Glutamate From the Republic of Indonesia: Final Results of Antidumping Duty Administrative Review; 2017-2018' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/monosodium-glutamate-from-the-republic-of-indonesia-final-results-of-antidumping-duty-administrative-review-2017-2018.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/monosodium-glutamate-from-the-republic-of-indonesia-final-results-of-antidumping-duty-administrative-review-2017-2018.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/monosodium-glutamate-from-the-republic-of-indonesia-final-results-of-antidumping-duty-administrative-review-2017-2018.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 200f3c9] Add story: Monosodium Glutamate From the Republic of Indonesia: Final Results of Antidumping Duty Administrative Review; 2017-2018
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/monosodium-glutamate-from-the-republic-of-indonesia-final-results-of-antidumping-duty-administrative-review-2017-2018.html
+2026-02-05 10:30:38,733 | INFO | Publishing 'Marine Mammals; File No. 23554' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/marine-mammals-file-no-23554.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/marine-mammals-file-no-23554.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/marine-mammals-file-no-23554.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 0af2349] Add story: Marine Mammals; File No. 23554
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/marine-mammals-file-no-23554.html
+2026-02-05 10:30:38,798 | INFO | Publishing 'Additional First Year Depreciation Deduction' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/additional-first-year-depreciation-deduction.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/additional-first-year-depreciation-deduction.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/additional-first-year-depreciation-deduction.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 458fcf2] Add story: Additional First Year Depreciation Deduction
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/additional-first-year-depreciation-deduction.html
+2026-02-05 10:30:38,861 | INFO | Publishing 'Compliance Requirements for Commodity Pool Operators on Form CPO-PQR' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/compliance-requirements-for-commodity-pool-operators-on-form-cpo-pqr.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/compliance-requirements-for-commodity-pool-operators-on-form-cpo-pqr.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/compliance-requirements-for-commodity-pool-operators-on-form-cpo-pqr.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main c4b0fdf] Add story: Compliance Requirements for Commodity Pool Operators on Form CPO-PQR
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/compliance-requirements-for-commodity-pool-operators-on-form-cpo-pqr.html
+2026-02-05 10:30:38,915 | INFO | Publishing 'Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main fa72225] Add story: Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states.html
+2026-02-05 10:30:38,968 | INFO | Publishing 'Pacific Island Fisheries; Swordfish Trip Limits in the American Samoa Pelagic Longline Fishery' from federal_register_results_2020.txt
+2026-02-05 10:30:38 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:38 [INFO] Writing story to docs/20260205/pacific-island-fisheries-swordfish-trip-limits-in-the-american-samoa-pelagic-longline-fishery.html
+2026-02-05 10:30:38 [INFO] Story published: docs/20260205/pacific-island-fisheries-swordfish-trip-limits-in-the-american-samoa-pelagic-longline-fishery.html
+2026-02-05 10:30:38 [INFO] Adding docs/20260205/pacific-island-fisheries-swordfish-trip-limits-in-the-american-samoa-pelagic-longline-fishery.html to git index
+2026-02-05 10:30:38 [INFO] Creating git commit
+[main 0bcccc0] Add story: Pacific Island Fisheries; Swordfish Trip Limits in the American Samoa Pelagic Longline Fishery
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/pacific-island-fisheries-swordfish-trip-limits-in-the-american-samoa-pelagic-longline-fishery.html
+2026-02-05 10:30:39,017 | INFO | Publishing 'Airworthiness Directives; Airbus Helicopters' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/airworthiness-directives-airbus-helicopters.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/airworthiness-directives-airbus-helicopters.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/airworthiness-directives-airbus-helicopters.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main fabdac6] Add story: Airworthiness Directives; Airbus Helicopters
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/airworthiness-directives-airbus-helicopters.html
+2026-02-05 10:30:39,067 | INFO | Publishing 'Airworthiness Directives; Airbus Defense and Space S.A. (Formerly Known as Construcciones Aeronauticas, S.A.) Airplanes' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/airworthiness-directives-airbus-defense-and-space-s-a-formerly-known-as-construcciones-aeronauticas-s-a-airplanes.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/airworthiness-directives-airbus-defense-and-space-s-a-formerly-known-as-construcciones-aeronauticas-s-a-airplanes.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/airworthiness-directives-airbus-defense-and-space-s-a-formerly-known-as-construcciones-aeronauticas-s-a-airplanes.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main cee8e34] Add story: Airworthiness Directives; Airbus Defense and Space S.A. (Formerly Known as Construcciones Aeronauticas, S.A.) Airplanes
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/airworthiness-directives-airbus-defense-and-space-s-a-formerly-known-as-construcciones-aeronauticas-s-a-airplanes.html
+2026-02-05 10:30:39,121 | INFO | Publishing 'Assessment and Collection of Regulatory Fees for Fiscal Year 2020' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/assessment-and-collection-of-regulatory-fees-for-fiscal-year-2020.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/assessment-and-collection-of-regulatory-fees-for-fiscal-year-2020.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/assessment-and-collection-of-regulatory-fees-for-fiscal-year-2020.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 6c06451] Add story: Assessment and Collection of Regulatory Fees for Fiscal Year 2020
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/assessment-and-collection-of-regulatory-fees-for-fiscal-year-2020.html
+2026-02-05 10:30:39,187 | INFO | Publishing 'Presidential Declaration Amendment of a Major Disaster for Public Assistance Only for the State of New York' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new-york.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new-york.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new-york.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 0b91bbe] Add story: Presidential Declaration Amendment of a Major Disaster for Public Assistance Only for the State of New York
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new-york.html
+2026-02-05 10:30:39,257 | INFO | Publishing 'Burlington International Airport, South Burlington VT; FAA Approval of Noise Compatibility Program' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/burlington-international-airport-south-burlington-vt-faa-approval-of-noise-compatibility-program.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/burlington-international-airport-south-burlington-vt-faa-approval-of-noise-compatibility-program.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/burlington-international-airport-south-burlington-vt-faa-approval-of-noise-compatibility-program.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 71c3312] Add story: Burlington International Airport, South Burlington VT; FAA Approval of Noise Compatibility Program
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/burlington-international-airport-south-burlington-vt-faa-approval-of-noise-compatibility-program.html
+2026-02-05 10:30:39,319 | INFO | Publishing 'Agency Information Collection Activities: Requests for Comments; Clearance of Renewed; Approval of Information Collection: General Aviation and Part 135 Activity Survey' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of-information-collection-general-aviation-and-part-135-a.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of-information-collection-general-aviation-and-part-135-a.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of-information-collection-general-aviation-and-part-135-a.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main a92ae8a] Add story: Agency Information Collection Activities: Requests for Comments; Clearance of Renewed; Approval of Information Collection: General Aviation and Part 135 Activity Survey
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of-information-collection-general-aviation-and-part-135-a.html
+2026-02-05 10:30:39,379 | INFO | Publishing 'Proposed Agency Information Collection Activities; Comment Request' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/proposed-agency-information-collection-activities-comment-request.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/proposed-agency-information-collection-activities-comment-request.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/proposed-agency-information-collection-activities-comment-request.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 4ed431a] Add story: Proposed Agency Information Collection Activities; Comment Request
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/proposed-agency-information-collection-activities-comment-request.html
+2026-02-05 10:30:39,444 | INFO | Publishing 'Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; National Survey of Drowsy Driving Knowledge, Attitudes and Behaviors' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-national-survey-of-drowsy-driving-k.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-national-survey-of-drowsy-driving-k.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-national-survey-of-drowsy-driving-k.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 05e6047] Add story: Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; National Survey of Drowsy Driving Knowledge, Attitudes and Behaviors
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-national-survey-of-drowsy-driving-k.html
+2026-02-05 10:30:39,510 | INFO | Publishing 'VA National Academic Affiliations Council, Notice of Meeting' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/va-national-academic-affiliations-council-notice-of-meeting.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/va-national-academic-affiliations-council-notice-of-meeting.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/va-national-academic-affiliations-council-notice-of-meeting.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 16d823a] Add story: VA National Academic Affiliations Council, Notice of Meeting
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/va-national-academic-affiliations-council-notice-of-meeting.html
+2026-02-05 10:30:39,565 | INFO | Publishing 'Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule in Connection With Migration' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-amend-its-fees-schedule-in-c.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-amend-its-fees-schedule-in-c.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-amend-its-fees-schedule-in-c.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 009c7c6] Add story: Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule in Connection With Migration
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-amend-its-fees-schedule-in-c.html
+2026-02-05 10:30:39,624 | INFO | Publishing 'Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt FINRA Rule 6439 (Requirements for Member Inter-Dealer Quotation Systems) and Delete the Rules Related to the OTC Bulletin Board Service' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 4b435f8] Add story: Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt FINRA Rule 6439 (Requirements for Member Inter-Dealer Quotation Systems) and Delete the Rules Related to the OTC Bulletin Board Service
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed.html
+2026-02-05 10:30:39,677 | INFO | Publishing 'Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend FINRA Rules To Reflect Name Changes to Two FINRA Departments: The Office of Dispute Resolution and the Department of Registration and Disclosure' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-am.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-am.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-am.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 58c15de] Add story: Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend FINRA Rules To Reflect Name Changes to Two FINRA Departments: The Office of Dispute Resolution and the Department of Registration and Disclosure
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-to-am.html
+2026-02-05 10:30:39,737 | INFO | Publishing 'Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Listing Rules Applicable to Special Purpose Acquisition Companies Whose Business Plan Is To Complete One or More Business Combinations' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed-rule-change-to.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed-rule-change-to.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed-rule-change-to.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 44446e7] Add story: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Listing Rules Applicable to Special Purpose Acquisition Companies Whose Business Plan Is To Complete One or More Business Combinations
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed-rule-change-to.html
+2026-02-05 10:30:39,792 | INFO | Publishing 'Public Availability of the Securities and Exchange Commission's FY 2016 and FY 2017 Service Contract Inventory' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/public-availability-of-the-securities-and-exchange-commission-s-fy-2016-and-fy-2017-service-contract-inventory.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/public-availability-of-the-securities-and-exchange-commission-s-fy-2016-and-fy-2017-service-contract-inventory.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/public-availability-of-the-securities-and-exchange-commission-s-fy-2016-and-fy-2017-service-contract-inventory.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 0ae0904] Add story: Public Availability of the Securities and Exchange Commission's FY 2016 and FY 2017 Service Contract Inventory
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/public-availability-of-the-securities-and-exchange-commission-s-fy-2016-and-fy-2017-service-contract-inventory.html
+2026-02-05 10:30:39,851 | INFO | Publishing 'Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating To Amend Its Fees Schedule' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-relating-to-amend-its-fees-sche.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-relating-to-amend-its-fees-sche.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-relating-to-amend-its-fees-sche.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 9da189b] Add story: Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating To Amend Its Fees Schedule
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change-relating-to-amend-its-fees-sche.html
+2026-02-05 10:30:39,921 | INFO | Publishing 'Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected' from federal_register_results_2020.txt
+2026-02-05 10:30:39 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:39 [INFO] Writing story to docs/20260205/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed-rule-change-to.html
+2026-02-05 10:30:39 [INFO] Story published: docs/20260205/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed-rule-change-to.html
+2026-02-05 10:30:39 [INFO] Adding docs/20260205/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period-for-commission-action-on-a-proposed-rule-change-to.html to git index
+2026-02-05 10:30:39 [INFO] Creating git commit
+[main 4652cb6] Add story: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+2026-02-05 10:30:39,988 | INFO | Publishing 'Amendment of Class D and Class E Airspace; Waterloo, IA' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/amendment-of-class-d-and-class-e-airspace-waterloo-ia.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/amendment-of-class-d-and-class-e-airspace-waterloo-ia.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/amendment-of-class-d-and-class-e-airspace-waterloo-ia.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main f040cfa] Add story: Amendment of Class D and Class E Airspace; Waterloo, IA
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/amendment-of-class-d-and-class-e-airspace-waterloo-ia.html
+2026-02-05 10:30:40,044 | INFO | Publishing 'Implementing Executive Order 13891; Promoting the Rule of Law Through Improved Agency Guidance Documents' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/implementing-executive-order-13891-promoting-the-rule-of-law-through-improved-agency-guidance-documents.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/implementing-executive-order-13891-promoting-the-rule-of-law-through-improved-agency-guidance-documents.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/implementing-executive-order-13891-promoting-the-rule-of-law-through-improved-agency-guidance-documents.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main ac6d65d] Add story: Implementing Executive Order 13891; Promoting the Rule of Law Through Improved Agency Guidance Documents
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/implementing-executive-order-13891-promoting-the-rule-of-law-through-improved-agency-guidance-documents.html
+2026-02-05 10:30:40,101 | INFO | Publishing 'Special Local Regulation; Boat Parade; San Diego, CA' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/special-local-regulation-boat-parade-san-diego-ca.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/special-local-regulation-boat-parade-san-diego-ca.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/special-local-regulation-boat-parade-san-diego-ca.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main d790d3f] Add story: Special Local Regulation; Boat Parade; San Diego, CA
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/special-local-regulation-boat-parade-san-diego-ca.html
+2026-02-05 10:30:40,171 | INFO | Publishing 'Partial Approval and Partial Disapproval of Air Quality Implementation Plans; Arizona; Nonattainment Plan for the Hayden SO2 Nonattainment Area' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-arizona-nonattainment-plan-for-the-hayden-so2-nonattainment-area.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-arizona-nonattainment-plan-for-the-hayden-so2-nonattainment-area.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-arizona-nonattainment-plan-for-the-hayden-so2-nonattainment-area.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main f2615af] Add story: Partial Approval and Partial Disapproval of Air Quality Implementation Plans; Arizona; Nonattainment Plan for the Hayden SO2 Nonattainment Area
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-arizona-nonattainment-plan-for-the-hayden-so2-nonattainment-area.html
+2026-02-05 10:30:40,244 | INFO | Publishing 'Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Import, End-User, Delivery Verification Certificates and Firearms Entry Clearance Requirements' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-import-end-user.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-import-end-user.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-import-end-user.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main 87ce090] Add story: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Import, End-User, Delivery Verification Certificates and Firearms Entry Clearance Requirements
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review-and-approval-comment-request-import-end-user.html
+2026-02-05 10:30:40,310 | INFO | Publishing 'Passenger Vehicle and Light Truck Tires From the Socialist Republic of Vietnam: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/passenger-vehicle-and-light-truck-tires-from-the-socialist-republic-of-vietnam-preliminary-affirmative-countervailing-duty-determination-and-alignment.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/passenger-vehicle-and-light-truck-tires-from-the-socialist-republic-of-vietnam-preliminary-affirmative-countervailing-duty-determination-and-alignment.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/passenger-vehicle-and-light-truck-tires-from-the-socialist-republic-of-vietnam-preliminary-affirmative-countervailing-duty-determination-and-alignment.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main 1b779cc] Add story: Passenger Vehicle and Light Truck Tires From the Socialist Republic of Vietnam: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/passenger-vehicle-and-light-truck-tires-from-the-socialist-republic-of-vietnam-preliminary-affirmative-countervailing-duty-determination-and-alignment.html
+2026-02-05 10:30:40,371 | INFO | Publishing 'Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Berth III New Mooring Dolphins Project in Ketchikan, Alaska' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-berth-iii-new-mooring-dolphins-project-in-ketchikan.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-berth-iii-new-mooring-dolphins-project-in-ketchikan.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-berth-iii-new-mooring-dolphins-project-in-ketchikan.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main dcfd515] Add story: Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Berth III New Mooring Dolphins Project in Ketchikan, Alaska
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-berth-iii-new-mooring-dolphins-project-in-ketchikan.html
+2026-02-05 10:30:40,430 | INFO | Publishing 'Notice of Correction' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/notice-of-correction.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/notice-of-correction.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/notice-of-correction.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main cf2e50f] Add story: Notice of Correction
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/notice-of-correction.html
+2026-02-05 10:30:40,480 | INFO | Publishing 'Performance Review Board Membership' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/performance-review-board-membership.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/performance-review-board-membership.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/performance-review-board-membership.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main 7b87247] Add story: Performance Review Board Membership
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/performance-review-board-membership.html
+2026-02-05 10:30:40,529 | INFO | Publishing 'Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Impact Study of Federally-Funded Magnet Schools' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-impact-study-of-fed.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-impact-study-of-fed.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-impact-study-of-fed.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main 860d5ed] Add story: Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Impact Study of Federally-Funded Magnet Schools
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-impact-study-of-fed.html
+2026-02-05 10:30:40,579 | INFO | Publishing 'Evaluating the DC Opportunity Scholarship Program After the 2017 Reauthorization; Correction' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/evaluating-the-dc-opportunity-scholarship-program-after-the-2017-reauthorization-correction.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/evaluating-the-dc-opportunity-scholarship-program-after-the-2017-reauthorization-correction.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/evaluating-the-dc-opportunity-scholarship-program-after-the-2017-reauthorization-correction.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main b8a330a] Add story: Evaluating the DC Opportunity Scholarship Program After the 2017 Reauthorization; Correction
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/evaluating-the-dc-opportunity-scholarship-program-after-the-2017-reauthorization-correction.html
+2026-02-05 10:30:40,626 | INFO | Publishing 'Combined Notice of Filings #1' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/combined-notice-of-filings-1.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/combined-notice-of-filings-1.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/combined-notice-of-filings-1.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main b475a2a] Add story: Combined Notice of Filings #1
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/combined-notice-of-filings-1.html
+2026-02-05 10:30:40,672 | INFO | Publishing 'Special Considerations, Incentives, and Programs To Support the Approval of New Animal Drugs for Minor Uses and for Minor Species; Draft Guidance for Industry; Availability; Extension of Comment Period' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/special-considerations-incentives-and-programs-to-support-the-approval-of-new-animal-drugs-for-minor-uses-and-for-minor-species-draft-guidance-for-ind.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/special-considerations-incentives-and-programs-to-support-the-approval-of-new-animal-drugs-for-minor-uses-and-for-minor-species-draft-guidance-for-ind.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/special-considerations-incentives-and-programs-to-support-the-approval-of-new-animal-drugs-for-minor-uses-and-for-minor-species-draft-guidance-for-ind.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main 0d0ac7b] Add story: Special Considerations, Incentives, and Programs To Support the Approval of New Animal Drugs for Minor Uses and for Minor Species; Draft Guidance for Industry; Availability; Extension of Comment Period
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/special-considerations-incentives-and-programs-to-support-the-approval-of-new-animal-drugs-for-minor-uses-and-for-minor-species-draft-guidance-for-ind.html
+2026-02-05 10:30:40,730 | INFO | Publishing 'Sunshine Act Meetings' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/sunshine-act-meetings.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/sunshine-act-meetings.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/sunshine-act-meetings.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main ddda97c] Add story: Sunshine Act Meetings
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/sunshine-act-meetings.html
+2026-02-05 10:30:40,787 | INFO | Publishing 'Holtec Decommissioning International, LLC; Indian Point Nuclear Generating Unit Nos. 1, 2, and 3' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main 3f6bee4] Add story: Holtec Decommissioning International, LLC; Indian Point Nuclear Generating Unit Nos. 1, 2, and 3
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3.html
+2026-02-05 10:30:40,840 | INFO | Publishing 'American Electric Power Service Corporation v. Midcontinent Independent System Operator, Inc. Southwest Power Pool, Inc.; City of Prescott, Arkansas v. Southwestern Electric Power Company Midcontinent Independent System Operator, Inc.; Supplemental Notice of Technical Conference' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/american-electric-power-service-corporation-v-midcontinent-independent-system-operator-inc-southwest-power-pool-inc-city-of-prescott-arkansas-v-southw.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/american-electric-power-service-corporation-v-midcontinent-independent-system-operator-inc-southwest-power-pool-inc-city-of-prescott-arkansas-v-southw.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/american-electric-power-service-corporation-v-midcontinent-independent-system-operator-inc-southwest-power-pool-inc-city-of-prescott-arkansas-v-southw.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main 48e8a9c] Add story: American Electric Power Service Corporation v. Midcontinent Independent System Operator, Inc. Southwest Power Pool, Inc.; City of Prescott, Arkansas v. Southwestern Electric Power Company Midcontinent Independent System Operator, Inc.; Supplemental Notice of Technical Conference
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/american-electric-power-service-corporation-v-midcontinent-independent-system-operator-inc-southwest-power-pool-inc-city-of-prescott-arkansas-v-southw.html
+2026-02-05 10:30:40,892 | INFO | Publishing 'Pine Creek Mine, LLC; Notice of Effectiveness of Withdrawal of Petition for Declaratory Order' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/pine-creek-mine-llc-notice-of-effectiveness-of-withdrawal-of-petition-for-declaratory-order.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/pine-creek-mine-llc-notice-of-effectiveness-of-withdrawal-of-petition-for-declaratory-order.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/pine-creek-mine-llc-notice-of-effectiveness-of-withdrawal-of-petition-for-declaratory-order.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main c9e3291] Add story: Pine Creek Mine, LLC; Notice of Effectiveness of Withdrawal of Petition for Declaratory Order
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/pine-creek-mine-llc-notice-of-effectiveness-of-withdrawal-of-petition-for-declaratory-order.html
+2026-02-05 10:30:40,944 | INFO | Publishing 'Meeting of the National Drinking Water Advisory Council' from federal_register_results_2020.txt
+2026-02-05 10:30:40 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:40 [INFO] Writing story to docs/20260205/meeting-of-the-national-drinking-water-advisory-council.html
+2026-02-05 10:30:40 [INFO] Story published: docs/20260205/meeting-of-the-national-drinking-water-advisory-council.html
+2026-02-05 10:30:40 [INFO] Adding docs/20260205/meeting-of-the-national-drinking-water-advisory-council.html to git index
+2026-02-05 10:30:40 [INFO] Creating git commit
+[main b709b6d] Add story: Meeting of the National Drinking Water Advisory Council
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/meeting-of-the-national-drinking-water-advisory-council.html
+2026-02-05 10:30:40,995 | INFO | Publishing 'Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated-authority.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated-authority.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated-authority.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main f647493] Add story: Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated-authority.html
+2026-02-05 10:30:41,047 | INFO | Publishing 'Submission for OMB Review; Prospective Subcontractor Requests for Bonds' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/submission-for-omb-review-prospective-subcontractor-requests-for-bonds.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/submission-for-omb-review-prospective-subcontractor-requests-for-bonds.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/submission-for-omb-review-prospective-subcontractor-requests-for-bonds.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 506d29a] Add story: Submission for OMB Review; Prospective Subcontractor Requests for Bonds
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/submission-for-omb-review-prospective-subcontractor-requests-for-bonds.html
+2026-02-05 10:30:41,099 | INFO | Publishing 'Submission for OMB Review; Preaward Survey Forms (Standard Forms 1403, 1404, 1405, 1406, 1407, and 1408)' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/submission-for-omb-review-preaward-survey-forms-standard-forms-1403-1404-1405-1406-1407-and-1408.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/submission-for-omb-review-preaward-survey-forms-standard-forms-1403-1404-1405-1406-1407-and-1408.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/submission-for-omb-review-preaward-survey-forms-standard-forms-1403-1404-1405-1406-1407-and-1408.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main d506d3c] Add story: Submission for OMB Review; Preaward Survey Forms (Standard Forms 1403, 1404, 1405, 1406, 1407, and 1408)
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/submission-for-omb-review-preaward-survey-forms-standard-forms-1403-1404-1405-1406-1407-and-1408.html
+2026-02-05 10:30:41,161 | INFO | Publishing 'Enhancing the Diversity of Clinical Trial Populations-Eligibility Criteria, Enrollment Practices, and Trial Designs; Guidance for Industry; Availability' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/enhancing-the-diversity-of-clinical-trial-populations-eligibility-criteria-enrollment-practices-and-trial-designs-guidance-for-industry-availability.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/enhancing-the-diversity-of-clinical-trial-populations-eligibility-criteria-enrollment-practices-and-trial-designs-guidance-for-industry-availability.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/enhancing-the-diversity-of-clinical-trial-populations-eligibility-criteria-enrollment-practices-and-trial-designs-guidance-for-industry-availability.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main efe7799] Add story: Enhancing the Diversity of Clinical Trial Populations-Eligibility Criteria, Enrollment Practices, and Trial Designs; Guidance for Industry; Availability
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/enhancing-the-diversity-of-clinical-trial-populations-eligibility-criteria-enrollment-practices-and-trial-designs-guidance-for-industry-availability.html
+2026-02-05 10:30:41,217 | INFO | Publishing 'Airworthiness Directives; Airbus SAS Airplanes' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/airworthiness-directives-airbus-sas-airplanes.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/airworthiness-directives-airbus-sas-airplanes.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/airworthiness-directives-airbus-sas-airplanes.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 07baab9] Add story: Airworthiness Directives; Airbus SAS Airplanes
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/airworthiness-directives-airbus-sas-airplanes.html
+2026-02-05 10:30:41,267 | INFO | Publishing 'Amendments to Capital Planning and Stress Testing Requirements for Large Bank Holding Companies, Intermediate Holding Companies and Savings and Loan Holding Companies; Correction' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/amendments-to-capital-planning-and-stress-testing-requirements-for-large-bank-holding-companies-intermediate-holding-companies-and-savings-and-loan-ho.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/amendments-to-capital-planning-and-stress-testing-requirements-for-large-bank-holding-companies-intermediate-holding-companies-and-savings-and-loan-ho.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/amendments-to-capital-planning-and-stress-testing-requirements-for-large-bank-holding-companies-intermediate-holding-companies-and-savings-and-loan-ho.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 6d52069] Add story: Amendments to Capital Planning and Stress Testing Requirements for Large Bank Holding Companies, Intermediate Holding Companies and Savings and Loan Holding Companies; Correction
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/amendments-to-capital-planning-and-stress-testing-requirements-for-large-bank-holding-companies-intermediate-holding-companies-and-savings-and-loan-ho.html
+2026-02-05 10:30:41,318 | INFO | Publishing 'Military Reservist Economic Injury Disaster Loans; Interest Rate for First Quarter FY 2021' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/military-reservist-economic-injury-disaster-loans-interest-rate-for-first-quarter-fy-2021.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/military-reservist-economic-injury-disaster-loans-interest-rate-for-first-quarter-fy-2021.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/military-reservist-economic-injury-disaster-loans-interest-rate-for-first-quarter-fy-2021.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 09e6aad] Add story: Military Reservist Economic Injury Disaster Loans; Interest Rate for First Quarter FY 2021
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/military-reservist-economic-injury-disaster-loans-interest-rate-for-first-quarter-fy-2021.html
+2026-02-05 10:30:41,368 | INFO | Publishing '60-Day Notice of Proposed Information Collection: FLO Professional Development Fellowship (PDF) Application' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/60-day-notice-of-proposed-information-collection-flo-professional-development-fellowship-pdf-application.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/60-day-notice-of-proposed-information-collection-flo-professional-development-fellowship-pdf-application.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/60-day-notice-of-proposed-information-collection-flo-professional-development-fellowship-pdf-application.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 6e882b1] Add story: 60-Day Notice of Proposed Information Collection: FLO Professional Development Fellowship (PDF) Application
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/60-day-notice-of-proposed-information-collection-flo-professional-development-fellowship-pdf-application.html
+2026-02-05 10:30:41,417 | INFO | Publishing 'Veterans' Advisory Committee on Education, Notice of Meeting' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/veterans-advisory-committee-on-education-notice-of-meeting.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/veterans-advisory-committee-on-education-notice-of-meeting.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/veterans-advisory-committee-on-education-notice-of-meeting.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 7b754fe] Add story: Veterans' Advisory Committee on Education, Notice of Meeting
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/veterans-advisory-committee-on-education-notice-of-meeting.html
+2026-02-05 10:30:41,470 | INFO | Publishing 'Proposed Expansion of the Clarksburg Viticultural Area' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/proposed-expansion-of-the-clarksburg-viticultural-area.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/proposed-expansion-of-the-clarksburg-viticultural-area.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/proposed-expansion-of-the-clarksburg-viticultural-area.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main f8e12b5] Add story: Proposed Expansion of the Clarksburg Viticultural Area
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/proposed-expansion-of-the-clarksburg-viticultural-area.html
+2026-02-05 10:30:41,526 | INFO | Publishing 'Proposed Establishment of the Ulupalakua Viticultural Area' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/proposed-establishment-of-the-ulupalakua-viticultural-area.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/proposed-establishment-of-the-ulupalakua-viticultural-area.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/proposed-establishment-of-the-ulupalakua-viticultural-area.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main f14aeec] Add story: Proposed Establishment of the Ulupalakua Viticultural Area
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/proposed-establishment-of-the-ulupalakua-viticultural-area.html
+2026-02-05 10:30:41,598 | INFO | Publishing 'Proposed Amendment of Class E Airspace; Kankakee, IL' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/proposed-amendment-of-class-e-airspace-kankakee-il.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/proposed-amendment-of-class-e-airspace-kankakee-il.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/proposed-amendment-of-class-e-airspace-kankakee-il.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 8a82a1c] Add story: Proposed Amendment of Class E Airspace; Kankakee, IL
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/proposed-amendment-of-class-e-airspace-kankakee-il.html
+2026-02-05 10:30:41,658 | INFO | Publishing 'Terrorism Risk Insurance Program; Updated Regulations in Light of the Terrorism Risk Insurance Program Reauthorization Act of 2019, and for Other Purposes' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/terrorism-risk-insurance-program-updated-regulations-in-light-of-the-terrorism-risk-insurance-program-reauthorization-act-of-2019-and-for-other-purpos.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/terrorism-risk-insurance-program-updated-regulations-in-light-of-the-terrorism-risk-insurance-program-reauthorization-act-of-2019-and-for-other-purpos.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/terrorism-risk-insurance-program-updated-regulations-in-light-of-the-terrorism-risk-insurance-program-reauthorization-act-of-2019-and-for-other-purpos.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 8f7b7b7] Add story: Terrorism Risk Insurance Program; Updated Regulations in Light of the Terrorism Risk Insurance Program Reauthorization Act of 2019, and for Other Purposes
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/terrorism-risk-insurance-program-updated-regulations-in-light-of-the-terrorism-risk-insurance-program-reauthorization-act-of-2019-and-for-other-purpos.html
+2026-02-05 10:30:41,728 | INFO | Publishing 'Acquisition Regulations; Buy Indian Act; Procedures for Contracting' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/acquisition-regulations-buy-indian-act-procedures-for-contracting.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/acquisition-regulations-buy-indian-act-procedures-for-contracting.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/acquisition-regulations-buy-indian-act-procedures-for-contracting.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 752d16c] Add story: Acquisition Regulations; Buy Indian Act; Procedures for Contracting
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/acquisition-regulations-buy-indian-act-procedures-for-contracting.html
+2026-02-05 10:30:41,785 | INFO | Publishing 'General Motors, LLC, Denial of Petition for Decision of Inconsequential Noncompliance' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/general-motors-llc-denial-of-petition-for-decision-of-inconsequential-noncompliance.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/general-motors-llc-denial-of-petition-for-decision-of-inconsequential-noncompliance.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/general-motors-llc-denial-of-petition-for-decision-of-inconsequential-noncompliance.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 3880ccf] Add story: General Motors, LLC, Denial of Petition for Decision of Inconsequential Noncompliance
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/general-motors-llc-denial-of-petition-for-decision-of-inconsequential-noncompliance.html
+2026-02-05 10:30:41,843 | INFO | Publishing 'Consolidated Glass & Mirror, LLC, Receipt of Petitions for Decision of Inconsequential Noncompliance' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/consolidated-glass-mirror-llc-receipt-of-petitions-for-decision-of-inconsequential-noncompliance.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/consolidated-glass-mirror-llc-receipt-of-petitions-for-decision-of-inconsequential-noncompliance.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/consolidated-glass-mirror-llc-receipt-of-petitions-for-decision-of-inconsequential-noncompliance.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main d129b03] Add story: Consolidated Glass & Mirror, LLC, Receipt of Petitions for Decision of Inconsequential Noncompliance
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/consolidated-glass-mirror-llc-receipt-of-petitions-for-decision-of-inconsequential-noncompliance.html
+2026-02-05 10:30:41,897 | INFO | Publishing 'List of Approved “Ability-to-Benefit” (ATB) Tests and Passing Scores' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/list-of-approved-ability-to-benefit-atb-tests-and-passing-scores.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/list-of-approved-ability-to-benefit-atb-tests-and-passing-scores.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/list-of-approved-ability-to-benefit-atb-tests-and-passing-scores.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main f00a394] Add story: List of Approved “Ability-to-Benefit” (ATB) Tests and Passing Scores
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/list-of-approved-ability-to-benefit-atb-tests-and-passing-scores.html
+2026-02-05 10:30:41,950 | INFO | Publishing 'Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP) Final Performance Report' from federal_register_results_2020.txt
+2026-02-05 10:30:41 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:41 [INFO] Writing story to docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-gaining-early-aware.html
+2026-02-05 10:30:41 [INFO] Story published: docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-gaining-early-aware.html
+2026-02-05 10:30:41 [INFO] Adding docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-gaining-early-aware.html to git index
+2026-02-05 10:30:41 [INFO] Creating git commit
+[main 38c3bc4] Add story: Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP) Final Performance Report
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for-review-and-approval-comment-request-gaining-early-aware.html
+2026-02-05 10:30:42,013 | INFO | Publishing 'Audio Description: Preliminary Nonbroadcast Network Rankings' from federal_register_results_2020.txt
+2026-02-05 10:30:42 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:42 [INFO] Writing story to docs/20260205/audio-description-preliminary-nonbroadcast-network-rankings.html
+2026-02-05 10:30:42 [INFO] Story published: docs/20260205/audio-description-preliminary-nonbroadcast-network-rankings.html
+2026-02-05 10:30:42 [INFO] Adding docs/20260205/audio-description-preliminary-nonbroadcast-network-rankings.html to git index
+2026-02-05 10:30:42 [INFO] Creating git commit
+[main a6f9fd5] Add story: Audio Description: Preliminary Nonbroadcast Network Rankings
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/audio-description-preliminary-nonbroadcast-network-rankings.html
+2026-02-05 10:30:42,067 | INFO | Publishing 'Stryker and Wright Medical; Analysis of Consent Orders To Aid Public Comment' from federal_register_results_2020.txt
+2026-02-05 10:30:42 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:42 [INFO] Writing story to docs/20260205/stryker-and-wright-medical-analysis-of-consent-orders-to-aid-public-comment.html
+2026-02-05 10:30:42 [INFO] Story published: docs/20260205/stryker-and-wright-medical-analysis-of-consent-orders-to-aid-public-comment.html
+2026-02-05 10:30:42 [INFO] Adding docs/20260205/stryker-and-wright-medical-analysis-of-consent-orders-to-aid-public-comment.html to git index
+2026-02-05 10:30:42 [INFO] Creating git commit
+[main ea70f0b] Add story: Stryker and Wright Medical; Analysis of Consent Orders To Aid Public Comment
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/stryker-and-wright-medical-analysis-of-consent-orders-to-aid-public-comment.html
+2026-02-05 10:30:42,125 | INFO | Publishing 'Submission for OMB Review; Comment Request' from federal_register_results_2020.txt
+2026-02-05 10:30:42 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:42 [INFO] Writing story to docs/20260205/submission-for-omb-review-comment-request.html
+2026-02-05 10:30:42 [INFO] Story published: docs/20260205/submission-for-omb-review-comment-request.html
+2026-02-05 10:30:42 [INFO] Adding docs/20260205/submission-for-omb-review-comment-request.html to git index
+2026-02-05 10:30:42 [INFO] Creating git commit
+[main ca0b488] Add story: Submission for OMB Review; Comment Request
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/submission-for-omb-review-comment-request.html
+2026-02-05 10:30:42,180 | INFO | Publishing 'Agency Information Collection Activities: Proposed Collection; Comment Request; Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery' from federal_register_results_2020.txt
+2026-02-05 10:30:42 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:42 [INFO] Writing story to docs/20260205/agency-information-collection-activities-proposed-collection-comment-request-generic-clearance-for-the-collection-of-qualitative-feedback-on-agency-se.html
+2026-02-05 10:30:42 [INFO] Story published: docs/20260205/agency-information-collection-activities-proposed-collection-comment-request-generic-clearance-for-the-collection-of-qualitative-feedback-on-agency-se.html
+2026-02-05 10:30:42 [INFO] Adding docs/20260205/agency-information-collection-activities-proposed-collection-comment-request-generic-clearance-for-the-collection-of-qualitative-feedback-on-agency-se.html to git index
+2026-02-05 10:30:42 [INFO] Creating git commit
+[main 8516fa1] Add story: Agency Information Collection Activities: Proposed Collection; Comment Request; Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/agency-information-collection-activities-proposed-collection-comment-request-generic-clearance-for-the-collection-of-qualitative-feedback-on-agency-se.html
+2026-02-05 10:30:42,246 | INFO | Publishing 'Notice of Public Meeting of the Georgia Advisory Committee to the U.S. Commission on Civil Rights' from federal_register_results_2020.txt
+2026-02-05 10:30:42 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:42 [INFO] Writing story to docs/20260205/notice-of-public-meeting-of-the-georgia-advisory-committee-to-the-u-s-commission-on-civil-rights.html
+2026-02-05 10:30:42 [INFO] Story published: docs/20260205/notice-of-public-meeting-of-the-georgia-advisory-committee-to-the-u-s-commission-on-civil-rights.html
+2026-02-05 10:30:42 [INFO] Adding docs/20260205/notice-of-public-meeting-of-the-georgia-advisory-committee-to-the-u-s-commission-on-civil-rights.html to git index
+2026-02-05 10:30:42 [INFO] Creating git commit
+[main 41fc102] Add story: Notice of Public Meeting of the Georgia Advisory Committee to the U.S. Commission on Civil Rights
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/notice-of-public-meeting-of-the-georgia-advisory-committee-to-the-u-s-commission-on-civil-rights.html
+2026-02-05 10:30:42,303 | INFO | Publishing 'Notice of Public Meeting of the Nebraska Advisory Committee to the U.S. Commission on Civil Rights' from federal_register_results_2020.txt
+2026-02-05 10:30:42 [INFO] Creating output directory at docs/20260205
+2026-02-05 10:30:42 [INFO] Writing story to docs/20260205/notice-of-public-meeting-of-the-nebraska-advisory-committee-to-the-u-s-commission-on-civil-rights.html
+2026-02-05 10:30:42 [INFO] Story published: docs/20260205/notice-of-public-meeting-of-the-nebraska-advisory-committee-to-the-u-s-commission-on-civil-rights.html
+2026-02-05 10:30:42 [INFO] Adding docs/20260205/notice-of-public-meeting-of-the-nebraska-advisory-committee-to-the-u-s-commission-on-civil-rights.html to git index
+2026-02-05 10:30:42 [INFO] Creating git commit
+[main 2218e56] Add story: Notice of Public Meeting of the Nebraska Advisory Committee to the U.S. Commission on Civil Rights
+ 1 file changed, 21 insertions(+)
+ create mode 100644 docs/20260205/notice-of-public-meeting-of-the-nebraska-advisory-committee-to-the-u-s-commission-on-civil-rights.html
