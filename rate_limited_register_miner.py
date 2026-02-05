@@ -1,29 +1,29 @@
 #!/usr/bin/env python3
 """
-Parallel processor for Federal Register documents using API pagination.
+Parallel processor for Federal Register documents with exponential backoff rate limiting.
 
 This script processes multiple Federal Register pages in parallel
-to maximize the throughput of document mining. It targets the high-yield
-ranges that have been identified as having a higher percentage of unpublished content.
+to maximize the throughput of document mining. It includes robust
+rate limiting with exponential backoff to handle API limitations.
 """
 
 from __future__ import annotations
 
 import argparse
+import json
 import logging
 import os
+import random
 import re
 import sys
 import threading
 import time
-import random
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Tuple, Set, Any, Optional
 
-import requests
+from scripts.monitors import NewsItem
 from scripts.monitors.federal_register import FederalRegisterMonitor
 
 # Configure logging
@@ -31,31 +31,10 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
 )
-logger = logging.getLogger("parallel_register_miner")
+logger = logging.getLogger("rate_limited_register_miner")
 
 # Thread-local storage for monitor instances
 _thread_local = threading.local()
-
-def compute_backoff_delay(
-    attempt: int,
-    base_delay: float,
-    max_delay: float,
-    jitter_factor: float,
-) -> float:
-    """
-    Calculate exponential backoff delay with jitter to spread retry traffic.
-
-    Each retry doubles the previous delay (base_delay * 2^attempt) until it hits
-    max_delay. We then add a random jitter so that concurrent workers do not
-    resume at the exact same moment, which helps avoid retry storms.
-    """
-    exponential_delay = base_delay * (2 ** attempt)
-    capped_delay = min(exponential_delay, max_delay)
-    if jitter_factor > 0:
-        jitter = random.uniform(0, jitter_factor * capped_delay)
-    else:
-        jitter = 0.0
-    return min(capped_delay + jitter, max_delay)
 
 def get_thread_monitor() -> FederalRegisterMonitor:
     """Provide one monitor instance per thread for safe session reuse."""
@@ -64,6 +43,84 @@ def get_thread_monitor() -> FederalRegisterMonitor:
         monitor = FederalRegisterMonitor()
         _thread_local.monitor = monitor
     return monitor
+
+def request_with_backoff(
+    monitor,
+    url: str,
+    params: Dict[str, Any],
+    max_retries: int,
+    base_delay: float,
+    max_delay: float,
+) -> Any:
+    """
+    Make an HTTP request with exponential backoff for rate limiting.
+    
+    Args:
+        monitor: The monitor instance with a session for making requests
+        url: The URL to request
+        params: The query parameters for the request
+        max_retries: Maximum number of retry attempts
+        base_delay: Initial delay between retries in seconds
+        max_delay: Maximum delay between retries in seconds
+        
+    Returns:
+        The JSON response from the API
+        
+    Raises:
+        Exception: If all retry attempts fail
+    """
+    retries = 0
+    delay = base_delay
+    
+    while True:
+        try:
+            response = monitor.session.get(url, params=params, timeout=15)
+            
+            # Check for rate limiting
+            if response.status_code == 429:
+                if retries >= max_retries:
+                    raise Exception(f"Exceeded maximum retries ({max_retries}) on rate limit 429")
+                
+                # Get retry-after header if available, otherwise use calculated delay
+                retry_after = response.headers.get("Retry-After")
+                if retry_after and retry_after.isdigit():
+                    delay = float(retry_after)
+                    logger.warning(f"Rate limited (429). Server specified retry after {delay}s")
+                else:
+                    # Add jitter (±25%) to avoid synchronized retries
+                    jitter = random.uniform(0.75, 1.25)
+                    delay = min(max_delay, delay * 2 * jitter)
+                    logger.warning(f"Rate limited (429). Using backoff delay of {delay:.2f}s (retry {retries+1}/{max_retries})")
+                
+                retries += 1
+                time.sleep(delay)
+                continue
+            
+            # Raise for other HTTP errors
+            response.raise_for_status()
+            
+            # Return parsed JSON data
+            return response.json()
+            
+        except Exception as e:
+            if "429" in str(e) and retries < max_retries:
+                # Add jitter (±25%) to avoid synchronized retries
+                jitter = random.uniform(0.75, 1.25)
+                delay = min(max_delay, delay * 2 * jitter)
+                logger.warning(f"Rate limited (429). Using backoff delay of {delay:.2f}s (retry {retries+1}/{max_retries})")
+                retries += 1
+                time.sleep(delay)
+            elif retries < max_retries:
+                # Handle connection errors or other server errors
+                # Add jitter (±25%) to avoid synchronized retries
+                jitter = random.uniform(0.75, 1.25)
+                delay = min(max_delay, delay * 2 * jitter)
+                logger.warning(f"Request error: {e}. Using backoff delay of {delay:.2f}s (retry {retries+1}/{max_retries})")
+                retries += 1
+                time.sleep(delay)
+            else:
+                logger.error(f"Failed after {max_retries} retries: {e}")
+                raise
 
 def parse_range(range_str: str) -> List[Tuple[int, int]]:
     """
@@ -123,11 +180,23 @@ def process_page_range(
     max_retries: int = 5,
     base_delay: float = 2.0,
     max_delay: float = 60.0,
-    jitter_factor: float = 0.3,
 ) -> str:
     """
-    Process a specific page range from the Federal Register API and save results to a temporary file.
-    Returns the path to the temporary file containing the results.
+    Process a specific page range from the Federal Register API with rate limiting
+    and save results to a temporary file.
+    
+    Args:
+        start_page: The first page to process
+        end_page: The last page to process
+        per_page: Number of items per page
+        temp_dir: Directory to store temporary output files
+        date_range: Optional tuple of (start_date, end_date) to filter by publication date
+        max_retries: Maximum number of retry attempts for rate limiting
+        base_delay: Initial delay between retries in seconds
+        max_delay: Maximum delay between retries in seconds
+        
+    Returns:
+        Path to the temporary file containing the results
     """
     monitor = get_thread_monitor()
     logger.info(f"Processing page range {start_page}-{end_page} with {per_page} items per page")
@@ -142,7 +211,6 @@ def process_page_range(
     
     # Process each page in the range
     for current_page in range(start_page, end_page + 1):
-        page_data: Optional[Dict[str, Any]] = None
         try:
             # Set up parameters for the Federal Register API
             params = {
@@ -155,145 +223,24 @@ def process_page_range(
                 start_date, end_date = date_range
                 params["conditions[publication_date][gte]"] = start_date.strftime("%Y-%m-%d")
                 params["conditions[publication_date][lte]"] = end_date.strftime("%Y-%m-%d")
-
-            # Fetch the page with exponential backoff to respect API rate limits
-            # We escalate the wait time geometrically on each retry and add jitter
-            # so threads do not resume at the same moment. HTTP 429 responses also
-            # honour the server-provided Retry-After hint when available.
-            for attempt in range(max_retries + 1):
-                try:
-                    response = monitor.session.get(monitor.BASE_URL, params=params, timeout=15)
-
-                    if response.status_code == 429:
-                        retry_after_value = response.headers.get("Retry-After")
-                        parsed_retry_after: Optional[float] = None
-                        if retry_after_value:
-                            try:
-                                parsed_retry_after = float(retry_after_value)
-                            except ValueError:
-                                try:
-                                    retry_datetime = parsedate_to_datetime(retry_after_value)
-                                    if retry_datetime:
-                                        if retry_datetime.tzinfo is None:
-                                            retry_datetime = retry_datetime.replace(tzinfo=timezone.utc)
-                                        now = datetime.now(timezone.utc)
-                                        parsed_retry_after = max((retry_datetime - now).total_seconds(), 0.0)
-                                except (TypeError, ValueError):
-                                    parsed_retry_after = None
-
-                        if attempt == max_retries:
-                            logger.error(
-                                "Page %s hit rate limit (HTTP 429) and exceeded max retries (%s). Skipping.",
-                                current_page,
-                                max_retries,
-                            )
-                            break
-
-                        backoff_delay = compute_backoff_delay(attempt, base_delay, max_delay, jitter_factor)
-                        if parsed_retry_after is not None:
-                            backoff_delay = min(max(backoff_delay, parsed_retry_after), max_delay)
-
-                        logger.warning(
-                            "Rate limit encountered on page %s (attempt %s/%s). "
-                            "Sleeping for %.2f seconds before retry.",
-                            current_page,
-                            attempt + 1,
-                            max_retries + 1,
-                            backoff_delay,
-                        )
-                        time.sleep(backoff_delay)
-                        continue
-
-                    response.raise_for_status()
-                    page_data = response.json()
-                    break
-
-                except requests.exceptions.HTTPError as http_err:
-                    status_code = http_err.response.status_code if http_err.response else None
-
-                    if status_code and 400 <= status_code < 500 and status_code != 429:
-                        logger.error(
-                            "Non-retriable client error %s on page %s: %s",
-                            status_code,
-                            current_page,
-                            http_err,
-                        )
-                        break
-
-                    if attempt == max_retries:
-                        logger.error(
-                            "HTTP error on page %s after %s attempts: %s",
-                            current_page,
-                            max_retries + 1,
-                            http_err,
-                        )
-                        break
-
-                    backoff_delay = compute_backoff_delay(attempt, base_delay, max_delay, jitter_factor)
-                    logger.warning(
-                        "HTTP error on page %s (attempt %s/%s): %s. Retrying in %.2f seconds.",
-                        current_page,
-                        attempt + 1,
-                        max_retries + 1,
-                        http_err,
-                        backoff_delay,
-                    )
-                    time.sleep(backoff_delay)
-
-                except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as conn_err:
-                    if attempt == max_retries:
-                        logger.error(
-                            "Network error on page %s after %s attempts: %s",
-                            current_page,
-                            max_retries + 1,
-                            conn_err,
-                        )
-                        break
-
-                    backoff_delay = compute_backoff_delay(attempt, base_delay, max_delay, jitter_factor)
-                    logger.warning(
-                        "Network issue on page %s (attempt %s/%s): %s. Retrying in %.2f seconds.",
-                        current_page,
-                        attempt + 1,
-                        max_retries + 1,
-                        conn_err,
-                        backoff_delay,
-                    )
-                    time.sleep(backoff_delay)
-
-                except requests.exceptions.RequestException as req_err:
-                    if attempt == max_retries:
-                        logger.error(
-                            "Unexpected request error on page %s after %s attempts: %s",
-                            current_page,
-                            max_retries + 1,
-                            req_err,
-                        )
-                        break
-
-                    backoff_delay = compute_backoff_delay(attempt, base_delay, max_delay, jitter_factor)
-                    logger.warning(
-                        "Request error on page %s (attempt %s/%s): %s. Retrying in %.2f seconds.",
-                        current_page,
-                        attempt + 1,
-                        max_retries + 1,
-                        req_err,
-                        backoff_delay,
-                    )
-                    time.sleep(backoff_delay)
-
+            
+            # Fetch the page with backoff for rate limiting
+            data = request_with_backoff(
+                monitor=monitor,
+                url=monitor.BASE_URL,
+                params=params,
+                max_retries=max_retries,
+                base_delay=base_delay,
+                max_delay=max_delay,
+            )
+            
             # Process the results
-            if page_data is None:
-                logger.warning(f"Skipping page {current_page} after exhausting retries.")
-            elif "results" in page_data and isinstance(page_data["results"], list):
-                items = list(monitor.parse(page_data))
+            if "results" in data and isinstance(data["results"], list):
+                items = list(monitor.parse(data))
                 all_items.extend(items)
                 logger.info(f"Found {len(items)} items on page {current_page}")
             else:
                 logger.warning(f"No results found on page {current_page}")
-            
-            # Add a small delay to avoid API rate limits
-            time.sleep(0.2)
             
         except Exception as e:
             logger.error(f"Error processing page {current_page}: {e}")
@@ -329,9 +276,9 @@ def get_existing_titles() -> Set[str]:
         # Extract titles from HTML files
         for html_file in html_files:
             try:
-                with open(html_file, 'r') as f:
+                with open(html_file, "r") as f:
                     content = f.read()
-                    title_match = re.search(r'<title>(.*?)</title>', content)
+                    title_match = re.search(r"<title>(.*?)</title>", content)
                     if title_match:
                         published_titles.add(title_match.group(1).strip())
             except Exception as e:
@@ -355,7 +302,7 @@ def merge_temp_files(temp_files: List[str], output_file: Path, existing_titles: 
                 existing_content = f.read()
                 
                 # Extract URLs from existing content to avoid duplicates
-                for url_match in re.finditer(r'URL: (.*?)$', existing_content, re.MULTILINE):
+                for url_match in re.finditer(r"URL: (.*?)$", existing_content, re.MULTILINE):
                     existing_urls.add(url_match.group(1).strip())
         except Exception as e:
             logger.error(f"Error reading existing output file: {e}")
@@ -368,18 +315,18 @@ def merge_temp_files(temp_files: List[str], output_file: Path, existing_titles: 
                 content = f.read()
             
             # Split into individual news items using the divider line
-            news_blocks = content.split('-' * 80)
+            news_blocks = content.split("-" * 80)
             
             for block in news_blocks:
                 if not block.strip():
                     continue
                 
                 # Extract URL to check for duplicates
-                url_match = re.search(r'URL: (.*?)$', block, re.MULTILINE)
+                url_match = re.search(r"URL: (.*?)$", block, re.MULTILINE)
                 url = url_match.group(1).strip() if url_match else ""
                 
                 # Extract title to check for duplicates
-                title_match = re.search(r'\[.*?\] \d{4}-\d{2}-\d{2}.*?\| (.*?)$', block, re.MULTILINE)
+                title_match = re.search(r"\[.*?\] \d{4}-\d{2}-\d{2}.*?\| (.*?)$", block, re.MULTILINE)
                 title = title_match.group(1).strip() if title_match else ""
                 
                 # Skip duplicates by URL or title
@@ -420,7 +367,7 @@ def merge_temp_files(temp_files: List[str], output_file: Path, existing_titles: 
     return len(new_items)
 
 def main():
-    parser = argparse.ArgumentParser(description="Process Federal Register documents in parallel using page ranges.")
+    parser = argparse.ArgumentParser(description="Process Federal Register documents in parallel with rate limiting.")
     parser.add_argument(
         "--num-threads",
         type=int,
@@ -431,37 +378,13 @@ def main():
         "--page-ranges",
         type=str,
         default="30-40,40-50,50-60,60-70",
-        help="Comma-separated list of page ranges to process (e.g., '30-40,40-50')",
+        help="Comma-separated list of page ranges to process (e.g., 30-40,40-50)",
     )
     parser.add_argument(
         "--per-page",
         type=int,
         default=100,
         help="Number of items per page (default: 100)",
-    )
-    parser.add_argument(
-        "--max-retries",
-        type=int,
-        default=5,
-        help="Maximum number of retry attempts per page before giving up (default: 5)",
-    )
-    parser.add_argument(
-        "--base-delay",
-        type=float,
-        default=2.0,
-        help="Initial delay in seconds for exponential backoff (default: 2.0)",
-    )
-    parser.add_argument(
-        "--max-delay",
-        type=float,
-        default=60.0,
-        help="Maximum delay in seconds between retries (default: 60.0)",
-    )
-    parser.add_argument(
-        "--jitter-factor",
-        type=float,
-        default=0.3,
-        help="Multiplier that controls random jitter added to backoff delays (default: 0.3)",
     )
     parser.add_argument(
         "--output-file",
@@ -473,7 +396,26 @@ def main():
         "--date-range",
         type=str,
         default=None,
-        help="Historical date range to query in format 'YYYY-MM-DD,YYYY-MM-DD' (2020-2023).",
+        help="Historical date range to query in format YYYY-MM-DD,YYYY-MM-DD (2020-2023).",
+    )
+    # Add rate limiting parameters
+    parser.add_argument(
+        "--max-retries",
+        type=int,
+        default=5,
+        help="Maximum number of retry attempts for rate limiting (default: 5)",
+    )
+    parser.add_argument(
+        "--base-delay",
+        type=float,
+        default=2.0,
+        help="Initial delay between retries in seconds (default: 2.0)",
+    )
+    parser.add_argument(
+        "--max-delay",
+        type=float,
+        default=60.0,
+        help="Maximum delay between retries in seconds (default: 60.0)",
     )
     args = parser.parse_args()
     
@@ -506,7 +448,11 @@ def main():
     logger.info(f"Found {len(existing_titles)} existing published titles")
     
     # Process page ranges in parallel
-    logger.info(f"Starting parallel processing with {args.num_threads} threads for page ranges: {args.page_ranges}")
+    logger.info(
+        f"Starting parallel processing with {args.num_threads} threads "
+        f"for page ranges: {args.page_ranges} "
+        f"(max_retries={args.max_retries}, base_delay={args.base_delay}s, max_delay={args.max_delay}s)"
+    )
     temp_files = []
     
     with ThreadPoolExecutor(max_workers=args.num_threads) as executor:
@@ -523,7 +469,6 @@ def main():
                 max_retries=args.max_retries,
                 base_delay=args.base_delay,
                 max_delay=args.max_delay,
-                jitter_factor=args.jitter_factor,
             )
             futures.append(future)
         
