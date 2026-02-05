@@ -4,7 +4,7 @@
 Systematic Batch Publisher for Historical Federal Register Documents
 
 This script implements a robust batch publishing system for the backlog of
-historical Federal Register documents (2020-2023) with rate limiting,
+historical Federal Register documents (2020-2025) with rate limiting,
 systematic rotation through years, and detailed progress tracking.
 """
 
@@ -31,6 +31,16 @@ PROJECT_ROOT = Path(__file__).parent.resolve()
 LOG_DIR = PROJECT_ROOT / "logs" / "publishing_runs"
 HISTORICAL_DIR = PROJECT_ROOT / "logs" / "historical_runs"
 PUBLISH_SCRIPT = PROJECT_ROOT / "publish_historical_stories.py"
+SUPPORTED_YEARS = [str(year) for year in range(2020, 2026)]
+YEAR_TOTALS = {
+    "2020": 2648,
+    "2021": 2651,
+    "2022": 2654,
+    "2023": 2635,
+    "2024": 10730,
+    "2025": 10586,
+}
+YEAR_ROTATION = sorted(SUPPORTED_YEARS, reverse=True)
 
 
 def setup_directories():
@@ -45,20 +55,32 @@ def load_progress():
     
     if not progress_file.exists():
         logger.info("No existing progress file found. Creating new progress tracking.")
-        return {
-            "2020": {"published": 0, "total": 2648, "last_batch": 0},
-            "2021": {"published": 0, "total": 2651, "last_batch": 0},
-            "2022": {"published": 0, "total": 2654, "last_batch": 0},
-            "2023": {"published": 0, "total": 2635, "last_batch": 0},
-            "total_published": 0,
-            "total_remaining": 10588,
-            "last_update": datetime.now().isoformat()
+        progress = {
+            year: {"published": 0, "total": YEAR_TOTALS.get(year, 0), "last_batch": 0}
+            for year in SUPPORTED_YEARS
         }
+        progress["total_published"] = 0
+        progress["total_remaining"] = sum(YEAR_TOTALS.get(year, 0) for year in SUPPORTED_YEARS)
+        progress["last_update"] = datetime.now().isoformat()
+        return progress
     
     try:
         with progress_file.open("r") as f:
             progress = json.load(f)
             logger.info(f"Loaded existing progress: {progress['total_published']} published, {progress['total_remaining']} remaining")
+
+            # Ensure new years are present in older progress files
+            updated = False
+            for year in SUPPORTED_YEARS:
+                if year not in progress:
+                    progress[year] = {"published": 0, "total": YEAR_TOTALS.get(year, 0), "last_batch": 0}
+                    updated = True
+
+            if updated or "total_remaining" not in progress:
+                progress["total_remaining"] = sum(
+                    max(progress[year]["total"] - progress[year]["published"], 0) for year in SUPPORTED_YEARS
+                )
+
             return progress
     except Exception as e:
         logger.error(f"Error loading progress file: {e}")
@@ -233,7 +255,7 @@ def main():
     parser.add_argument(
         "--year",
         type=str,
-        choices=["2020", "2021", "2022", "2023"],
+        choices=SUPPORTED_YEARS,
         help="Process a specific year only (default: rotate through all years)"
     )
     parser.add_argument(
@@ -262,7 +284,7 @@ def main():
     logger.info(f"Remaining stories to publish: {total_remaining}")
     
     # Print per-year status
-    for year in ["2020", "2021", "2022", "2023"]:
+    for year in sorted(SUPPORTED_YEARS):
         year_data = progress[year]
         logger.info(f"Year {year}: {year_data['published']} published of {year_data['total']} total")
     
@@ -293,8 +315,8 @@ def main():
         batch_count = 0
         
         while batch_count < args.max_batches:
-            # Rotate through years: 2023, 2022, 2021, 2020, repeat
-            year = str(2023 - (batch_count % 4))
+            # Rotate through supported years in descending order
+            year = YEAR_ROTATION[batch_count % len(YEAR_ROTATION)]
             logger.info(f"Batch {batch_count+1}/{args.max_batches}: Processing year {year}")
             
             if not args.dry_run:
@@ -325,7 +347,7 @@ def main():
     # Default: process all years once
     logger.info("Processing all years once in sequence")
     
-    for year in ["2023", "2022", "2021", "2020"]:
+    for year in YEAR_ROTATION:
         logger.info(f"Processing year {year}")
         
         if not args.dry_run:
