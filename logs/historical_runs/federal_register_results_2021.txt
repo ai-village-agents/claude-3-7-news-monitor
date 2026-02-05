@@ -2,6 +2,804 @@
 Federal Register Parallel Mining Results (2518 new items)
 ================================================================================
 
+
+[FEDERAL REGISTER PAGE 50-65] 2021-10-26 00:00:00Z | Submission for OMB Review; Comment Request; Correction
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/26/2021-23310/submission-for-omb-review-comment-request-correction
+Federal Register document from Agriculture Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 50-65] 2021-10-26 00:00:00Z | Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/26/2021-23013/airworthiness-directives-gulfstream-aerospace-corporation-airplanes
+The FAA proposes to supersede Airworthiness Directive (AD) 2020-12-06, which applies to all Gulfstream Aerospace Corporation (Gulfstream) Model G-IV airplanes. AD 2020-12-06 requires replacing the nose wheel steering servo valve manifold, incorporating revised operating procedures into the airplane flight manual (AFM), doing a records inspection for any incidents of un-commanded nose wheel steering turns, and reporting the results to the FAA. Since the FAA issued AD 2020-12-06, the FAA determined that a typographical error was made in a citing one of the AFM documents. This proposed AD would retain the actions of AD 2020-12-06 and would correct the citation to the AFM. The FAA is proposing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 50-65] 2021-12-30 00:00:00Z | Agency Information Collection Activities; Announcement of Office of Management and Budget Approvals
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/30/2021-28362/agency-information-collection-activities-announcement-of-office-of-management-and-budget-approvals
+The Food and Drug Administration (FDA) is publishing a list of information collections that have been approved by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 50-65] 2021-12-30 00:00:00Z | Advanced Methods To Target and Eliminate Unlawful Robocalls-Petition for Reconsideration and Request for Clarification of USTelecom-The Broadband Association
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/30/2021-28218/advanced-methods-to-target-and-eliminate-unlawful-robocalls-petition-for-reconsideration-and-request
+In this document, the Federal Communications Commission (FCC or Commission) seeks comment on whether and how to transition away from the use of Session Initiation Protocol (SIP) Code 603 for purposes of the immediate notification of call blocking requirement and toward full implementation of SIP Codes 607 and 608. The Commission also seeks comment on any potential costs and benefits associated with phasing out SIP Code 603 for purposes of the immediate notification requirement, and the burden, if any, on small businesses.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 50-65] 2021-12-29 00:00:00Z | Self-Regulatory Organizations; ICE Clear Europe Limited; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Amendments to the ICE Clear Europe Delivery Procedures
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/29/2021-28328/self-regulatory-organizations-ice-clear-europe-limited-notice-of-filing-and-immediate-effectiveness
+Federal Register document from Securities and Exchange Commission (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 50-65] 2021-12-29 00:00:00Z | National Institute of Neurological Disorders and Stroke; Notice of Closed Meetings
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/29/2021-28277/national-institute-of-neurological-disorders-and-stroke-notice-of-closed-meetings
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 50-65] 2021-12-29 00:00:00Z | Pacific Island Pelagic Fisheries; 2022 U.S. Territorial Longline Bigeye Tuna Catch Limits
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/29/2021-28107/pacific-island-pelagic-fisheries-2022-us-territorial-longline-bigeye-tuna-catch-limits
+NMFS specifies a 2022 limit of 2,000 metric tons (t) of longline-caught bigeye tuna for each U.S. Pacific territory (American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands (CNMI), the territories). NMFS will allow each territory to allocate up to 1,500 t in 2022 to U.S. longline fishing vessels through specified fishing agreements that meet established criteria. The overall allocation limit among all territories, however, may not exceed 3,000 t. As an accountability measure, NMFS will monitor, attribute, and restrict (if necessary) catches of longline-caught bigeye tuna, including catches made under a specified fishing agreement. These catch limits and accountability measures support the long-term sustainability of fishery resources of the U.S. Pacific Islands.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-06 00:00:00Z | Importer of Controlled Substances Application: Fisher Clinical Services, Inc.
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/06/2021-26364/importer-of-controlled-substances-application-fisher-clinical-services-inc
+Fisher Clinical Services, Inc., has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-06 00:00:00Z | Amendment of Class E Airspace; Galesburg, IL
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/06/2021-26370/amendment-of-class-e-airspace-galesburg-il
+This action amends the Class E airspace at Monmouth Municipal Airport, Monmouth, IL, contained within the Galesburg, IL, airspace legal description. This action is the result of an airspace review caused by the decommissioning of the Galesburg very high frequency (VHF) omnidirectional range (VOR) as part of the VOR Minimal Operational Network (MON) Program.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-06 00:00:00Z | Issuance of Exemption in Response to COVID-19 Public Health Emergency
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/06/2021-26407/issuance-of-exemption-in-response-to-covid-19-public-health-emergency
+The U.S. Nuclear Regulatory Commission (NRC) issued one exemption in October 2021 in response to a request from one licensee for relief due to the coronavirus 2019 disease (COVID-19) public health emergency (PHE). The exemption affords the licensee temporary relief from certain requirements under NRC regulations.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-03 00:00:00Z | New Postal Product
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/03/2021-26233/new-postal-product
+The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-03 00:00:00Z | Notice of Intent To Request To Conduct a New Information Collection
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/03/2021-26276/notice-of-intent-to-request-to-conduct-a-new-information-collection
+In accordance with the Paperwork Reduction Act of 1995, this notice announces the intention of the National Agricultural Statistics Service (NASS) to seek approval to conduct a new information collection to gather data regarding production practices, costs and returns, and contractor expenses. This data is currently being collected under OMB number 0535-0218.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-03 00:00:00Z | Notice of Permits Issued Under the Antarctic Conservation Act of 1978
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/03/2021-26289/notice-of-permits-issued-under-the-antarctic-conservation-act-of-1978
+The National Science Foundation (NSF) is required to publish notice of permits issued under the Antarctic Conservation Act of 1978. This is the required notice.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-03 00:00:00Z | Meetings To Implement Pandemic Response Voluntary Agreement Under Section 708 of the Defense Production Act
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/03/2021-26303/meetings-to-implement-pandemic-response-voluntary-agreement-under-section-708-of-the-defense
+The Federal Emergency Management Agency (FEMA) published a document in the Federal Register of November 3, 2021, concerning two meetings to implement the Voluntary Agreement for the Manufacture and Distribution of Critical Healthcare Resources Necessary to Respond to a Pandemic. The document contained incorrect dates.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-03 00:00:00Z | Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of Mexico
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/03/2021-26311/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-related
+In accordance with the Marine Mammal Protection Act (MMPA), as amended, its implementing regulations, and NMFS' MMPA Regulations for Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of Mexico, notification is hereby given that a Letter of Authorization (LOA) has been issued to Anadarko Petroleum Corporation (Anadarko) for the take of marine mammals incidental to geophysical survey activity in the Gulf of Mexico.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-03 00:00:00Z | COVID-19 Vaccination and Testing; Emergency Temporary Standard
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/03/2021-26268/covid-19-vaccination-and-testing-emergency-temporary-standard
+The period for submitting public comments is being extended by 45 days to allow stakeholders interested in the COVID-19 vaccination and testing emergency temporary standard (ETS) additional time to review the ETS and collect information and data necessary for comment.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-02 00:00:00Z | Notice of Meeting; National Advisory Committee on the Sex Trafficking of Children and Youth in the United States
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/02/2021-26167/notice-of-meeting-national-advisory-committee-on-the-sex-trafficking-of-children-and-youth-in-the
+Notice is hereby given, pursuant to the provisions of the Federal Advisory Committee Act (FACA) and the Preventing Sex Trafficking and Strengthening Families Act, that a meeting of the National Advisory Committee on the Sex Trafficking of Children and Youth in the United States (Committee) will be held on December 9 and 10, 2021. The purpose of the meeting is for the Committee to review state self-assessment survey responses and finalize their January 2022 report. The members of the Committee request comments from the public to inform their ongoing work and January 2022 report. Please submit your comments to NAC@nhttac.org with the subject "NAC Comments," as soon as possible and before December 6, 2021.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-02 00:00:00Z | Fisheries of the South Atlantic; Southeast Data, Assessment, and Review (SEDAR); Public Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/02/2021-26186/fisheries-of-the-south-atlantic-southeast-data-assessment-and-review-sedar-public-meeting
+The SEDAR 78 assessment of the South Atlantic Stock of Spanish mackerel will consist of a series of assessment webinars. A SEDAR 78 Assessment Webinar 2 is scheduled for January 5, 2022. See SUPPLEMENTARY INFORMATION.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-02 00:00:00Z | Data Collection Available for Public Comments
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/02/2021-26165/data-collection-available-for-public-comments
+The Small Business Administration (SBA) intends to request approval, from the Office of Management and Budget (OMB) for the collection of information described below. The Paperwork Reduction Act (PRA) of 1995 requires federal agencies to publish a notice in the Federal Register concerning each proposed collection of information before submission to OMB, and to allow 60 days for public comment in response to the notice. This information collection is currently approved under emergency procedures, which includes waiver of that public comment notice. This publication complies with the PRA requirement to publish the waived notice as a prerequisite to requesting standard review and approval from OMB.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-02 00:00:00Z | Current List of HHS-Certified Laboratories and Instrumented Initial Testing Facilities Which Meet Minimum Standards To Engage in Urine and Oral Fluid Drug Testing for Federal Agencies
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/02/2021-26179/current-list-of-hhs-certified-laboratories-and-instrumented-initial-testing-facilities-which-meet
+The Department of Health and Human Services (HHS) notifies federal agencies of the laboratories and Instrumented Initial Testing Facilities (IITFs) currently certified to meet the standards of the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Urine or Oral Fluid (Mandatory Guidelines).
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-02 00:00:00Z | Qualification of Drivers; Exemption Applications; Vision
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/02/2021-26147/qualification-of-drivers-exemption-applications-vision
+FMCSA announces its decision to exempt eight individuals from the vision requirement in the Federal Motor Carrier Safety Regulations (FMCSRs) to operate a commercial motor vehicle (CMV) in interstate commerce. They are unable to meet the vision requirement in one eye for various reasons. The exemptions enable these individuals to operate CMVs in interstate commerce without meeting the vision requirement in one eye.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-02 00:00:00Z | Amendment Class D and Class E Airspace; Ardmore, OK
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/02/2021-26187/amendment-class-d-and-class-e-airspace-ardmore-ok
+This action corrects typographic errors in the final rule published in the Federal Register on October 26, 2021, amending the Class D and Class E airspace at Ardmore, OK.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-01 00:00:00Z | Initiation of Five-Year (Sunset) Reviews
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/01/2021-26154/initiation-of-five-year-sunset-reviews
+In accordance with the Tariff Act of 1930, as amended (the Act), the Department of Commerce (Commerce) is automatically initiating the five-year reviews (Sunset Reviews) of the antidumping and countervailing duty (AD/CVD) order(s) and suspended investigation(s) listed below. The International Trade Commission (the ITC) is publishing concurrently with this notice its notice of Institution of Five-Year Reviews which covers the same order(s) and suspended investigation(s).
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-01 00:00:00Z | Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/01/2021-26135/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request
+Federal Register document from Commerce Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-01 00:00:00Z | Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/01/2021-26128/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of
+Federal Register document from Commerce Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-01 00:00:00Z | Notice of Applications for Deregistration Under Section 8(f) of the Investment Company Act of 1940
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/01/2021-26137/notice-of-applications-for-deregistration-under-section-8f-of-the-investment-company-act-of-1940
+Applicant, a closed-end investment company, seeks an order declaring that it has ceased to be an investment company. On July 16, 2021, and September 17, 2021, applicant made liquidating distributions to its shareholders based on net asset value. Expenses of approximately $872,000 incurred in connection with the liquidation were paid by the applicant. Applicant also has retained $7,836,833 for the purpose of paying outstanding payments to service providers. Filing Dates: The application was filed on July 21, 2021, and amended on November 15, 2021. Applicant's Address: andrew.morris@feim.com.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-12-01 00:00:00Z | Records Governing Off-the-Record Communications; Public Notice
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/12/01/2021-26130/records-governing-off-the-record-communications-public-notice
+Federal Register document from Energy Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-30 00:00:00Z | Monthly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/30/2021-25907/monthly-notice-applications-and-amendments-to-facility-operating-licenses-and-combined-licenses
+Pursuant to section 189.a.(2) of the Atomic Energy Act of 1954, as amended (the Act), the U.S. Nuclear Regulatory Commission (NRC) is publishing this regular monthly notice. The Act requires the Commission to publish notice of any amendments issued, or proposed to be issued, and grants the Commission the authority to issue and make immediately effective any amendment to an operating license or combined license, as applicable, upon a determination by the Commission that such amendment involves no significant hazards consideration (NSHC), notwithstanding the pendency before the Commission of a request for a hearing from any person. This monthly notice includes all amendments issued, or proposed to be issued, from October 15, 2021, to November 10, 2021. The last monthly notice was published on November 2, 2021.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-30 00:00:00Z | Announcement of Intent To Issue Two Replacement Awards To Provide Residential Services (Shelter)
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/30/2021-25968/announcement-of-intent-to-issue-two-replacement-awards-to-provide-residential-services-shelter
+ACF, ORR announces the intent to award two Replacement Awards in the amount of up to $77,496,593 to BCFS Health and Human Services in Los Fresnos, Texas. On September 17, 2021, Comprehensive Health Services, LLC (CHS) relinquished two federally funded discretionary grants. Per HHS policy, ORR identified the current recipient BCFS Health and Human Services to transfer the current permanent capacity to provide shelter for apprehensions of Unaccompanied Children (UC) at the Southwest Border. The continuation of permanent capacity is a prudent step to ensure that ORR is able to meet its responsibility, by law, to provide shelter and appropriate services for UC referred to its care by the Department of Homeland Security. The purpose of this award is to ensure the continuation of residential services for the capacity of 560 shelter beds for UC.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-30 00:00:00Z | Agency Information Collection Activities; Proposed eCollection Requested; Extension of a Currently Approved Collection
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/30/2021-26048/agency-information-collection-activities-proposed-ecollection-requested-extension-of-a-currently
+The Department of Justice, Office on Violence Against Women (OVW) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-30 00:00:00Z | Announcement of Intent To Issue Replacement Award To Provide Residential Services (Shelter)
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/30/2021-25971/announcement-of-intent-to-issue-replacement-award-to-provide-residential-services-shelter
+ACF, ORR announces the issuance of a replacement award in the amount of up to $18,871,413 to Urban Strategies, San Benito, Texas. On September 17, 2021, Comprehensive Health Services, LLC (CHS) relinquished a federally funded discretionary grant. Per HHS policy, ORR identified the current recipient Urban Strategies to transfer the current permanent capacity to provide shelter for apprehensions of Unaccompanied Children (UC) at the Southwest Border. The continuation of permanent capacity is a prudent step to ensure that ORR is able to meet its responsibility, by law, to provide shelter and appropriate services for UC referred to its care by the Department of Homeland Security. The purpose of this award is to ensure the continuation of residential services for the capacity of 100 shelter beds for UC.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-29 00:00:00Z | Notice of the Networking and Information Technology Research and Development Program 30th Anniversary Commemoration
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/29/2021-25894/notice-of-the-networking-and-information-technology-research-and-development-program-30th
+The notice published in the Federal Register on November 5, 2021 contained an incorrect amount of funding for 1991. This notice corrects that amount. The NITRD Subcommittee will hold a virtual public meeting to mark the 30th anniversary of the signing of the High- Performance Computing (HPC) Act of 1991 and the launching of the High- Performance Computing and Communications Program, now known as the NITRD Program. One of the key parts of this legislation was to establish an effective mechanism to coordinate HPC, networking, and information technology (IT) research and development (R&D) undertaken by the agencies of the Federal Government. The legislation also expanded Federal funding support for HPC and IT R&D to ensure continued technological leadership in these areas by the United States. The Act aimed to provide U.S. researchers and educators, as well as government and the public, with the advanced computing and information resources they needed for achievement of personal, business, and public goals. The NITRD mission has expanded over the last three decades as the capabilities of advanced computing, networking, and IT technologies increased dramatically. Join us as we recognize and celebrate the origins and expansion of America's IT innovation highway.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-29 00:00:00Z | Airworthiness Directives; General Electric Company Turbofan Engines
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/29/2021-25870/airworthiness-directives-general-electric-company-turbofan-engines
+The FAA proposes to adopt a new airworthiness directive (AD) for all General Electric Company (GE) Passport 20-17BB1A, Passport 20- 18BB1A, and Passport 20-19BB1A model turbofan engines. This proposed AD was prompted by a report of a manufacturing quality escape that requires a reduction to the life limit of certain high-pressure turbine (HPT) rotor stage 1 disks. This proposed AD would require revising the Airworthiness Limitations section (ALS) of the GE Passport 20 Line Maintenance Manual and the operator's existing approved continuous airworthiness maintenance program (CAMP) to incorporate a reduced life limit for certain HPT rotor stage 1 disks. The FAA is proposing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-29 00:00:00Z | Reporting Requirements for Nonemergency Events at Nuclear Power Plants
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/29/2021-25928/reporting-requirements-for-nonemergency-events-at-nuclear-power-plants
+The U.S. Nuclear Regulatory Commission (NRC) plans to hold a public meeting to discuss a rulemaking activity related to reporting requirements for nonemergency events at nuclear power plants. The purpose of the meeting is to provide background and status information on the rulemaking and to obtain stakeholder input to enhance the NRC's understanding of the associated issues.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-29 00:00:00Z | Notice of Intent To Extend and Revise a Currently Approved Information Collection
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/29/2021-25896/notice-of-intent-to-extend-and-revise-a-currently-approved-information-collection
+In accordance with the Paperwork Reduction Act of 1995 and Office of Management and Budget (OMB) regulations, this notice announces the National Institute of Food and Agriculture's (NIFA) intention to request a new information collection titled Small Business Innovation Research (SBIR) Program Lifecycle Certification. This information collection replaces an existing information collection, Small Business Innovation Research (SBIR) Program Lifecycle Certification.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-29 00:00:00Z | Fisheries of the Exclusive Economic Zone Off Alaska; Atka Mackerel in the Bering Sea and Aleutian Islands Management Area
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/29/2021-25921/fisheries-of-the-exclusive-economic-zone-off-alaska-atka-mackerel-in-the-bering-sea-and-aleutian
+NMFS is prohibiting directed fishing for Atka mackerel in the Central Aleutian district (CAI) of the Bering Sea and Aleutian Islands management area (BSAI) by vessels participating in the BSAI trawl limited access sector fishery. This action is necessary to prevent exceeding the 2021 total allowable catch (TAC) of Atka mackerel in the CAI allocated to vessels participating in the BSAI trawl limited access sector fishery.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-29 00:00:00Z | National Institute on Aging; Notice of Closed Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/29/2021-25872/national-institute-on-aging-notice-of-closed-meeting
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Board of Visitors, United States Military Academy (USMA)
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25723/board-of-visitors-united-states-military-academy-usma
+Federal Register document from Defense Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Astronomy and Astrophysics Advisory Committee; Notice of Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25778/astronomy-and-astrophysics-advisory-committee-notice-of-meeting
+Federal Register document from National Science Foundation (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Notice of Permit Modification Received Under the Antarctic Conservation Act of 1978
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25730/notice-of-permit-modification-received-under-the-antarctic-conservation-act-of-1978
+The National Science Foundation (NSF) is required to publish a notice of requests to modify permits issued to conduct activities regulated under the Antarctic Conservation Act of 1978. This is the required notice of a requested permit modification.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Privacy Act of 1974; Computer Matching Program
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25847/privacy-act-of-1974-computer-matching-program
+Pursuant to the Privacy Act of 1974, as amended by the Computer Matching and Privacy Protection Act of 1988 and the Computer Matching and Privacy Protections Amendment of 1990 (Privacy Act), and Office of Management and Budget (OMB) guidance on the conduct of matching programs, notice is hereby given of the re-establishment of a matching program between the Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS), and the California Department of Healthcare Services (CA-DHCS). CA-DHCS will match against DHS-USCIS data to verify the immigration status of non-U.S. citizens who apply for federal benefits (Benefit Applicants) under Medicaid programs that CA-DHCS administers to determine whether Benefit Applicants possess the requisite immigration status to be eligible for the Medicaid it administers.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Procurement List; Proposed Additions and Deletions
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25787/procurement-list-proposed-additions-and-deletions
+The Committee is proposing to add product(s) to the Procurement List that will be furnished by nonprofit agencies employing persons who are blind or have other severe disabilities, and delete and service(s) previously furnished by such agencies.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Information Collections Being Reviewed by the Federal Communications Commission
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25822/information-collections-being-reviewed-by-the-federal-communications-commission
+As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: Whether the proposed collection of information is necessary for the proper performance of the functions of the Commission, including whether the information shall have practical utility; the accuracy of the Commission's burden estimate; ways to enhance the quality, utility, and clarity of the information collected; ways to minimize the burden of the collection of information on the respondents, including the use of automated collection techniques or other forms of information technology; and ways to further reduce the information collection burden on small business concerns with fewer than 25 employees. The FCC may not conduct or sponsor a collection of information unless it displays a currently valid OMB control number. No person shall be subject to any penalty for failing to comply with a collection of information subject to the PRA that does not display a valid OMB control number.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Airworthiness Directives; ASI Aviation (Type Certificate Previously Held by Reims Aviation S.A.) Airplanes
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25688/airworthiness-directives-asi-aviation-type-certificate-previously-held-by-reims-aviation-sa
+The FAA is adopting a new airworthiness directive (AD) for all ASI Aviation (type certificate previously held by Reims Aviation S.A.) Model F406 airplanes. This AD was prompted by mandatory continuing airworthiness information (MCAI) originated by an aviation authority of another country to identify and correct an unsafe condition on an aviation product. The MCAI identifies the unsafe condition as failure of a circuit breaker (CB) switch. This AD requires replacing certain CB switches and establishing a life limit for the CB switches. The FAA is issuing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25206/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters
+The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Deutschland GmbH Model MBB-BK 117 C-2 and MBB-BK 117 D-2 helicopters. This proposed AD was prompted by report that a collective bellcrank-K was found incorrectly installed on a helicopter. This proposed AD would require inspecting the collective bellcrank-K to determine if it is correctly installed and has a correct position marking and, depending on the findings, applicable corrective actions, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference (IBR). This proposed AD would also allow installation of an affected collective bellcrank-K, provided certain instructions are followed. The FAA is proposing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Notice of Lodging of Proposed First Amendment to Consent Decree
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25867/notice-of-lodging-of-proposed-first-amendment-to-consent-decree
+Federal Register document from Justice Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Agency Information Collection Activities; Proposed eCollection eComments Requested; New Collection
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25743/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-collection
+The Office on Violence Against Women (OVW), Department of Justice, will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | BNSF Railway Company-Trackage Rights Exemption-Union Pacific Railroad Company
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25810/bnsf-railway-company-trackage-rights-exemption-union-pacific-railroad-company
+Federal Register document from Surface Transportation Board (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Large Residential Washers From Mexico: Final Results of Antidumping Duty Administrative Review; 2019-2020
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25780/large-residential-washers-from-mexico-final-results-of-antidumping-duty-administrative-review
+The Department of Commerce (Commerce) finds that sales of large residential washers from Mexico were made at less than normal value during the period of review (POR) February 1, 2019, through January 31, 2020.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-26 00:00:00Z | Endangered and Threatened Species; Receipt of Recovery Permit Applications
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/26/2021-25793/endangered-and-threatened-species-receipt-of-recovery-permit-applications
+We, the U.S. Fish and Wildlife Service, have received applications for permits to conduct activities intended to enhance the propagation or survival of endangered species under the Endangered Species Act. We invite the public and local, State, Tribal, and Federal agencies to comment on these applications. Before issuing any of the requested permits, we will take into consideration any information that we receive during the public comment period.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-24 00:00:00Z | Endangered and Threatened Wildlife and Plants; Regulations for Designating Critical Habitat
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/24/2021-25774/endangered-and-threatened-wildlife-and-plants-regulations-for-designating-critical-habitat
+We, the U.S. Fish and Wildlife Service (the "Service"), are extending the comment period on our October 27, 2021, proposed rule to rescind the final rule titled "Endangered and Threatened Wildlife and Plants; Regulations for Designating Critical Habitat" that published on December 18, 2020, and established regulations for exclusions from critical habitat. We are extending the comment period by 15 days.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-24 00:00:00Z | Product Change-Priority Mail Negotiated Service Agreement
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/24/2021-25701/product-change-priority-mail-negotiated-service-agreement
+The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a domestic shipping services contract to the list of Negotiated Service Agreements in the Mail Classification Schedule's Competitive Products List.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-24 00:00:00Z | Notice of Lodging of Proposed Consent Decree Under the Oil Pollution Act
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/24/2021-25606/notice-of-lodging-of-proposed-consent-decree-under-the-oil-pollution-act
+Federal Register document from Justice Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-24 00:00:00Z | Endangered and Threatened Wildlife and Plants; Regulations for Listing Endangered and Threatened Species and Designating Critical Habitat
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/24/2021-25767/endangered-and-threatened-wildlife-and-plants-regulations-for-listing-endangered-and-threatened
+We, the U.S. Fish and Wildlife Service (FWS) and the National Marine Fisheries Service (NMFS; hereafter collectively referred to as the "Services" or "we"), are extending the comment period on our October 27, 2021, proposed rule to rescind the final rule titled "Regulations for Listing Endangered and Threatened Species and Designating Critical Habitat" that was published on December 16, 2020, and established a regulatory definition of the term "habitat." We are extending the comment period by 15 days.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-24 00:00:00Z | Delegation of Authority
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/24/2021-25632/delegation-of-authority
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-23 00:00:00Z | National Cancer Institute; Notice of Closed Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/23/2021-25553/national-cancer-institute-notice-of-closed-meeting
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-23 00:00:00Z | Notice of Intent To Repatriate Cultural Items: McClure Archives and University Museum, University of Central Missouri, Warrensburg, MO
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/23/2021-25525/notice-of-intent-to-repatriate-cultural-items-mcclure-archives-and-university-museum-university-of
+The McClure Archives and University Museum, University of Central Missouri, in consultation with the appropriate Indian Tribes or Native Hawaiian organizations, has determined that the cultural items listed in this notice meet the definition of objects of cultural patrimony. Lineal descendants or representatives of any Indian Tribe or Native Hawaiian organization not identified in this notice that wish to claim these cultural items should submit a written request to the McClure Archives and University Museum. If no additional claimants come forward, transfer of control of the cultural items to the lineal descendants, Indian Tribes, or Native Hawaiian organizations stated in this notice may proceed.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-23 00:00:00Z | Notice of Agreement Filed
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/23/2021-25520/notice-of-agreement-filed
+Federal Register document from Federal Maritime Commission (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-23 00:00:00Z | Prescription Drug and Health Care Spending
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/23/2021-25202/prescription-drug-and-health-care-spending
+Elsewhere in this issue of the Federal Register, the IRS is issuing temporary regulations that increase transparency by requiring group health plans and health insurance issuers in the group and individual markets to report information about prescription drugs and health care spending to the Department of Health and Human Services (HHS), the Department of Labor (DOL), and the Department of the Treasury (the Departments). The IRS is issuing the temporary regulations at the same time that the Office of Personnel Management (OPM), the Employee Benefits Security Administration of DOL, and the Office of Consumer Information and Insurance Oversight of HHS are issuing substantially similar interim final rules with a request for comments. The text of those temporary regulations also serves as the text of these proposed regulations.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-23 00:00:00Z | Administrative Declaration of a Disaster for the State of California
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/23/2021-25474/administrative-declaration-of-a-disaster-for-the-state-of-california
+This is a notice of an Administrative declaration of a disaster for the State of California dated 11/17/2021. Incident: Cache Fire. Incident Period: 08/18/2021 through 08/23/2021.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-23 00:00:00Z | National Institute of Diabetes and Digestive and Kidney Diseases; Notice of Closed Meetings
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/23/2021-25518/national-institute-of-diabetes-and-digestive-and-kidney-diseases-notice-of-closed-meetings
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-22 00:00:00Z | Agency Information Collection Request. 30-Day Public Comment Request
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/22/2021-25370/agency-information-collection-request-30-day-public-comment-request
+In compliance with the requirement of the Paperwork Reduction Act of 1995, the Office of the Secretary (OS), Department of Health and Human Services, is publishing the following summary of a proposed collection for public comment.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Airworthiness Directives; Austro Engine GmbH Engines
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/2021-25259/airworthiness-directives-austro-engine-gmbh-engines
+The FAA is superseding Airworthiness Directive (AD) 2021-09-04 for all Austro Engine GmbH E4 and E4P model diesel piston engines. AD 2021-09-04 required replacing a certain oil pump as well as the oil filter and engine oil. This AD was prompted by reports of an oil pump blockage on E4 model diesel piston engines. This AD requires replacing a certain oil pump as well as the oil filter and engine oil. The FAA is issuing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Procurement List; Additions
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/2021-25266/procurement-list-additions
+This action adds product(s) to the Procurement List that will be furnished by nonprofit agencies employing persons who are blind or have other severe disabilities.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Presidential Declaration Amendment of a Major Disaster for Public Assistance Only for the State of California
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/2021-25282/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+This is an amendment of the Presidential declaration of a major disaster for Public Assistance Only for the State of California (FEMA-4610-DR), dated 09/24/2021. Incident: Wildfires. Incident Period: 07/14/2021 through 10/25/2021.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Notice to Public of Website Location of Center for Devices and Radiological Health Fiscal Year 2022 Proposed Guidance Development
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/C1-2021-23392/notice-to-public-of-website-location-of-center-for-devices-and-radiological-health-fiscal-year-2022
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Combined Notice of Filings #2
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/2021-25253/combined-notice-of-filings-2
+Federal Register document from Energy Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Privacy Act of 1974; System of Records Notice
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/2021-25232/privacy-act-of-1974-system-of-records-notice
+The U.S. Small Business Administration (SBA) proposes a new system of records titled Reasonable Accommodations, Personal Assistance Services, and Medical/Religious Exceptions (SBA 42), to its inventory of records systems subject to the Privacy Act of 1974, as amended. Publication of this notice complies with the Privacy Act and the Office of Management and Budget (OMB) Circular A-108 and Circular A-130. System of Records Notice (SORN) titled Reasonable Accommodations, Personal Assistance Services, and Medical/Religious Exceptions (SBA 42), includes current and former SBA employees, applicants for employment, and members of the public that request reasonable accommodations, personal assistance services or medical/religious exceptions. Reasonable accommodations and personal services for former and current federal employees may be requested to perform work-related duties. SBA is fully committed to providing reasonable accommodation and personal assistance services to employees and SBA applicants for employment as part of the larger effort to foster an inclusive organizational culture that empowers all employees to realize their full potential. Members of the public may request reasonable accommodations to attend SBA sponsored events or meetings and to seek information or services from SBA's programs or products. Medical/ religious exceptions may be requested by employees and SBA applicants based on a medical condition or circumstance or a sincerely held religious belief, practice, or observance. All requests are processed through the Office of Diversity, Inclusion and Civil Rights (ODI&CR).
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Presidential Declaration Amendment of a Major Disaster for the State of California
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/2021-25284/presidential-declaration-amendment-of-a-major-disaster-for-the-state-of-california
+This is an amendment of the Presidential declaration of a major disaster for the State of California (FEMA-4610-DR), dated 08/24/ 2021. Incident: Wildfires. Incident Period: 07/14/2021 through 10/25/2021.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-19 00:00:00Z | Office of Asset and Transportation Management; Presidential Commission on the Supreme Court of the United States; Notification of Upcoming Public Virtual Meeting and Request for Public Comment
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/19/2021-25315/office-of-asset-and-transportation-management-presidential-commission-on-the-supreme-court-of-the
+GSA is accepting written public comments on the work of the Presidential Commission on the Supreme Court of the United States (Commission). Further, GSA is providing notice of an open public virtual meeting of the Commission in accordance with the requirements of the Federal Advisory Committee Act. The purpose of this meeting is for the Commissioners to review the draft Commission Report and vote on its submission to the President pursuant to Executive Order 14023. This meeting is open to the public and will be live-streamed at www.whitehouse.gov/pcscotus/. Materials relevant to the public meeting will be posted at www.whitehouse.gov/pcscotus/ prior to the meeting.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-18 00:00:00Z | Safety Zone; Haro Strait, San Juan County, WA
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/18/2021-25198/safety-zone-haro-strait-san-juan-county-wa
+The Coast Guard is establishing a temporary moving safety zone for navigable waters within a 500-yard radius around the ZIM KINGSTON. The safety zone is needed to protect personnel, vessels, and the marine environment from the potential hazards associated with the vessel transit. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port Sector Puget Sound.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-18 00:00:00Z | Eunice Kennedy Shriver National Institute of Child Health and Human Development; Notice of Closed Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/18/2021-25161/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-closed
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-18 00:00:00Z | Notice of Intent To Grant a Partially Exclusive Patent License
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/18/2021-25137/notice-of-intent-to-grant-a-partially-exclusive-patent-license
+NASA hereby gives notice of its intent to grant a partially exclusive patent license to practice the inventions described and claimed in the patents and/or patent applications listed in SUPPLEMENTARY INFORMATION below.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-18 00:00:00Z | Agency Information Collection Activities; Submission for OMB Review; Comment Request
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/18/2021-25104/agency-information-collection-activities-submission-for-omb-review-comment-request
+The FTC requests that the Office of Management and Budget (OMB) extend for three years the current Paperwork Reduction Act (PRA) clearance for information collection requirements contained in the rules and regulations under the Pay-Per-Call Rule (Rule). That clearance expires on November 30, 2021.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-18 00:00:00Z | Driftwood Pipeline LLC; Notice of Amendment to Application and Establishing Intervention Deadline
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/18/2021-25178/driftwood-pipeline-llc-notice-of-amendment-to-application-and-establishing-intervention-deadline
+Federal Register document from Energy Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-18 00:00:00Z | Request for Information: Center for WIC Modernization and Delivery
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/18/2021-25145/request-for-information-center-for-wic-modernization-and-delivery
+The Food and Nutrition Service published a document in the Federal Register of November 8, 2021, concerning a Request for Information about establishing a resource center that supports State and local Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) agencies in improving the WIC application and certification journey. The document is missing a contact email. To avoid any confusion, we are re-publishing the notice in its entirety with the missing email information: The Food and Nutrition Service (FNS) is issuing this Request for Information (RFI) to gain insights from interested parties about establishing a resource center that supports State and local Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) agencies in improving the WIC application and certification journey. This is a request for information that may inform a future cooperative agreement. It is not a solicitation for proposals or proposal abstracts. The purpose of this notice is to: 1. Determine the level of interest that exists for the proposed service; 2. Obtain information about the approach to providing the service, including needs, capabilities, and requirements; and 3. Gather information on the potential constraints and risks associated with this approach. Information gathered through this RFI may be used to inform potential strategies for supporting and improving State and local WIC operations. FNS welcomes comments from all stakeholders.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-18 00:00:00Z | Federal Acquisition Regulation: Revision of Definition of “Commercial Item”; Correction
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/18/2021-25028/federal-acquisition-regulation-revision-of-definition-of-commercial-item-correction
+DoD, GSA, and NASA published a final rule amending the Federal Acquisition Regulation (FAR) to implement a section of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 to change the definition of "commercial item." This document corrects an erroneous weblink in that rule.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-17 00:00:00Z | TSCA Section 21 Petition for Rulemaking Under TSCA Section 6; Reasons for Agency Response; Denial of Requested Rulemaking
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/17/2021-25027/tsca-section-21-petition-for-rulemaking-under-tsca-section-6-reasons-for-agency-response-denial-of
+This action announces the availability of EPA's response to a petition received on August 16, 2021, from William D. Bush. The petition requests that EPA determine that the "chemical mixtures contained within cosmetics present an unreasonable risk of injury to health and the environment," and issue a rule or order under the Toxic Substances Control Act (TSCA) to "eliminate the hazardous chemicals used in mixtures [in cosmetics]." After careful consideration, EPA has denied the petition for the reasons set forth in this document.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-17 00:00:00Z | Notice of Public Meeting of the Iowa Advisory Committee to the U.S. Commission on Civil Rights
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/17/2021-25034/notice-of-public-meeting-of-the-iowa-advisory-committee-to-the-us-commission-on-civil-rights
+Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act that the Iowa Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a meeting on Friday, December 10, 2021 at 1:00 p.m.-2:30 p.m. Central time. The purpose is to review potential civil rights topic for study.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-17 00:00:00Z | Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG (Type Certificate Previously Held by Rolls-Royce plc) Turbofan Engines
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/17/2021-25005/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-type-certificate-previously-held-by
+The FAA is adopting a new airworthiness directive (AD) for certain Rolls-Royce Deutschland Ltd. & Co KG (RRD) Trent 1000 model turbofan engines. This AD was prompted by the manufacturer revising the engine Time Limits Manual (TLM) life limits of certain critical rotating parts and direct accumulation counting data files. This AD requires the operator to revise the airworthiness limitation section (ALS) of their existing approved aircraft maintenance program (AMP) by incorporating the revised tasks of the applicable TLM for each affected model turbofan engine, as specified in a European Union Aviation Safety Agency (EASA) AD, which is incorporated by reference. The FAA is issuing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-17 00:00:00Z | Copyright Claims Board: Initiation of Proceedings and Related Procedures
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/17/2021-25001/copyright-claims-board-initiation-of-proceedings-and-related-procedures
+The U.S. Copyright Office is further extending the deadline for the submission of written comments in response to its September 29, 2021, notice of proposed rulemaking regarding initiating proceedings before the Copyright Claims Board.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-17 00:00:00Z | Receipt of Incidental Take Permit Application and Proposed Habitat Conservation Plan for the Sand Skink, Lake County, FL; Categorical Exclusion
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/17/2021-25049/receipt-of-incidental-take-permit-application-and-proposed-habitat-conservation-plan-for-the-sand
+We, the Fish and Wildlife Service (Service), announce receipt of an application from PKY Clermont Owner, LLC (applicant) for an incidental take permit (ITP) under the Endangered Species Act. The applicant requests the ITP to take the federally listed sand skink incidental to construction in Lake County, Florida. We request public comment on the application, which includes the applicant's proposed habitat conservation plan (HCP), and the Service's preliminary determination that this HCP qualifies as "low-effect," categorically excluded, under the National Environmental Policy Act. To make this determination, we used our environmental action statement and low- effect screening form, both of which are also available for public review.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-16 00:00:00Z | Information Collection Being Submitted for Review and Approval to Office of Management and Budget
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/16/2021-24914/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget
+As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it can further reduce the information collection burden for small business concerns with fewer than 25 employees.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-16 00:00:00Z | Arts Advisory Panel Meetings
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/16/2021-24928/arts-advisory-panel-meetings
+Pursuant to the Federal Advisory Committee Act, as amended, notice is hereby given that 17 meetings of the Arts Advisory Panel to the National Council on the Arts will be held by teleconference or videoconference.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-16 00:00:00Z | Airworthiness Directives; Diamond Aircraft Industries GmbH Airplanes
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/16/2021-25011/airworthiness-directives-diamond-aircraft-industries-gmbh-airplanes
+The FAA is adopting a new airworthiness directive (AD) for all Diamond Aircraft Industries GmbH Model DA 42, DA 42 NG, and DA 42 M-NG airplanes. This AD was prompted by mandatory continuing airworthiness information (MCAI) originated by an aviation authority of another country to identify and correct an unsafe condition on an aviation product. The MCAI identifies the unsafe condition as failure of the nose landing gear (NLG) actuator attachment lever and detachment from the NLG leg. This AD requires repetitively inspecting the NLG actuator attachment lever for cracks and damage and taking any necessary corrective actions. The FAA is issuing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-16 00:00:00Z | Technical Conference on Greenhouse Gas Mitigation: Natural Gas Act Sections 3 and 7 Authorizations; Supplemental Notice of Technical Conference
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/16/2021-24985/technical-conference-on-greenhouse-gas-mitigation-natural-gas-act-sections-3-and-7-authorizations
+Federal Register document from Energy Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | Florida Gas Transmission Company, LLC; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24830/florida-gas-transmission-company-llc-notice-of-request-under-blanket-authorization-and-establishing
+Federal Register document from Energy Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | Tests Determined To Be Suitable for Use in the National Reporting System for Adult Education
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/C1-2021-22951/tests-determined-to-be-suitable-for-use-in-the-national-reporting-system-for-adult-education
+Federal Register document from Education Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | Proposed Collection; Comment Request for Regulation Project
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24826/proposed-collection-comment-request-for-regulation-project
+The Internal Revenue Service (IRS), as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to take this opportunity to comment on information collections, as required by the Paperwork Reduction Act of 1995. The IRS is soliciting comments concerning Election Involving the Repeal of the Bonding Requirement.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | Fingerprint Submission Requirements
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24725/fingerprint-submission-requirements
+As a result of the Coronavirus (COVID-19) pandemic, the National Crime Prevention and Privacy Compact Council (Compact Council) approves a proposal submitted by the Oklahoma State Bureau of Investigation, under the previously approved Florida proposal as amended by the subsequent Florida proposal, requesting access to the Interstate Identification Index (III) System, maintained by the Federal Bureau of Investigation (FBI), on a delayed fingerprint submission basis for emergency child placement purposes.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | National Institute of Mental Health; Notice of Closed Meetings
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24827/national-institute-of-mental-health-notice-of-closed-meetings
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | South Atlantic Fishery Management Council; Public Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24842/south-atlantic-fishery-management-council-public-meeting
+The South Atlantic Fishery Management Council (Council) will hold a webinar meeting of its Private Recreational Reporting Work Group evaluating reporting alternatives for the private recreational snapper grouper fishery.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | New Hampshire; Major Disaster and Related Determinations
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24743/new-hampshire-major-disaster-and-related-determinations
+This is a notice of the Presidential declaration of a major disaster for the State of New Hampshire (FEMA-4622-DR), dated September 30, 2021, and related determinations.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 20-35] 2021-11-15 00:00:00Z | New Hampshire; Amendment No. 1 to Notice of a Major Disaster Declaration
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24729/new-hampshire-amendment-no-1-to-notice-of-a-major-disaster-declaration
+This notice amends the notice of a major disaster declaration for the State of New Hampshire (FEMA-4457-DR), dated August 15, 2019, and related determinations.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-15 00:00:00Z | National Institute of Environmental Health Sciences; Notice of Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/15/2021-24773/national-institute-of-environmental-health-sciences-notice-of-meeting
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Privacy Act of 1974; New System of Records
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-24685/privacy-act-of-1974-new-system-of-records
+This system of records clarifies GSA's procedures and authority to collect information related to reasonable accommodations. It does not create new authority to collect such information.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Grandfathering (GF) Registration Notice
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-24708/grandfathering-gf-registration-notice
+This notice lists Grandfathering Registration for projects by the Susquehanna River Basin Commission during the period set forth in DATES.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Agency Information Collection Activity: Certification of Lessons Completed
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-24667/agency-information-collection-activity-certification-of-lessons-completed
+Veterans Benefits Administration, Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed revision of a currently approved collection, and allow 60 days for public comment in response to the notice.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Projects Approved for Consumptive Uses of Water
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-24709/projects-approved-for-consumptive-uses-of-water
+This notice lists the projects approved by rule by the Susquehanna River Basin Commission during the period set forth in DATES.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Sunshine Act; Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-24904/sunshine-act-meeting
+Federal Register document from Unified Carrier Registration Plan (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Applications for New Awards; Fulbright-Hays Group Projects Abroad Program
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-24645/applications-for-new-awards-fulbright-hays-group-projects-abroad-program
+The Department of Education is issuing a notice inviting applications for fiscal year (FY) 2022 for the Fulbright-Hays Group Projects Abroad (GPA) Program, Assistance Listing Numbers 84.021A and 84.021B. This notice relates to the approved information collection under OMB control number 1840-0792.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Union Pacific Railroad Company-Trackage Rights Exemption-BNSF Railway Company
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-24692/union-pacific-railroad-company-trackage-rights-exemption-bnsf-railway-company
+Federal Register document from Surface Transportation Board (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-12 00:00:00Z | Privacy Act Regulations for EPA-79
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/12/2021-23832/privacy-act-regulations-for-epa-79
+The Environmental Protection Agency (EPA or Agency) is proposing to revise the Agency's Privacy Act regulations to exempt a new system of records, EPA-79, the National Enforcement Investigations Center (NEIC) Master Tracking System, from certain requirements of the Privacy Act because the records in EPA's NEIC Master Tracking System are maintained for use in civil and criminal actions. A notice has been published in the Federal Register on October 29, 2021 for the creation of this new system of records that will contain information collected by NEIC when supporting enforcement investigations. In the "Rules and Regulations" section of this Federal Register, EPA is simultaneously publishing the revision of the Agency's Privacy Act Regulations for EPA-79 as a direct final rule without a prior proposed rule. If the Agency receives no adverse comment, it will not take further action on this proposed rule.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-10 00:00:00Z | Endangered and Threatened Species; Take of Anadromous Fish
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/10/2021-24572/endangered-and-threatened-species-take-of-anadromous-fish
+Notice is hereby given that NMFS has drafted Proposed Evaluation and Pending Determinations (PEPD) for five resource management plans (RMPs) for the rearing and releasing Chinook salmon, coho salmon, and chum salmon, and for research of Puget Sound Steelhead in the Hood Canal Basin of Washington State. The RMPs are in the form of hatchery and genetic management plans (HGMPs) for hatchery programs operated by Long Live the Kings (LLTK), the Port Gamble S'Klallam Tribe (PGST), the Skokomish Tribe (ST), and Washington Department of Fish and Wildlife (WDFW). In 2016 NMFS certified that the five HGMPs satisfied limit 6 of the 4(d) rule. The revised HGMPs will replace the versions of the same plans now in place. NMFS is notifying the public of the availability and opportunity to comment on PEPDs for the new programs. The hatchery programs are intended to contribute to fulfilling Federal tribal trust responsibilities and treaty rights guaranteed through treaties and affirmed in U.S. v. Washington (1974). The program operators submitted revised HGMPs for the following changes: (1) Improve the available forage to southern resident killer whales; and (2) investigate genetic diversity of Puget Sound Steelhead and the effects of release timing on marine survival of fall Chinook salmon.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-10 00:00:00Z | Agency Information Collection Activities: Proposed Collection Renewal; Comment Request
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/10/2021-24553/agency-information-collection-activities-proposed-collection-renewal-comment-request
+The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0072).
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-10 00:00:00Z | Safety Zone; Tchefuncte River, Madisonville, LA
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/10/2021-24588/safety-zone-tchefuncte-river-madisonville-la
+The Coast Guard is proposing to establish a temporary safety zone for a fireworks display on December 4, 2021 from 9 p.m. through 10 p.m. The safety zone is needed to protect people and the environment on these navigable waters of the Tchefuncte River, LA. This proposed rulemaking would prohibit persons and vessels from entering the safety zone unless authorized by the Captain of the Port (COTP) Sector New Orleans or a designated representative. We invite your comments on this proposed rulemaking.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-10 00:00:00Z | Privacy Act of 1974; Systems of Records
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/10/2021-24567/privacy-act-of-1974-systems-of-records
+The US. Office of Government Ethics (OGE) proposes to revise four and rescind one of its existing internal systems of records under the Privacy Act. The system of records to be rescinded is OGE/INTERNAL-2, which covers telephone call detail records that were used to verify employee telephone usage and to resolve billing discrepancies. The four systems of records to be revised are the following: <bullet> OGE/INTERNAL-1 Pay, Leave and Travel Records, which contains records related to OGE employees' pay, leave, and travel, including information regarding leave accrual rate, usage, and balances, salary withholdings, travel expenses, and usage of the transit fare subsidy program; <bullet> OGE/INTERNAL-3 Grievance Records, which contains records relating to grievances filed by OGE employees; <bullet> OGE/INTERNAL-4 Computer Systems Activity and Access Records, which contains information on the use of official email systems, user access to OGE's computer networks, and records related to the verification or authorization of an individual's access to systems, files, or applications; and <bullet> OGE/INTERNAL-5 Employee Locator and Emergency Notification Records, which contains information regarding the organizational location, telephone extension, and hours of duty of OGE employees, as well as their personal contact information and the name, relationship, and telephone number of employees' emergency contacts.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-10 00:00:00Z | Self-Regulatory Organizations; MIAX Emerald, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fee Schedule
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/10/2021-24532/self-regulatory-organizations-miax-emerald-llc-notice-of-filing-and-immediate-effectiveness-of-a
+Federal Register document from Securities and Exchange Commission (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-10 00:00:00Z | Self-Regulatory Organizations; Miami International Securities Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fee Schedule
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/10/2021-24530/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and
+Federal Register document from Securities and Exchange Commission (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-09 00:00:00Z | Special Local Regulation; San Diego Bay, San Diego, CA
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/09/2021-24514/special-local-regulation-san-diego-bay-san-diego-ca
+The Coast Guard is establishing a temporary special local regulation (SLR) for the San Diego Fleet Week Veterans Day Boat Parade marine event that will be held on the waters of San Diego Bay, California. This action is necessary to provide for the safety of the participants, crew, spectators, sponsor vessels, and general users of the waterway during the event on November 11, 2021. This SLR temporarily encompasses all navigable waters, from surface to bottom, on a pre-determined course in the northern portion of the San Diego Main Ship Channel from Shelter Island Basin, past the Embarcadero, crossing the Federal navigable channel and ending off of Coronado Island.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-09 00:00:00Z | National Institute of Allergy and Infectious Diseases; Notice of Closed Meetings
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/09/2021-24442/national-institute-of-allergy-and-infectious-diseases-notice-of-closed-meetings
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-09 00:00:00Z | Agency Information Collection Activities; Request for Public Comment
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/09/2021-24498/agency-information-collection-activities-request-for-public-comment
+The Department of Labor (the Department), in accordance with the Paperwork Reduction Act, provides the general public and Federal agencies with an opportunity to comment on proposed and continuing collections of information. This helps the Department assess the impact of its information collection requirements and minimize the public's reporting burden. It also helps the public understand the Department's information collection requirements and provide the requested data in the desired format. The Employee Benefits Security Administration (EBSA) is soliciting comments on the proposed extension of the information collection requests (ICRs) contained in the documents described below. A copy of the ICRs may be obtained by contacting the office listed in the ADDRESSES section of this notice. ICRs also are available at reginfo.gov (http://www.reginfo.gov/public/do/PRAMain).
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-09 00:00:00Z | National Library of Medicine; Notice of Meetings
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/09/2021-24437/national-library-of-medicine-notice-of-meetings
+Federal Register document from Health and Human Services Department (Notice)
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-09 00:00:00Z | Application To Export Electric Energy; BP Energy Company
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/09/2021-24464/application-to-export-electric-energy-bp-energy-company
+BP Energy Company (Applicant or BP Energy) has applied for authorization to transmit electric energy from the United States to Canada pursuant to the Federal Power Act.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-09 00:00:00Z | Agency Information Collection Activity Under OMB Review: Notice of Change in Student Status
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/09/2021-24409/agency-information-collection-activity-under-omb-review-notice-of-change-in-student-status
+In compliance with the Paperwork Reduction Act (PRA) of 1995, this notice announces that the Veterans Benefits Administration (VBA), Department of Veterans Affairs, will submit the collection of information abstracted below to the Office of Management and Budget (OMB) for review and comment. The PRA submission describes the nature of the information collection and its expected cost and burden and it includes the actual data collection instrument.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-09 00:00:00Z | Export Trade Certificate of Review
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/09/2021-24415/export-trade-certificate-of-review
+The Secretary of Commerce, through the Office of Trade and Economic Analysis ("OTEA"), issued an amended Export Trade Certificate of Review ("Certificate") to ALCC on October 26, 2021.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-08 00:00:00Z | Canadian Pacific Railway Limited; Canadian Pacific Railway Company; Soo Line Railroad Company; Central Maine & Quebec Railway US Inc.; Dakota, Minnesota & Eastern Railroad Corporation; and Delaware & Hudson Railway Company, Inc.-Control-Kansas City Southern; The Kansas City Southern Railway Company; Gateway Eastern Railway Company; and The Texas Mexican Railway Company
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/08/2021-24307/canadian-pacific-railway-limited-canadian-pacific-railway-company-soo-line-railroad-company-central
+The Surface Transportation Board (Board) invites public comments on a proposed procedural schedule for this proceeding. On September 15, 2021, Canadian Pacific Railway Limited (Canadian Pacific), Canadian Pacific Railway Company, and their U.S. rail carrier subsidiaries, Soo Line Railroad Company, Central Maine & Quebec Railway US Inc., Dakota, Minnesota & Eastern Railroad Corporation, and Delaware & Hudson Railway Company, Inc. (collectively, CP) and Kansas City Southern and its U.S. rail carrier subsidiaries, The Kansas City Southern Railway Company (KCSR), Gateway Eastern Railway Company, and The Texas Mexican Railway Company (collectively, KCS) (CP and KCS collectively, Applicants) filed an amended notice of intent to file an application seeking authority for the acquisition of control by Canadian Pacific, through its indirect, wholly owned subsidiary Cygnus Merger Sub 2 Corporation, of Kansas City Southern, and through it, of KCSR and its railroad affiliates, and for the resulting common control by Canadian Pacific of its U.S. railroad subsidiaries, and KCSR and its railroad affiliates.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-08 00:00:00Z | Privacy Act of 1974; Implementation
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/08/2021-24316/privacy-act-of-1974-implementation
+The United States Department of Justice (DOJ or Department) is finalizing without changes its Privacy Act exemption regulations for the system of records titled, Security Monitoring and Analytics Service Records, JUSTICE/JMD-026, which were published as a notice of proposed rulemaking (NPRM) on July 30, 3021. Specifically, the Department's regulations will exempt the records maintained in JUSTICE/JMD-026 from one or more provisions of the Privacy Act. The exemptions are necessary to avoid interference with efforts to prevent the unauthorized access, use, disclosure, disruption, modification, or destruction of information, information systems, and networks of DOJ and external Federal agency subscribers. The Department received two comments on the NPRM, neither of which impact the Department's decision to proceed with issuing this final rule.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-08 00:00:00Z | Notice of Inventory Completion: Michigan State University, East Lansing, MI
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/08/2021-24306/notice-of-inventory-completion-michigan-state-university-east-lansing-mi
+Michigan State University has completed an inventory of human remains and associated funerary objects, in consultation with the appropriate Indian Tribes or Native Hawaiian organizations and has determined that there is no cultural affiliation between the human remains and associated funerary objects and any present-day Indian Tribes or Native Hawaiian organizations. Representatives of any Indian Tribe or Native Hawaiian organization not identified in this notice that wish to request transfer of control of these human remains and associated funerary objects should submit a written request to Michigan State University. If no additional requestors come forward, transfer of control of the human remains and associated funerary objects Indian Tribes or Native Hawaiian organizations stated in this notice may proceed.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-05 00:00:00Z | Notice of Request for Approval of a New Information Collection
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/05/2021-24150/notice-of-request-for-approval-of-a-new-information-collection
+In accordance with the Paperwork Reduction Act of 1995, this notice announces the intention of the Rural Business-Cooperative Service, Rural Housing Service, and the Rural Utilities Service, agencies of the Rural Development mission area within the U.S. Department of Agriculture (USDA), hereinafter collectively referred to as the Agency to request approval for a new information collection in support of compliance with applicable acts for planning and performing construction and other development work.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-05 00:00:00Z | List of Approved Spent Fuel Storage Casks: TN Americas LLC, TN-32 Dry Storage Cask, Certificate of Compliance No. 1021, Renewal of Initial Certificate and Amendment No. 1
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/05/2021-24211/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-tn-32-dry-storage-cask-certificate-of
+The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its spent fuel regulations by revising the TN Americas LLC, TN-32 Dry Storage Cask listing within the "List of approved spent fuel storage casks" to renew, for an additional 40 years, the initial certificate and Amendment No. 1 of Certificate of Compliance No. 1021. The renewal of the initial certificate and Amendment No. 1 revises the certificate of compliance's conditions and technical specifications to address aging management activities related to the structures, systems, and components of the dry storage system to ensure that these will maintain their intended functions during the period of extended storage operations. The scope of the Certificate of Compliance No. 1021 renewal includes spent fuel storage cask models TN-32, TN-32A, and TN-32B.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-05 00:00:00Z | Airworthiness Directives; Pacific Aerospace Limited Airplanes
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/05/2021-24084/airworthiness-directives-pacific-aerospace-limited-airplanes
+The FAA is adopting a new airworthiness directive (AD) for certain Pacific Aerospace Limited Model 750XL airplanes. This AD was prompted by mandatory continuing airworthiness information (MCAI) originated by an aviation authority of another country to identify and correct an unsafe condition on an aviation product. The MCAI identifies the unsafe condition as chafing damage in the port wing skin caused by the fuel system finger filters. This AD requires inspecting the wing internal skin for chafing and taking any necessary corrective actions. The FAA is issuing this AD to address the unsafe condition on these products.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-04 00:00:00Z | Agency Information Collection Activity: Certification of Affirmation of Enrollment Agreement Correspondence Course
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/04/2021-24069/agency-information-collection-activity-certification-of-affirmation-of-enrollment-agreement
+The Veterans Benefits Administration (VBA), Department of Veterans Affairs (VBA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed revision of a currently approved collection, and allow 60 days for public comment in response to the notice.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-04 00:00:00Z | Notice of Inventory Completion: Tennessee Valley Authority, Knoxville, TN
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/04/2021-24052/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+The Tennessee Valley Authority (TVA) has completed an inventory of associated funerary objects in consultation with the appropriate Indian Tribes and Native Hawaiian organizations, and has determined that there is no cultural affiliation between the associated funerary objects and any present-day Indian Tribes or Native Hawaiian organizations. Representatives of any Indian Tribe or Native Hawaiian organization not identified in this notice that wish to request transfer of control of these associated funerary objects should submit a written request to the TVA. If no additional requestors come forward, transfer of control of the associated funerary objects to the Indian Tribes or Native Hawaiian organizations stated in this notice may proceed.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-02 00:00:00Z | Agency Information Collection Activity Under OMB Review: Application by Insured Terminally Ill Person for Accelerated Benefit
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/02/2021-23854/agency-information-collection-activity-under-omb-review-application-by-insured-terminally-ill-person
+In compliance with the Paperwork Reduction Act (PRA) of 1995, this notice announces that the Veterans Benefits Administration (VBA), Department of Veterans Affairs, will submit the collection of information abstracted below to the Office of Management and Budget (OMB) for review and comment. The PRA submission describes the nature of the information collection and its expected cost and burden and it includes the actual data collection instrument.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-11-01 00:00:00Z | SES Performance Review Board
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/11/01/2021-23652/ses-performance-review-board
+Notice is hereby given of the appointment of members to the FTC Performance Review Board.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-10-29 00:00:00Z | Proposed Agency Information Collection Extension
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/29/2021-23533/proposed-agency-information-collection-extension
+The Department of Energy (DOE), pursuant to the Paperwork Reduction Act of 1995, intends to extend for three years an information collection request with the Office of Management and Budget (OMB).
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-10-29 00:00:00Z | Fisheries of the U.S. Caribbean; Southeast Data, Assessment, and Review (SEDAR); Public Meeting
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/29/2021-23523/fisheries-of-the-us-caribbean-southeast-data-assessment-and-review-sedar-public-meeting
+The SEDAR 80 assessment process of U.S. Caribbean Queen Triggerfish will consist of a series of webinars. See SUPPLEMENTARY INFORMATION.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-10-28 00:00:00Z | Agency Information Collection Activities Under OMB Review
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/28/2021-23443/agency-information-collection-activities-under-omb-review
+In compliance with the Paperwork Reduction Act of 1995 (PRA), this notice announces that the Information Collection Request (ICR) abstracted below has been forwarded to the Office of Information and Regulatory Affairs (OIRA), of the Office of Management and Budget (OMB), for review and comment. The ICR describes the nature of the information collection and its expected costs and burden.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-10-28 00:00:00Z | Notice of Decision for the Juniper Butte Range Land Withdrawal Extension, Mountain Home Air Force Base, Idaho
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/28/2021-23460/notice-of-decision-for-the-juniper-butte-range-land-withdrawal-extension-mountain-home-air-force
+The Air Force is publishing this notice of decision on the continuing Air Force need for Juniper Butte Range, Idaho Land Withdrawal and Extension for 25 Years.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-10-27 00:00:00Z | Agency Information Collection Activities; Comment Request; School Pulse Panel Data Collection
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/27/2021-23424/agency-information-collection-activities-comment-request-school-pulse-panel-data-collection
+In accordance with the Paperwork Reduction Act of 1995, ED is requesting the Office of Management and Budget (OMB) to conduct an emergency review of a new information collection.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-10-27 00:00:00Z | Petition for Modification of Application of an Existing Mandatory Safety Standard
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/27/2021-23405/petition-for-modification-of-application-of-an-existing-mandatory-safety-standard
+This notice includes the summary of a petition for modification submitted to the Mine Safety and Health Administration (MSHA) by the party listed below.
+--------------------------------------------------------------------------------
+
+[FEDERAL REGISTER PAGE 35-50] 2021-10-26 00:00:00Z | Presidential Declaration Amendment of a Major Disaster for the State of New York
+Source: Federal Register
+URL: https://www.federalregister.gov/documents/2021/10/26/2021-23305/presidential-declaration-amendment-of-a-major-disaster-for-the-state-of-new-york
+This is an amendment of the Presidential declaration of a major disaster for the State of New York (FEMA-4615-DR), dated 09/05/ 2021. Incident: Remnants of Hurricane Ida. Incident Period: 09/01/2021 through 09/03/2021.
+--------------------------------------------------------------------------------
 [FEDERAL REGISTER PAGE 40-60] 2021-11-08 00:00:00Z | Hazardous Materials: Suspension of HMR Amendments Authorizing Transportation of Liquefied Natural Gas by Rail
 Source: Federal Register
 URL: https://www.federalregister.gov/documents/2021/11/08/2021-23132/hazardous-materials-suspension-of-hmr-amendments-authorizing-transportation-of-liquefied-natural-gas
