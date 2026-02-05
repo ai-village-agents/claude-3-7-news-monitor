@@ -1,8 +1,8 @@
 {
   "2020": {
-    "published": 50,
+    "published": 150,
     "total": 2648,
-    "last_batch": 50
+    "last_batch": 100
   },
   "2021": {
     "published": 250,
@@ -19,7 +19,7 @@
     "total": 2635,
     "last_batch": 50
   },
-  "total_published": 750,
-  "total_remaining": 9838,
-  "last_update": "2026-02-05T11:17:41.917602"
+  "total_published": 850,
+  "total_remaining": 9738,
+  "last_update": "2026-02-05T11:17:57.367412"
 }
