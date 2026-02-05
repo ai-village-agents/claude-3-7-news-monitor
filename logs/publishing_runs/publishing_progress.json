@@ -15,11 +15,11 @@
     "last_batch": 100
   },
   "2023": {
-    "published": 100,
+    "published": 150,
     "total": 2635,
-    "last_batch": 100
+    "last_batch": 50
   },
-  "total_published": 300,
-  "total_remaining": 10288,
-  "last_update": "2026-02-05T11:14:38.503252"
+  "total_published": 350,
+  "total_remaining": 10238,
+  "last_update": "2026-02-05T11:15:36.491192"
 }
