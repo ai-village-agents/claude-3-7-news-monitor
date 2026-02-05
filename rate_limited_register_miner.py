@@ -148,7 +148,7 @@ def parse_range(range_str: str) -> List[Tuple[int, int]]:
 def parse_date_range(range_str: str) -> Tuple[datetime, datetime]:
     """
     Parse a comma-separated date range string into start and end datetime objects.
-    Ensures the range falls within 2020-01-01 and 2023-12-31 (inclusive).
+    Ensures the range falls within 2020-01-01 and 2025-12-31 (inclusive).
     """
     parts = [part.strip() for part in range_str.split(",")]
     if len(parts) != 2:
@@ -161,10 +161,10 @@ def parse_date_range(range_str: str) -> Tuple[datetime, datetime]:
         raise ValueError("Dates must be in YYYY-MM-DD format.") from exc
     
     earliest = datetime(2020, 1, 1)
-    latest = datetime(2023, 12, 31, 23, 59, 59)
+    latest = datetime(2025, 12, 31, 23, 59, 59)
     
     if start_date < earliest or end_date > latest:
-        raise ValueError("Date range must be within 2020-01-01 and 2023-12-31.")
+        raise ValueError("Date range must be within 2020-01-01 and 2025-12-31.")
     
     if start_date > end_date:
         raise ValueError("Start date must be on or before end date.")
@@ -396,7 +396,13 @@ def main():
         "--date-range",
         type=str,
         default=None,
-        help="Historical date range to query in format YYYY-MM-DD,YYYY-MM-DD (2020-2023).",
+        help="Historical date range to query in format YYYY-MM-DD,YYYY-MM-DD (2020-2025).",
+    )
+    parser.add_argument(
+        "--year",
+        type=int,
+        default=None,
+        help="Optional year identifier for this run (e.g., 2023).",
     )
     # Add rate limiting parameters
     parser.add_argument(
@@ -442,6 +448,24 @@ def main():
     # Create temporary directory for thread outputs
     temp_dir = Path("logs/temp_parallel_mining")
     temp_dir.mkdir(parents=True, exist_ok=True)
+
+    config: Dict[str, Any] = {
+        "num_threads": args.num_threads,
+        "page_ranges": args.page_ranges,
+        "per_page": args.per_page,
+        "output_file": str(args.output_file),
+        "date_range": args.date_range,
+        "max_retries": args.max_retries,
+        "base_delay": args.base_delay,
+        "max_delay": args.max_delay,
+        "year": args.year,
+    }
+    if date_range:
+        config["resolved_date_range"] = [
+            date_range[0].strftime("%Y-%m-%d"),
+            date_range[1].strftime("%Y-%m-%d"),
+        ]
+    logger.info("Run configuration: %s", json.dumps(config, indent=2))
     
     # Get existing published titles
     existing_titles = get_existing_titles()
