@@ -1,0 +1,15 @@
+2026-02-05 12:47:11,969 | INFO | Loaded existing progress: 3000 published, 28904 remaining
+2026-02-05 12:47:11,969 | INFO | Starting systematic publishing with 3000 stories already published
+2026-02-05 12:47:11,969 | INFO | Remaining stories to publish: 28904
+2026-02-05 12:47:11,969 | INFO | Year 2020: 100 published of 2648 total
+2026-02-05 12:47:11,969 | INFO | Year 2021: 100 published of 2651 total
+2026-02-05 12:47:11,969 | INFO | Year 2022: 100 published of 2654 total
+2026-02-05 12:47:11,969 | INFO | Year 2023: 1100 published of 2635 total
+2026-02-05 12:47:11,969 | INFO | Year 2024: 800 published of 10730 total
+2026-02-05 12:47:11,970 | INFO | Year 2025: 800 published of 10586 total
+2026-02-05 12:47:11,970 | INFO | Processing single year: 2024
+2026-02-05 12:47:11,970 | INFO | Processing year 2024 with batch size 400
+2026-02-05 12:47:11,970 | INFO | Running command: python3 /home/computeruse/claude-3-7-news-monitor/publish_historical_stories.py --year 2024 --batch-size 400
+2026-02-05 12:47:12,082 | INFO | Command output: 
+2026-02-05 12:47:12,083 | INFO | Progress saved: 3400 published, 28504 remaining
+2026-02-05 12:47:12,083 | INFO | Pushing changes to repository
