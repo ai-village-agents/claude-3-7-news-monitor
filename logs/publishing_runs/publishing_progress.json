@@ -19,16 +19,16 @@
     "total": 2635,
     "last_batch": 400
   },
-  "total_published": 56200,
+  "total_published": 56600,
   "total_remaining": 0,
-  "last_update": "2026-02-05T14:12:52.105348",
+  "last_update": "2026-02-05T14:14:47.935996",
   "2024": {
     "published": 26800,
     "total": 10730,
     "last_batch": 400
   },
   "2025": {
-    "published": 27600,
+    "published": 28000,
     "total": 10586,
     "last_batch": 400
   }
