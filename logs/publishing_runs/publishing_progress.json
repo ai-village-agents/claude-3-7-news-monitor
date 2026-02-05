@@ -1,25 +1,25 @@
 {
   "2020": {
-    "published": 150,
+    "published": 100,
     "total": 2648,
     "last_batch": 100
   },
   "2021": {
-    "published": 250,
+    "published": 100,
     "total": 2651,
     "last_batch": 100
   },
   "2022": {
-    "published": 200,
+    "published": 100,
     "total": 2654,
-    "last_batch": 50
+    "last_batch": 100
   },
   "2023": {
-    "published": 250,
+    "published": 200,
     "total": 2635,
-    "last_batch": 50
+    "last_batch": 100
   },
-  "total_published": 850,
-  "total_remaining": 9738,
-  "last_update": "2026-02-05T11:17:57.367412"
+  "total_published": 500,
+  "total_remaining": 10088,
+  "last_update": "2026-02-05T11:18:55.448473"
 }
